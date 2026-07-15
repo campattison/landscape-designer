@@ -126,6 +126,7 @@ LD.Tools = (function () {
       return;
     }
     if (e.key === 'Escape') {
+      if (cropping || aligning) setGestureShield(false);
       cropping = false; cropA = null; aligning = false; alignA = null;
       cancelDraft(); M().select(null); V().clearHandles(); V().render();
       return;
@@ -472,19 +473,35 @@ LD.Tools = (function () {
   }
 
   // ------------------------------------------------------------ crop image
+  /* Crop/align gestures must own the pointer completely — otherwise a drag
+     that starts on a draggable object becomes an accidental object move. */
+  function setGestureShield(on) {
+    V().contentLayer.listening(!on);
+  }
+
   T.startCrop = function () {
     if (!requireImage()) return;
     cropping = true; cropA = null;
+    setGestureShield(true);
     stage().container().style.cursor = 'crosshair';
-    LD.UI.toast('Drag a rectangle over the area to KEEP — the image crops to it (⌘Z undoes). Esc cancels.', 7000);
+    LD.UI.toast('Drag a rectangle over the area to KEEP — it follows your page orientation (⌘Z undoes). Esc cancels.', 7000);
   };
+
+  // rotated-frame helpers: r = A·w rotates world into the screen-aligned frame
+  function toRot(w, th) { return { x: w.x * Math.cos(th) - w.y * Math.sin(th), y: w.x * Math.sin(th) + w.y * Math.cos(th) }; }
+  function fromRot(r, th) { return toRot(r, -th); }
 
   function cropPreview(w) {
     clearPreview();
-    const x = Math.min(cropA.x, w.x), y = Math.min(cropA.y, w.y);
-    const wd = Math.abs(w.x - cropA.x), ht = Math.abs(w.y - cropA.y);
+    const R = M().project.viewRotationDeg || 0;
+    const th = R * Math.PI / 180;
+    const ra = toRot(cropA, th), rb = toRot(w, th);
+    const rx0 = Math.min(ra.x, rb.x), ry0 = Math.min(ra.y, rb.y);
+    const c0 = fromRot({ x: rx0, y: ry0 }, th);
     previewNode(new Konva.Rect({
-      x, y, width: wd, height: ht,
+      x: c0.x, y: c0.y,
+      width: Math.abs(rb.x - ra.x), height: Math.abs(rb.y - ra.y),
+      rotation: -R, // node counter-rotation → rect reads screen-aligned
       stroke: '#e8710a', strokeWidth: 2, strokeScaleEnabled: false, dash: [8, 4],
       fill: 'rgba(232,113,10,0.08)'
     }));
@@ -493,54 +510,89 @@ LD.Tools = (function () {
   async function cropUp(w) {
     const a = cropA;
     cropping = false; cropA = null;
+    setGestureShield(false);
     clearPreview();
     stage().container().style.cursor = T.current === 'select' ? 'default' : 'crosshair';
     const img = M().project.image;
     const fpp = img.ftPerPx || 1;
-    // rect in ft, clamped to the image
-    let x0 = Math.max(0, Math.min(a.x, w.x)), y0 = Math.max(0, Math.min(a.y, w.y));
-    let x1 = Math.min(LD.Model.imageWidthFt(), Math.max(a.x, w.x));
-    let y1 = Math.min(LD.Model.imageHeightFt(), Math.max(a.y, w.y));
-    if (x1 - x0 < 10 * fpp || y1 - y0 < 10 * fpp) { LD.UI.toast('Crop area too small — nothing changed.'); return; }
-    // to whole image pixels
-    const px0 = Math.round(x0 / fpp), py0 = Math.round(y0 / fpp);
-    const px1 = Math.round(x1 / fpp), py1 = Math.round(y1 / fpp);
+    const R = M().project.viewRotationDeg || 0;
 
     const el = new Image();
     el.src = img.dataURL;
     if (!el.complete) await new Promise((res, rej) => { el.onload = res; el.onerror = rej; });
-    const c = document.createElement('canvas');
-    c.width = px1 - px0; c.height = py1 - py0;
-    c.getContext('2d').drawImage(el, -px0, -py0);
 
-    M().begin(true); // image travels with the undo snapshot
-    img.dataURL = c.toDataURL('image/jpeg', 0.92);
-    img.widthPx = c.width; img.heightPx = c.height;
-    if (img.originGlobalPx) {
-      img.originGlobalPx = { x: img.originGlobalPx.x + px0, y: img.originGlobalPx.y + py0 };
-      const nw = LD.Imagery.globalPxToLatLon(img.originGlobalPx.x, img.originGlobalPx.y, img.zoom);
-      const se = LD.Imagery.globalPxToLatLon(img.originGlobalPx.x + img.widthPx, img.originGlobalPx.y + img.heightPx, img.zoom);
-      img.bbox = { south: se.lat, west: nw.lon, north: nw.lat, east: se.lon };
+    if (Math.abs(R) < 0.5) {
+      // ---- axis-aligned crop: keeps geo metadata (Expand / footprints live on)
+      let x0 = Math.max(0, Math.min(a.x, w.x)), y0 = Math.max(0, Math.min(a.y, w.y));
+      let x1 = Math.min(LD.Model.imageWidthFt(), Math.max(a.x, w.x));
+      let y1 = Math.min(LD.Model.imageHeightFt(), Math.max(a.y, w.y));
+      if (x1 - x0 < 10 * fpp || y1 - y0 < 10 * fpp) { LD.UI.toast('Crop area too small — nothing changed.'); return; }
+      const px0 = Math.round(x0 / fpp), py0 = Math.round(y0 / fpp);
+      const px1 = Math.round(x1 / fpp), py1 = Math.round(y1 / fpp);
+      const c = document.createElement('canvas');
+      c.width = px1 - px0; c.height = py1 - py0;
+      c.getContext('2d').drawImage(el, -px0, -py0);
+
+      M().begin(true); // image travels with the undo snapshot
+      img.dataURL = c.toDataURL('image/jpeg', 0.92);
+      img.widthPx = c.width; img.heightPx = c.height;
+      if (img.originGlobalPx) {
+        img.originGlobalPx = { x: img.originGlobalPx.x + px0, y: img.originGlobalPx.y + py0 };
+        const nw = LD.Imagery.globalPxToLatLon(img.originGlobalPx.x, img.originGlobalPx.y, img.zoom);
+        const se = LD.Imagery.globalPxToLatLon(img.originGlobalPx.x + img.widthPx, img.originGlobalPx.y + img.heightPx, img.zoom);
+        img.bbox = { south: se.lat, west: nw.lon, north: nw.lat, east: se.lon };
+      }
+      M().translateAll(-px0 * fpp, -py0 * fpp);
+      M().commit('crop image');
+      LD.UI.toast(`Cropped to ${LD.geom.fmtFeet((px1 - px0) * fpp)} × ${LD.geom.fmtFeet((py1 - py0) * fpp)} — drawings kept their positions.`, 5000);
+    } else {
+      // ---- rotated crop: the rect follows the work-page orientation and that
+      // orientation is BAKED into the image (resampled) and all geometry.
+      const th = R * Math.PI / 180;
+      const ra = toRot(a, th), rb = toRot(w, th);
+      const rx0 = Math.min(ra.x, rb.x), ry0 = Math.min(ra.y, rb.y);
+      const wFt = Math.abs(rb.x - ra.x), hFt = Math.abs(rb.y - ra.y);
+      if (wFt < 10 * fpp || hFt < 10 * fpp) { LD.UI.toast('Crop area too small — nothing changed.'); return; }
+      const c = document.createElement('canvas');
+      c.width = Math.round(wFt / fpp); c.height = Math.round(hFt / fpp);
+      const ctx = c.getContext('2d');
+      // canvasPx = A·(imagePx) − r0/fpp
+      ctx.translate(-rx0 / fpp, -ry0 / fpp);
+      ctx.rotate(th);
+      ctx.drawImage(el, 0, 0);
+
+      M().begin(true);
+      img.dataURL = c.toDataURL('image/jpeg', 0.92);
+      img.widthPx = c.width; img.heightPx = c.height;
+      // rotation is no longer just a view — geo metadata can't survive it
+      delete img.originGlobalPx; delete img.bbox;
+      M().transformAll((x, y) => {
+        const r = toRot({ x, y }, th);
+        return { x: r.x - rx0, y: r.y - ry0 };
+      });
+      M().project.northDeg = (M().project.northDeg || 0) + R;
+      M().project.viewRotationDeg = 0;
+      M().commit('crop image (rotated)');
+      LD.UI.toast(`Cropped to ${LD.geom.fmtFeet(wFt)} × ${LD.geom.fmtFeet(hFt)} in your page orientation. Note: Expand map / footprints are disabled once rotation is baked in.`, 7000);
     }
-    M().translateAll(-px0 * fpp, -py0 * fpp);
-    M().commit('crop image');
     T.invalidateWand();
     V().render(); V().zoomToFit(); LD.UI.refresh();
-    LD.UI.toast(`Cropped to ${LD.geom.fmtFeet((px1 - px0) * fpp)} × ${LD.geom.fmtFeet((py1 - py0) * fpp)} — drawings kept their positions.`, 5000);
   }
 
   // -------------------------------------------------- align (level the view)
   T.startAlign = function () {
     if (!requireImage()) return;
     aligning = true; alignA = null;
+    setGestureShield(true);
     stage().container().style.cursor = 'crosshair';
     LD.UI.toast('Drag a line along an edge that should read horizontal (e.g., the front of the house).', 6000);
   };
 
   function alignUp(w) {
-    if (!alignA) { aligning = false; return; }
+    if (!alignA) { aligning = false; setGestureShield(false); return; }
     const a = alignA;
     aligning = false; alignA = null;
+    setGestureShield(false);
     clearPreview();
     if (G.dist(a, w) < 2 / V().zoom()) return; // too short to mean anything
     const theta = Math.atan2(w.y - a.y, w.x - a.x) * 180 / Math.PI;

@@ -146,18 +146,32 @@ LD.Model = (function () {
     img.calibrated = true;
   };
 
+  // Apply an arbitrary point transform to every piece of geometry.
+  M.transformAll = function (fn) {
+    const ap = p => { const q = fn(p.x, p.y); p.x = q.x; p.y = q.y; };
+    M.project.features.forEach(f => f.pts.forEach(ap));
+    M.project.hardscape.forEach(h => h.pts.forEach(ap));
+    M.project.beds.forEach(b => b.pts.forEach(ap));
+    M.project.groundcovers.forEach(g => g.pts.forEach(ap));
+    M.project.plants.forEach(ap);
+    M.project.labels.forEach(l => {
+      ap(l);
+      const q = fn(l.anchorX, l.anchorY); l.anchorX = q.x; l.anchorY = q.y;
+    });
+    M.project.dimensions.forEach(d => {
+      const a = fn(d.ax, d.ay), b = fn(d.bx, d.by);
+      d.ax = a.x; d.ay = a.y; d.bx = b.x; d.by = b.y;
+    });
+    if (M.project.northX != null) {
+      const q = fn(M.project.northX, M.project.northY);
+      M.project.northX = q.x; M.project.northY = q.y;
+    }
+  };
+
   // Shift every piece of geometry (used when the base image grows and its
   // origin moves — e.g., "Expand map" adds a tile ring on all sides).
   M.translateAll = function (dxFt, dyFt) {
-    const mv = pts => pts.forEach(p => { p.x += dxFt; p.y += dyFt; });
-    M.project.features.forEach(f => mv(f.pts));
-    M.project.hardscape.forEach(h => mv(h.pts));
-    M.project.beds.forEach(b => mv(b.pts));
-    M.project.groundcovers.forEach(g => mv(g.pts));
-    M.project.plants.forEach(p => { p.x += dxFt; p.y += dyFt; });
-    M.project.labels.forEach(l => { l.x += dxFt; l.y += dyFt; l.anchorX += dxFt; l.anchorY += dyFt; });
-    M.project.dimensions.forEach(d => { d.ax += dxFt; d.ay += dyFt; d.bx += dxFt; d.by += dyFt; });
-    if (M.project.northX != null) { M.project.northX += dxFt; M.project.northY += dyFt; }
+    M.transformAll((x, y) => ({ x: x + dxFt, y: y + dyFt }));
   };
 
   M.imageWidthFt = function ()  { const i = M.project.image; return i ? i.widthPx  * i.ftPerPx : 0; };

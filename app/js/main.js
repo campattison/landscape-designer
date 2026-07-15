@@ -27,6 +27,14 @@
 
   LD.Model.onChange(kind => {
     if (kind === 'load') { LD.View.render(); LD.UI.refresh(); }
+    if (kind === 'undo' || kind === 'redo') {
+      // undo can change viewRotationDeg (rotated crop) — resync the layers
+      const want = LD.Model.project.viewRotationDeg || 0;
+      if (Math.abs(LD.View.rotationDeg() - want) > 0.01) {
+        LD.View.setRotation(want);
+        LD.View.zoomToFit();
+      }
+    }
   });
 
   LD.View.onViewChanged = () => LD.UI.updateStatus(null);
