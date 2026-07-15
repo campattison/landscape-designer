@@ -1,0 +1,585 @@
+{
+  "acer-rubrum": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Acer_rubrum_15-p.bot-a.rubrum-114.jpg/330px-Acer_rubrum_15-p.bot-a.rubrum-114.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Acer_rubrum"
+  },
+  "quercus-phellos": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tree_in_Mississippi.jpg/330px-Tree_in_Mississippi.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Quercus_phellos"
+  },
+  "liriodendron-tulipifera": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liriodendron_tulipifera_%28arbre%29_-_Laeken.JPG/330px-Liriodendron_tulipifera_%28arbre%29_-_Laeken.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Liriodendron_tulipifera"
+  },
+  "taxodium-distichum": {
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Taxodium_distichum_NRCSMS01010.jpg/330px-Taxodium_distichum_NRCSMS01010.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Taxodium_distichum"
+  },
+  "acer-saccharum": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Acer_saccharum_1-jgreenlee_%285098070608%29.jpg/330px-Acer_saccharum_1-jgreenlee_%285098070608%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Acer_saccharum"
+  },
+  "quercus-alba": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Keeler_Oak_Tree_-_distance_photo%2C_May_2013.jpg/330px-Keeler_Oak_Tree_-_distance_photo%2C_May_2013.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Quercus_alba"
+  },
+  "quercus-rubra": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quercus_rubra_%40_Tortworth_Court.jpg/330px-Quercus_rubra_%40_Tortworth_Court.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Quercus_rubra"
+  },
+  "betula-nigra": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RiverBirchBark01.JPG/330px-RiverBirchBark01.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Betula_nigra"
+  },
+  "liquidambar-styraciflua": {
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014-11-02_13_06_29_Sweet_Gum_during_autumn_along_Lower_Ferry_Road_in_Ewing%2C_New_Jersey.JPG/330px-2014-11-02_13_06_29_Sweet_Gum_during_autumn_along_Lower_Ferry_Road_in_Ewing%2C_New_Jersey.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Liquidambar_styraciflua"
+  },
+  "ginkgo-biloba": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GINKGOBAUM-2.jpg/330px-GINKGOBAUM-2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ginkgo_biloba"
+  },
+  "quercus-shumardii": {
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/EncinoRojo.jpg/330px-EncinoRojo.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Quercus_shumardii"
+  },
+  "quercus-palustris": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pin_oak_quercus_palustris.jpg/330px-Pin_oak_quercus_palustris.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Quercus_palustris"
+  },
+  "nyssa-sylvatica": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nyssa_sylvatica_v_sylvatica.jpg/330px-Nyssa_sylvatica_v_sylvatica.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Nyssa_sylvatica"
+  },
+  "platanus-occidentalis": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Buttonball_Sycamore_in_Sunderland%2C_MA_%28March_2019%29.jpg/330px-Buttonball_Sycamore_in_Sunderland%2C_MA_%28March_2019%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Platanus_occidentalis"
+  },
+  "ulmus-americana": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/American_Elm_Tree%2C_Old_South_Street%2C_Northampton%2C_MA_-_October_2019.jpg/330px-American_Elm_Tree%2C_Old_South_Street%2C_Northampton%2C_MA_-_October_2019.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ulmus_americana"
+  },
+  "cornus-florida": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cornus_florida_Arkansas.jpg/330px-Cornus_florida_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cornus_florida"
+  },
+  "cercis-canadensis": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RedbudOhio02.jpg/330px-RedbudOhio02.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cercis_canadensis"
+  },
+  "lagerstroemia-indica": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Extremosa_%28Lagerstroemia_indica%29_em_um_fim_de_tarde_em_Bag%C3%A9-RS_-_55013179934.jpg/330px-Extremosa_%28Lagerstroemia_indica%29_em_um_fim_de_tarde_em_Bag%C3%A9-RS_-_55013179934.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lagerstroemia_indica"
+  },
+  "amelanchier-arborea": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Amelanchier_arborea_leaves.JPG/330px-Amelanchier_arborea_leaves.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Amelanchier_arborea"
+  },
+  "acer-palmatum": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Acer_palmatum0.jpg/330px-Acer_palmatum0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Acer_palmatum"
+  },
+  "cornus-kousa": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cornus_kousa_img_2066.jpg/330px-Cornus_kousa_img_2066.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cornus_kousa"
+  },
+  "magnolia-stellata": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Magnolia_stellata_fleurs.jpg/330px-Magnolia_stellata_fleurs.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Magnolia_stellata"
+  },
+  "magnolia-x-soulangeana": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Magnolia_x_soulangeana_%28Jean_Tosti%29.jpg/330px-Magnolia_x_soulangeana_%28Jean_Tosti%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Magnolia_%C3%97_soulangeana"
+  },
+  "chionanthus-virginicus": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chionanthus_virginicus_Arkansas.jpg/330px-Chionanthus_virginicus_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Chionanthus_virginicus"
+  },
+  "prunus-x-yedoensis": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2020-04-07_Prunus_%C3%97_yedoensis_Tambasasayama%2CHyogo%28%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E7%AF%A0%E5%B1%B1%E5%B7%9D%E3%81%AE%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A8%E3%82%B7%E3%83%8E%29DSCF2986%E2%98%86%E5%BD%A1.jpg/330px-2020-04-07_Prunus_%C3%97_yedoensis_Tambasasayama%2CHyogo%28%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E7%AF%A0%E5%B1%B1%E5%B7%9D%E3%81%AE%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A8%E3%82%B7%E3%83%8E%29DSCF2986%E2%98%86%E5%BD%A1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Prunus_%C3%97_yedoensis"
+  },
+  "styrax-japonicus": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Styrax_japonicus_01.JPG/330px-Styrax_japonicus_01.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Styrax_japonicus"
+  },
+  "magnolia-grandiflora": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Magn%C3%B2lia_a_Verbania.JPG/330px-Magn%C3%B2lia_a_Verbania.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Magnolia_grandiflora"
+  },
+  "juniperus-virginiana": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding%2C_Virginia.JPG/330px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding%2C_Virginia.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Juniperus_virginiana"
+  },
+  "thuja-green-giant": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thuja_standishii.jpg/330px-Thuja_standishii.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Thuja"
+  },
+  "ilex-opaca": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ilex_opaca_USDA.jpg/330px-Ilex_opaca_USDA.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_opaca"
+  },
+  "pinus-strobus": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pinus_strobus_trees.jpg/330px-Pinus_strobus_trees.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Pinus_strobus"
+  },
+  "ilex-nellie-r-stevens": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilex-aquifolium_%28Europaeische_Stechpalme-1%29.jpg/330px-Ilex-aquifolium_%28Europaeische_Stechpalme-1%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Holly"
+  },
+  "cryptomeria-japonica": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cryptomeria_japonica_SZ124.png/330px-Cryptomeria_japonica_SZ124.png",
+    "imagePage": "https://en.wikipedia.org/wiki/Cryptomeria"
+  },
+  "pinus-taeda": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Loblolly_Pines_South_Mississippi.JPG/330px-Loblolly_Pines_South_Mississippi.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Pinus_taeda"
+  },
+  "hydrangea-macrophylla": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%28Natural%29_Hydrangea_macrophylla%2C_Iwafune%2C_Isumi%2C_Chiba%2C_Japan_2.jpg/330px-%28Natural%29_Hydrangea_macrophylla%2C_Iwafune%2C_Isumi%2C_Chiba%2C_Japan_2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hydrangea_macrophylla"
+  },
+  "hydrangea-quercifolia": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hydrangea_quercifolia_BhamBotGdn.jpg/330px-Hydrangea_quercifolia_BhamBotGdn.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hydrangea_quercifolia"
+  },
+  "hydrangea-paniculata": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hydrangea_paniculata_IMG_6629.JPG/330px-Hydrangea_paniculata_IMG_6629.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Hydrangea_paniculata"
+  },
+  "hydrangea-arborescens": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hydrangea_arborescens_001.JPG/330px-Hydrangea_arborescens_001.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Hydrangea_arborescens"
+  },
+  "itea-virginica": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Itea_virginica_flowers_001.JPG/330px-Itea_virginica_flowers_001.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Itea_virginica"
+  },
+  "fothergilla-gardenii": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fothergilla_gardenii_Flowers_and_Foliage.jpg/330px-Fothergilla_gardenii_Flowers_and_Foliage.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Fothergilla_gardenii"
+  },
+  "viburnum-plicatum": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Virburnum_plicatum1.jpg/330px-Virburnum_plicatum1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_plicatum"
+  },
+  "viburnum-dentatum": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Viburnum_dentatum_flowers.jpg/330px-Viburnum_dentatum_flowers.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_dentatum"
+  },
+  "spiraea-japonica": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Spiraea_japonica_25-06-2010_13-58-09.JPG/330px-Spiraea_japonica_25-06-2010_13-58-09.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Spiraea_japonica"
+  },
+  "physocarpus-opulifolius": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Physocarpus_opulifolius_Arkansas.jpg/330px-Physocarpus_opulifolius_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Physocarpus_opulifolius"
+  },
+  "callicarpa-americana": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Callicarpa_americana_infructescence.jpg/330px-Callicarpa_americana_infructescence.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Callicarpa_americana"
+  },
+  "clethra-alnifolia": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Clethra-alnifolia-flowers.JPG/330px-Clethra-alnifolia-flowers.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Clethra_alnifolia"
+  },
+  "ilex-verticillata": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ilex_verticillata_fruits_and_foliage_1.JPG/330px-Ilex_verticillata_fruits_and_foliage_1.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_verticillata"
+  },
+  "forsythia-x-intermedia": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Forsythia_intermedia_a1.jpg/330px-Forsythia_intermedia_a1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Forsythia_%C3%97_intermedia"
+  },
+  "weigela-florida": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dipsacales_-_Weigela_florida_-_1.jpg/330px-Dipsacales_-_Weigela_florida_-_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Weigela_florida"
+  },
+  "buxus-sempervirens": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Buxus_sempervirens.jpg/330px-Buxus_sempervirens.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Buxus_sempervirens"
+  },
+  "ilex-glabra": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ilex_glabra_251258583.jpg/330px-Ilex_glabra_251258583.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_glabra"
+  },
+  "prunus-laurocerasus": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Karayemi%C5%9F-8.jpg/330px-Karayemi%C5%9F-8.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Prunus_laurocerasus"
+  },
+  "distylium-racemosum": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Distylium_racemosum5.jpg/330px-Distylium_racemosum5.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Distylium_racemosum"
+  },
+  "camellia-japonica": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Camellia_japonica_NBG.jpg/330px-Camellia_japonica_NBG.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Camellia_japonica"
+  },
+  "camellia-sasanqua": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sasanqua_Camellia_%284508266376%29.jpg/330px-Sasanqua_Camellia_%284508266376%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Camellia_sasanqua"
+  },
+  "ilex-crenata": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ilex_Crenata5.jpg/330px-Ilex_Crenata5.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_crenata"
+  },
+  "ilex-vomitoria": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ilex_vomitoria.jpg/330px-Ilex_vomitoria.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_vomitoria"
+  },
+  "gardenia-jasminoides": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gardenia_jasminoides_flower_Argentina.jpg/330px-Gardenia_jasminoides_flower_Argentina.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Gardenia_jasminoides"
+  },
+  "loropetalum-chinense": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Loropetalum-chinensis-rubrum.jpg/330px-Loropetalum-chinensis-rubrum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Loropetalum_chinense"
+  },
+  "kalmia-latifolia": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kalmia_Latifolia.jpg/330px-Kalmia_Latifolia.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Kalmia_latifolia"
+  },
+  "rhododendron-catawbiense": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rhododendron-catawbiense.jpg/330px-Rhododendron-catawbiense.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_catawbiense"
+  },
+  "echinacea-purpurea": {
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Echinacea_purpurea_Grandview_Prairie.jpg/330px-Echinacea_purpurea_Grandview_Prairie.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Echinacea_purpurea"
+  },
+  "rudbeckia-fulgida": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rudbeckia_fulgida.JPG/330px-Rudbeckia_fulgida.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Rudbeckia_fulgida"
+  },
+  "hemerocallis": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemerocallis_lilioasphodelus.jpg/330px-Hemerocallis_lilioasphodelus.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Daylily"
+  },
+  "hosta": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hosta_Bressingham_Blue.JPG/330px-Hosta_Bressingham_Blue.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Hosta"
+  },
+  "salvia-nemorosa": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Salvia_nemorosa-IMG_3624.jpg/330px-Salvia_nemorosa-IMG_3624.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Salvia_nemorosa"
+  },
+  "coreopsis-verticillata": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coreopsis_verticillata.jpg/330px-Coreopsis_verticillata.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Anacis_verticillata"
+  },
+  "leucanthemum-x-superbum": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leucanthemum_x_superbum_%27Becky%27_in_NH.jpg/330px-Leucanthemum_x_superbum_%27Becky%27_in_NH.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Leucanthemum_%C3%97_superbum"
+  },
+  "monarda-didyma": {
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Monarda_didyma_inflorescence_and_upper_cauline_leaves.jpg/330px-Monarda_didyma_inflorescence_and_upper_cauline_leaves.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Monarda_didyma"
+  },
+  "nepeta-x-faassenii": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nepeta_faassenii6.jpg/330px-Nepeta_faassenii6.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Nepeta_%C3%97_faassenii"
+  },
+  "hylotelephium-spectabile": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sedum_spectabile_-_blossom_top_%28aka%29.jpg/330px-Sedum_spectabile_-_blossom_top_%28aka%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hylotelephium_spectabile"
+  },
+  "muhlenbergia-capillaris": {
+    "nativeRegions": [
+      "southeast"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Muhlenbergia_capillaris_001.jpg/330px-Muhlenbergia_capillaris_001.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Muhlenbergia_capillaris"
+  },
+  "panicum-virgatum": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Panicum_virgatum.jpg/330px-Panicum_virgatum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Panicum_virgatum"
+  },
+  "schizachyrium-scoparium": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains",
+      "southwest",
+      "mountain-west"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Andropogon_scoparius.jpg/330px-Andropogon_scoparius.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Schizachyrium_scoparium"
+  },
+  "calamagrostis-x-acutiflora": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Calamagrostis_%C3%97_acutiflora_Overdam_2zz.jpg/330px-Calamagrostis_%C3%97_acutiflora_Overdam_2zz.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Calamagrostis_%C3%97_acutiflora"
+  },
+  "pennisetum-alopecuroides": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pennisetum_alopecuroides_-_Berlin_Botanical_Garden_-_IMG_8624.JPG/330px-Pennisetum_alopecuroides_-_Berlin_Botanical_Garden_-_IMG_8624.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Cenchrus_alopecuroides"
+  },
+  "miscanthus-sinensis": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Japanese_pampas_grass_%E3%82%B9%E3%82%B9%E3%82%AD%E3%81%AE%E7%A9%82%E6%B3%A2PB080105.jpg/330px-Japanese_pampas_grass_%E3%82%B9%E3%82%B9%E3%82%AD%E3%81%AE%E7%A9%82%E6%B3%A2PB080105.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Miscanthus_sinensis"
+  },
+  "phlox-subulata": {
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Shibazakura.JPG/330px-Shibazakura.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_subulata"
+  },
+  "pachysandra-terminalis": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pachysandra_terminalis0.jpg/330px-Pachysandra_terminalis0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Pachysandra_terminalis"
+  },
+  "ophiopogon-japonicus": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Japonska_ka%C4%8Dja_brada.jpg/330px-Japonska_ka%C4%8Dja_brada.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ophiopogon_japonicus"
+  },
+  "juniperus-horizontalis": {
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/JuniperBerry.jpg/330px-JuniperBerry.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Juniperus_horizontalis"
+  },
+  "liriope-muscari": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Liriope_muscari_4.JPG/330px-Liriope_muscari_4.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Liriope_muscari"
+  },
+  "ajuga-reptans": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ajuga_reptans_20070429_132711_1.jpg/330px-Ajuga_reptans_20070429_132711_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ajuga_reptans"
+  },
+  "vinca-minor": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vinca_minor_Nashville.jpg/330px-Vinca_minor_Nashville.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Vinca_minor"
+  },
+  "lysimachia-nummularia": {
+    "nativeRegions": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lysimachia_nummularia0.jpg/330px-Lysimachia_nummularia0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lysimachia_nummularia"
+  }
+}

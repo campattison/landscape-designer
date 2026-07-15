@@ -1,0 +1,2706 @@
+[
+  {
+    "id": "cornus-sericea",
+    "common": "Red-Osier Dogwood",
+    "botanical": "Cornus sericea",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      10
+    ],
+    "heightFt": 7,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west",
+      "pacific-northwest",
+      "california"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Red winter stems for cold-season color; spreads by suckers to form thickets",
+    "src": "https://plants.ces.ncsu.edu/plants/cornus-sericea/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Red_Osier_Dogwood.jpg/330px-Red_Osier_Dogwood.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cornus_sericea"
+  },
+  {
+    "id": "sambucus-canadensis",
+    "common": "American Elderberry",
+    "botanical": "Sambucus canadensis",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      6,
+      12
+    ],
+    "heightFt": 8,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Flat white flower clusters, edible dark berries for wildlife and preserves",
+    "src": "https://plants.ces.ncsu.edu/plants/sambucus-canadensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sambucus_nigra_subsp_canadensis_-_Indiana.jpg/330px-Sambucus_nigra_subsp_canadensis_-_Indiana.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sambucus_canadensis"
+  },
+  {
+    "id": "hamamelis-virginiana",
+    "common": "Common Witch Hazel",
+    "botanical": "Hamamelis virginiana",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 18,
+    "spreadRangeFt": [
+      15,
+      20
+    ],
+    "heightFt": 22,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "October–December, yellow",
+    "notes": "Fragrant late-fall yellow flowers; large multistem shrub or small tree",
+    "src": "https://plants.ces.ncsu.edu/plants/hamamelis-virginiana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hamamelis_virginiana_FlowersLeaves_BotGardBln0906.JPG/330px-Hamamelis_virginiana_FlowersLeaves_BotGardBln0906.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Hamamelis_virginiana"
+  },
+  {
+    "id": "vaccinium-corymbosum",
+    "common": "Highbush Blueberry",
+    "botanical": "Vaccinium corymbosum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Edible summer berries, red fall foliage; needs acidic soil",
+    "src": "https://plants.ces.ncsu.edu/plants/vaccinium-corymbosum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vaccinium_corymbosum%2801%29.jpg/330px-Vaccinium_corymbosum%2801%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Vaccinium_corymbosum"
+  },
+  {
+    "id": "vaccinium-angustifolium",
+    "common": "Lowbush Blueberry",
+    "botanical": "Vaccinium angustifolium",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      2,
+      6
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Low spreading groundcover-shrub; sweet wild blueberries, needs acidic soil",
+    "src": "https://plants.ces.ncsu.edu/plants/vaccinium-angustifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vaccinium_angustifolium%2C_Pancake_Bay_PP.jpg/330px-Vaccinium_angustifolium%2C_Pancake_Bay_PP.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Vaccinium_angustifolium"
+  },
+  {
+    "id": "viburnum-lentago",
+    "common": "Nannyberry",
+    "botanical": "Viburnum lentago",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      8,
+      10
+    ],
+    "heightFt": 16,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      2,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May, white",
+    "notes": "Large native viburnum with edible blue-black fruit; tolerates shade",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-lentago/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Viburnum_lentago_NRCS-006.jpg/330px-Viburnum_lentago_NRCS-006.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_lentago"
+  },
+  {
+    "id": "viburnum-opulus-var-americanum",
+    "common": "American Cranberrybush",
+    "botanical": "Viburnum opulus var. americanum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      8,
+      12
+    ],
+    "heightFt": 10,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      2,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Native highbush cranberry; edible red fruit and red fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-opulus-var-americanum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Highbush_Cranberry.jpg/330px-Highbush_Cranberry.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_trilobum"
+  },
+  {
+    "id": "comptonia-peregrina",
+    "common": "Sweetfern",
+    "botanical": "Comptonia peregrina",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      4,
+      8
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      2,
+      6
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "April–May, brown",
+    "notes": "Aromatic fern-like foliage; nitrogen fixer for poor dry sandy soils",
+    "src": "https://plants.ces.ncsu.edu/plants/comptonia-peregrina/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sweet-fern_%28Huron_Shores%29.JPG/330px-Sweet-fern_%28Huron_Shores%29.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Comptonia_peregrina"
+  },
+  {
+    "id": "spiraea-tomentosa",
+    "common": "Steeplebush",
+    "botanical": "Spiraea tomentosa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "July–September, pink",
+    "notes": "Upright rose-pink flower spires for wet meadows and pond edges",
+    "src": "https://plants.ces.ncsu.edu/plants/spiraea-tomentosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Spiraea_tomentosa_Arkansas.jpg/330px-Spiraea_tomentosa_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Spiraea_tomentosa"
+  },
+  {
+    "id": "spiraea-alba",
+    "common": "Meadowsweet",
+    "botanical": "Spiraea alba",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "June–August, white",
+    "notes": "White summer flower plumes; native alternative to Japanese spirea",
+    "src": "https://plants.ces.ncsu.edu/plants/spiraea-alba/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Spiraea.alba.-.lindsey.jpg/330px-Spiraea.alba.-.lindsey.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Spiraea_alba"
+  },
+  {
+    "id": "cephalanthus-occidentalis",
+    "common": "Buttonbush",
+    "botanical": "Cephalanthus occidentalis",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      6
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains",
+      "southwest",
+      "california"
+    ],
+    "bloom": "June–August, white",
+    "notes": "Spherical white pincushion flowers; excellent for rain gardens and pond margins",
+    "src": "https://plants.ces.ncsu.edu/plants/cephalanthus-occidentalis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cephalanthus_occidentalis_occidentalis1.jpg/330px-Cephalanthus_occidentalis_occidentalis1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cephalanthus_occidentalis"
+  },
+  {
+    "id": "lindera-benzoin",
+    "common": "Spicebush",
+    "botanical": "Lindera benzoin",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      6,
+      15
+    ],
+    "heightFt": 12,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "March–April, yellow",
+    "notes": "Aromatic understory shrub, host for spicebush swallowtail; golden fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/lindera-benzoin/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Spicebush_%284506720062%29.jpg/330px-Spicebush_%284506720062%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lindera_benzoin"
+  },
+  {
+    "id": "salix-discolor",
+    "common": "Pussy Willow",
+    "botanical": "Salix discolor",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      8,
+      12
+    ],
+    "heightFt": 15,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west",
+      "pacific-northwest"
+    ],
+    "bloom": "March–April, silver-gray",
+    "notes": "Fuzzy silver catkins in early spring; fast-growing for wet sites",
+    "src": "https://plants.ces.ncsu.edu/plants/salix-discolor/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Salix_discolor_%28USDA%29.jpg/330px-Salix_discolor_%28USDA%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Salix_discolor"
+  },
+  {
+    "id": "corylus-americana",
+    "common": "American Hazelnut",
+    "botanical": "Corylus americana",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      8,
+      13
+    ],
+    "heightFt": 10,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "March–April, yellow-brown",
+    "notes": "Edible nuts and showy catkins; suckering thicket-former for hedgerows",
+    "src": "https://plants.ces.ncsu.edu/plants/corylus-americana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Corylus_americana1.jpg/330px-Corylus_americana1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Corylus_americana"
+  },
+  {
+    "id": "aronia-arbutifolia",
+    "common": "Red Chokeberry",
+    "botanical": "Aronia arbutifolia",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Brilliant red fall color and persistent red berries; tolerates wet or dry",
+    "src": "https://plants.ces.ncsu.edu/plants/aronia-arbutifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Choke-Berries-IMG_2431_051013_121714.jpg/330px-Choke-Berries-IMG_2431_051013_121714.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Aronia_arbutifolia"
+  },
+  {
+    "id": "aronia-melanocarpa",
+    "common": "Black Chokeberry",
+    "botanical": "Aronia melanocarpa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      6
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "May, white",
+    "notes": "Glossy black fruit high in antioxidants; red-purple fall color, adaptable",
+    "src": "https://plants.ces.ncsu.edu/plants/aronia-melanocarpa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Aronia_melanocarpa_cv_Rubina_P1020524.JPG/330px-Aronia_melanocarpa_cv_Rubina_P1020524.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Aronia_melanocarpa"
+  },
+  {
+    "id": "ceanothus-americanus",
+    "common": "New Jersey Tea",
+    "botanical": "Ceanothus americanus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 2,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Compact white flower clusters; nitrogen fixer, very drought tolerant once established",
+    "src": "https://plants.ces.ncsu.edu/plants/ceanothus-americanus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ceanothus_americanus1.jpg/330px-Ceanothus_americanus1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Ceanothus_americanus"
+  },
+  {
+    "id": "dasiphora-fruticosa",
+    "common": "Shrubby Cinquefoil",
+    "botanical": "Dasiphora fruticosa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 3,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      2,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west",
+      "pacific-northwest",
+      "california"
+    ],
+    "bloom": "June–September, yellow",
+    "notes": "Long-blooming yellow flowers on a tough compact mound; very cold hardy",
+    "src": "https://plants.ces.ncsu.edu/plants/dasiphora-fruticosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dasiphora_fruticosa_5698.jpg/330px-Dasiphora_fruticosa_5698.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Dasiphora_fruticosa"
+  },
+  {
+    "id": "rhus-aromatica",
+    "common": "Fragrant Sumac",
+    "botanical": "Rhus aromatica",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 4,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "March–April, yellow",
+    "notes": "Aromatic foliage, brilliant red-orange fall color; low spreading bank cover",
+    "src": "https://plants.ces.ncsu.edu/plants/rhus-aromatica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rhus_aromatica_foliage_catkins.jpg/330px-Rhus_aromatica_foliage_catkins.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhus_aromatica"
+  },
+  {
+    "id": "rhus-typhina",
+    "common": "Staghorn Sumac",
+    "botanical": "Rhus typhina",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 16,
+    "spreadRangeFt": [
+      8,
+      25
+    ],
+    "heightFt": 16,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "June–July, greenish",
+    "notes": "Fuzzy antler-like stems, crimson fall color and red fruit clusters; suckers freely",
+    "src": "https://plants.ces.ncsu.edu/plants/rhus-typhina/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A1%D1%83%D0%BC%D0%B0%D1%85_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B3%D0%B8%D0%B9_%28%D0%A1%D1%83%D0%BC%D0%B0%D1%85_%D0%BF%D1%83%D1%88%D0%B8%D1%81%D1%82%D1%8B%D0%B9%2C_%D0%A3%D0%BA%D1%81%D1%83%D1%81%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%29_-_Rhus_typhina_-_Staghorn_sumac_-_%D0%92%D0%BB%D0%B0%D0%BA%D0%BD%D0%B5%D1%81%D1%82_%D1%88%D0%BC%D0%B0%D0%BA_-_Essigbaum_%2823408707041%29.jpg/330px-thumbnail.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhus_typhina"
+  },
+  {
+    "id": "prunus-virginiana",
+    "common": "Chokecherry",
+    "botanical": "Prunus virginiana",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 22,
+    "spreadRangeFt": [
+      18,
+      25
+    ],
+    "heightFt": 25,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      2,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west",
+      "pacific-northwest"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Fragrant white flower racemes and dark astringent fruit; suckering large shrub",
+    "src": "https://plants.ces.ncsu.edu/plants/prunus-virginiana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prunus_virginiana_flowers.jpg/330px-Prunus_virginiana_flowers.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Prunus_virginiana"
+  },
+  {
+    "id": "cornus-amomum",
+    "common": "Silky Dogwood",
+    "botanical": "Cornus amomum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      6,
+      12
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Blue fruit and reddish stems; native shrub dogwood for wet edges",
+    "src": "https://plants.ces.ncsu.edu/plants/cornus-amomum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cornus_amomum_flowers_01.JPG/330px-Cornus_amomum_flowers_01.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Cornus_amomum"
+  },
+  {
+    "id": "cornus-racemosa",
+    "common": "Gray Dogwood",
+    "botanical": "Cornus racemosa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      10,
+      15
+    ],
+    "heightFt": 18,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May–June, white",
+    "notes": "White fruit on red stalks; adaptable suckering shrub for naturalized hedgerows",
+    "src": "https://plants.ces.ncsu.edu/plants/cornus-racemosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Northern_Swamp_Dogwood_berries.jpg/330px-Northern_Swamp_Dogwood_berries.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cornus_racemosa"
+  },
+  {
+    "id": "viburnum-acerifolium",
+    "common": "Mapleleaf Viburnum",
+    "botanical": "Viburnum acerifolium",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      2,
+      6
+    ],
+    "heightFt": 5,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Shade-tolerant understory viburnum with pink-purple fall color; drought tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-acerifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Viburnum_acerifolium.jpg/330px-Viburnum_acerifolium.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_acerifolium"
+  },
+  {
+    "id": "viburnum-nudum",
+    "common": "Possumhaw Viburnum",
+    "botanical": "Viburnum nudum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      12
+    ],
+    "heightFt": 8,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Glossy foliage, pink-to-blue ripening fruit; excellent for moist sites",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-nudum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Viburnum_nudum_10zz.jpg/330px-Viburnum_nudum_10zz.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_nudum"
+  },
+  {
+    "id": "viburnum-prunifolium",
+    "common": "Blackhaw Viburnum",
+    "botanical": "Viburnum prunifolium",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      6,
+      15
+    ],
+    "heightFt": 14,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Adaptable large viburnum with edible blue-black fruit; can be limbed as small tree",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-prunifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Viburnum_prunifolium_USDA1.jpg/330px-Viburnum_prunifolium_USDA1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_prunifolium"
+  },
+  {
+    "id": "rubus-odoratus",
+    "common": "Flowering Raspberry",
+    "botanical": "Rubus odoratus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      4,
+      8
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "June–August, rose-purple",
+    "notes": "Thornless raspberry relative with fragrant rose flowers for shady slopes",
+    "src": "https://plants.ces.ncsu.edu/plants/rubus-odoratus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rubus-odoratus-flower.JPG/330px-Rubus-odoratus-flower.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Rubus_odoratus"
+  },
+  {
+    "id": "rhododendron-periclymenoides",
+    "common": "Pinxterbloom Azalea",
+    "botanical": "Rhododendron periclymenoides",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      4,
+      5
+    ],
+    "heightFt": 7,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "April–May, pink",
+    "notes": "Fragrant native deciduous azalea for woodland edges; blooms before leaf-out",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-periclymenoides/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rhododendron_periclymenoides%2C_Kentucky.jpg/330px-Rhododendron_periclymenoides%2C_Kentucky.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_periclymenoides"
+  },
+  {
+    "id": "rhododendron-viscosum",
+    "common": "Swamp Azalea",
+    "botanical": "Rhododendron viscosum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      3,
+      8
+    ],
+    "heightFt": 5,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Fragrant late white blooms; native deciduous azalea tolerant of wet soils",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-viscosum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Swamp_Azalea_Blooming.jpg/330px-Swamp_Azalea_Blooming.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_viscosum"
+  },
+  {
+    "id": "kalmia-angustifolia",
+    "common": "Sheep Laurel",
+    "botanical": "Kalmia angustifolia",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 2,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      2,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast"
+    ],
+    "bloom": "June, pink",
+    "notes": "Compact evergreen with rose-pink flowers; very cold hardy for acidic bogs (toxic foliage)",
+    "src": "https://plants.ces.ncsu.edu/plants/kalmia-angustifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kalmia_angustifolia_Rubra.jpg/330px-Kalmia_angustifolia_Rubra.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Kalmia_angustifolia"
+  },
+  {
+    "id": "rosa-carolina",
+    "common": "Carolina Rose",
+    "botanical": "Rosa carolina",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      1,
+      5
+    ],
+    "heightFt": 3,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May–June, pink",
+    "notes": "Single fragrant pink native rose with red hips; suckering low thicket",
+    "src": "https://plants.ces.ncsu.edu/plants/rosa-carolina/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pasture_Rose%2C_flowers_and_leaves.jpg/330px-Pasture_Rose%2C_flowers_and_leaves.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rosa_carolina"
+  },
+  {
+    "id": "morella-pensylvanica",
+    "common": "Northern Bayberry",
+    "botanical": "Morella pensylvanica",
+    "category": "shrub-deciduous",
+    "form": "semi-evergreen",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      10
+    ],
+    "heightFt": 7,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "April–May, inconspicuous",
+    "notes": "Aromatic semi-evergreen foliage, gray waxy berries; salt and poor-soil tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/morella-pensylvanica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Northern_Bayberry_Leaf_Cluster_2420px.jpg/330px-Northern_Bayberry_Leaf_Cluster_2420px.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Myrica_pensylvanica"
+  },
+  {
+    "id": "amelanchier-canadensis",
+    "common": "Shadblow Serviceberry",
+    "botanical": "Amelanchier canadensis",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 18,
+    "spreadRangeFt": [
+      15,
+      20
+    ],
+    "heightFt": 20,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "March–April, white",
+    "notes": "Multistem native serviceberry, edible June fruit and orange fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/amelanchier-canadensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Amelanchier_canadensis_flower.jpg/330px-Amelanchier_canadensis_flower.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Amelanchier_canadensis"
+  },
+  {
+    "id": "calycanthus-floridus",
+    "common": "Sweetshrub",
+    "botanical": "Calycanthus floridus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      6,
+      12
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–June, maroon",
+    "notes": "Strawberry-scented maroon flowers; adaptable native for shade or sun",
+    "src": "https://plants.ces.ncsu.edu/plants/calycanthus-floridus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%28MHNT%29_Calycanthus_floridus_-_Les_Martels%2C_Giroussens_Tarn.jpg/330px-%28MHNT%29_Calycanthus_floridus_-_Les_Martels%2C_Giroussens_Tarn.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Calycanthus_floridus"
+  },
+  {
+    "id": "illicium-floridanum",
+    "common": "Florida Anise",
+    "botanical": "Illicium floridanum",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      6,
+      8
+    ],
+    "heightFt": 8,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–May, red",
+    "notes": "Aromatic evergreen with star-shaped maroon flowers for shady southern gardens",
+    "src": "https://plants.ces.ncsu.edu/plants/illicium-floridanum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Illicium_floridanum1UGA.jpg/330px-Illicium_floridanum1UGA.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Illicium_floridanum"
+  },
+  {
+    "id": "morella-cerifera",
+    "common": "Wax Myrtle",
+    "botanical": "Morella cerifera",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      8,
+      10
+    ],
+    "heightFt": 22,
+    "sun": "full-part",
+    "water": "dry-wet",
+    "zones": [
+      7,
+      10
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "March–April, inconspicuous",
+    "notes": "Fast evergreen screen with aromatic foliage and waxy berries; very adaptable",
+    "src": "https://plants.ces.ncsu.edu/plants/morella-cerifera/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Starr_031108-0155_Morella_cerifera.jpg/330px-Starr_031108-0155_Morella_cerifera.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Myrica_cerifera"
+  },
+  {
+    "id": "aesculus-parviflora",
+    "common": "Bottlebrush Buckeye",
+    "botanical": "Aesculus parviflora",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      8,
+      15
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Showy white flower spikes in shade; suckering colony with clear-yellow fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/aesculus-parviflora/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aesculus_parviflora%2C_Irondale%2C_Alabama_1.jpg/330px-Aesculus_parviflora%2C_Irondale%2C_Alabama_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Aesculus_parviflora"
+  },
+  {
+    "id": "rhododendron-austrinum",
+    "common": "Florida Flame Azalea",
+    "botanical": "Rhododendron austrinum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      8,
+      10
+    ],
+    "heightFt": 9,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "March–April, orange-yellow",
+    "notes": "Fragrant orange-gold native deciduous azalea; heat tolerant for the South",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-austrinum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rhododendron_austrinum_1.jpg/330px-Rhododendron_austrinum_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_austrinum"
+  },
+  {
+    "id": "rhododendron-calendulaceum",
+    "common": "Flame Azalea",
+    "botanical": "Rhododendron calendulaceum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      8,
+      10
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May–June, orange",
+    "notes": "Vivid orange-to-scarlet Appalachian native azalea for woodland gardens",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-calendulaceum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rhododendron_calendulaceum.jpg/330px-Rhododendron_calendulaceum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_calendulaceum"
+  },
+  {
+    "id": "rhododendron-canescens",
+    "common": "Mountain Azalea",
+    "botanical": "Rhododendron canescens",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "March–April, pink",
+    "notes": "Fragrant pink native deciduous azalea; one of the most adaptable wild azaleas",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-canescens/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rhododendron_canescens_Arkansas.jpg/330px-Rhododendron_canescens_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_canescens"
+  },
+  {
+    "id": "fothergilla-major",
+    "common": "Large Fothergilla",
+    "botanical": "Fothergilla major",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Honey-scented white bottlebrush flowers and outstanding multicolor fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/fothergilla-major/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fothergilla_major_%28Witch_alder%29.JPG/330px-Fothergilla_major_%28Witch_alder%29.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Fothergilla_latifolia"
+  },
+  {
+    "id": "leucothoe-fontanesiana",
+    "common": "Drooping Leucothoe",
+    "botanical": "Leucothoe fontanesiana",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      4,
+      8
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Arching evergreen with drooping white flower chains; good for shady slopes",
+    "src": "https://plants.ces.ncsu.edu/plants/leucothoe-fontanesiana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Leucothoe_fontanesiana_%28homeredwardprice%29_001.jpg/330px-Leucothoe_fontanesiana_%28homeredwardprice%29_001.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Leucothoe_fontanesiana"
+  },
+  {
+    "id": "agarista-populifolia",
+    "common": "Florida Leucothoe",
+    "botanical": "Agarista populifolia",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      5,
+      6
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May–June, white",
+    "notes": "Glossy evergreen with fragrant white bells; graceful screen for moist shade",
+    "src": "https://plants.ces.ncsu.edu/plants/agarista-populifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Agarista_populifolia_4.JPG/330px-Agarista_populifolia_4.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Agarista_populifolia"
+  },
+  {
+    "id": "illicium-parviflorum",
+    "common": "Yellow Anise",
+    "botanical": "Illicium parviflorum",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 12,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May–June, yellow",
+    "notes": "Tough aromatic evergreen screen tolerant of shade, heat, and wet soils",
+    "src": "https://plants.ces.ncsu.edu/plants/illicium-parviflorum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Illicium_parviflorum_284088769.jpg/330px-Illicium_parviflorum_284088769.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Illicium_parviflorum"
+  },
+  {
+    "id": "rhododendron-maximum",
+    "common": "Rosebay Rhododendron",
+    "botanical": "Rhododendron maximum",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      12
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "June–July, white-pink",
+    "notes": "Large native evergreen rhododendron for cool shaded woodland; very cold hardy",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-maximum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/American_Rhododendron.jpg/330px-American_Rhododendron.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_maximum"
+  },
+  {
+    "id": "rhododendron-minus",
+    "common": "Piedmont Rhododendron",
+    "botanical": "Rhododendron minus",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      6
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May–June, pink",
+    "notes": "Compact native evergreen rhododendron with rose-pink trusses; heat tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-minus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rhododendron_minus_-_University_of_Copenhagen_Botanical_Garden_-_DSC07589.JPG/330px-Rhododendron_minus_-_University_of_Copenhagen_Botanical_Garden_-_DSC07589.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_minus"
+  },
+  {
+    "id": "rhododendron-vaseyi",
+    "common": "Pinkshell Azalea",
+    "botanical": "Rhododendron vaseyi",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      10
+    ],
+    "heightFt": 10,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–May, pink",
+    "notes": "Delicate pink native deciduous azalea from the NC mountains; good fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-vaseyi/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rhododendronvaseyi.jpg/330px-Rhododendronvaseyi.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_vaseyi"
+  },
+  {
+    "id": "xanthorhiza-simplicissima",
+    "common": "Yellowroot",
+    "botanical": "Xanthorhiza simplicissima",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 2,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "April, brown-purple",
+    "notes": "Low suckering native groundcover-shrub for shade and stream banks; yellow roots",
+    "src": "https://plants.ces.ncsu.edu/plants/xanthorhiza-simplicissima/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yellowroot-_Xanthorhiza_simplicissima.JPG/330px-Yellowroot-_Xanthorhiza_simplicissima.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Xanthorhiza"
+  },
+  {
+    "id": "hypericum-frondosum",
+    "common": "Golden St. Johnswort",
+    "botanical": "Hypericum frondosum",
+    "category": "shrub-deciduous",
+    "form": "semi-evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 4,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June–July, yellow",
+    "notes": "Bright golden flowers with bushy stamens and blue-green foliage; drought tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/hypericum-frondosum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hypericum_aureum_139-8498_edit.png/330px-Hypericum_aureum_139-8498_edit.png",
+    "imagePage": "https://en.wikipedia.org/wiki/Hypericum_frondosum"
+  },
+  {
+    "id": "hypericum-prolificum",
+    "common": "Shrubby St. Johnswort",
+    "botanical": "Hypericum prolificum",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1,
+      4
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "June–August, yellow",
+    "notes": "Dense mound of golden flowers; adaptable native for poor dry soils",
+    "src": "https://plants.ces.ncsu.edu/plants/hypericum-prolificum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hypericum_prolificum_Arkansas.jpg/330px-Hypericum_prolificum_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hypericum_prolificum"
+  },
+  {
+    "id": "styrax-americanus",
+    "common": "American Snowbell",
+    "botanical": "Styrax americanus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 8,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May, white",
+    "notes": "Dainty bell-shaped white flowers on a native shrub for moist shade",
+    "src": "https://plants.ces.ncsu.edu/plants/styrax-americanus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Styrax_americanus.jpg/330px-Styrax_americanus.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Styrax_americanus"
+  },
+  {
+    "id": "cyrilla-racemiflora",
+    "common": "Titi",
+    "botanical": "Cyrilla racemiflora",
+    "category": "shrub-deciduous",
+    "form": "semi-evergreen",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      10,
+      15
+    ],
+    "heightFt": 19,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Fragrant white flower chains and orange-red fall color; wetland native large shrub",
+    "src": "https://plants.ces.ncsu.edu/plants/cyrilla-racemiflora/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CyrillaRacemosa.jpg/330px-CyrillaRacemosa.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cyrilla"
+  },
+  {
+    "id": "sabal-minor",
+    "common": "Dwarf Palmetto",
+    "botanical": "Sabal minor",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      7,
+      10
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June–July, white",
+    "notes": "Hardy fan palm for bold evergreen texture; tolerates shade and wet soils",
+    "src": "https://plants.ces.ncsu.edu/plants/sabal-minor/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2025-09-13_15_42_10_Dwarf_palmetto_near_40-Acre_Lake_within_Brazos_Bend_State_Park_in_Fort_Bend_County%2C_Texas.jpg/330px-2025-09-13_15_42_10_Dwarf_palmetto_near_40-Acre_Lake_within_Brazos_Bend_State_Park_in_Fort_Bend_County%2C_Texas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sabal_minor"
+  },
+  {
+    "id": "diervilla-sessilifolia",
+    "common": "Southern Bush Honeysuckle",
+    "botanical": "Diervilla sessilifolia",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 4,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June–July, yellow",
+    "notes": "Tough suckering native with yellow flowers and red-tinged foliage for banks",
+    "src": "https://plants.ces.ncsu.edu/plants/diervilla-sessilifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Diervilla-sessilifolia.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Diervilla_sessilifolia"
+  },
+  {
+    "id": "pieris-floribunda",
+    "common": "Mountain Pieris",
+    "botanical": "Pieris floribunda",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      7
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April–May, white",
+    "notes": "Native evergreen with upright white flower panicles; hardier than Japanese pieris",
+    "src": "https://plants.ces.ncsu.edu/plants/pieris-floribunda/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Piers_floribunda_a2.jpg/330px-Piers_floribunda_a2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Pieris_floribunda"
+  },
+  {
+    "id": "leucothoe-axillaris",
+    "common": "Coastal Doghobble",
+    "botanical": "Leucothoe axillaris",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "March–April, white",
+    "notes": "Low arching evergreen for shade with white flower chains and bronze new growth",
+    "src": "https://plants.ces.ncsu.edu/plants/leucothoe-axillaris/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Leucothoe_axillaris2.jpg/330px-Leucothoe_axillaris2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Leucothoe_axillaris"
+  },
+  {
+    "id": "syringa-vulgaris",
+    "common": "Common Lilac",
+    "botanical": "Syringa vulgaris",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      6,
+      12
+    ],
+    "heightFt": 12,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, purple",
+    "notes": "Intensely fragrant spring flower clusters; classic cold-climate shrub, needs full sun",
+    "src": "https://plants.ces.ncsu.edu/plants/syringa-vulgaris/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg/330px-Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Syringa_vulgaris"
+  },
+  {
+    "id": "syringa-meyeri",
+    "common": "Meyer Lilac",
+    "botanical": "Syringa meyeri",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, purple",
+    "notes": "Compact reblooming lilac with fragrant lavender flowers; mildew resistant",
+    "src": "https://plants.ces.ncsu.edu/plants/syringa-meyeri/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Syringia_julianae0.jpg/330px-Syringia_julianae0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Syringa_pubescens"
+  },
+  {
+    "id": "philadelphus-coronarius",
+    "common": "Sweet Mock Orange",
+    "botanical": "Philadelphus coronarius",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 9,
+    "spreadRangeFt": [
+      8,
+      10
+    ],
+    "heightFt": 11,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May–June, white",
+    "notes": "Powerfully citrus-scented white flowers; old-fashioned shrub for the back border",
+    "src": "https://plants.ces.ncsu.edu/plants/philadelphus-coronarius/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Philadelphus_coronarius.jpg/330px-Philadelphus_coronarius.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Philadelphus_coronarius"
+  },
+  {
+    "id": "hibiscus-syriacus",
+    "common": "Rose of Sharon",
+    "botanical": "Hibiscus syriacus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 10,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "July–September, various",
+    "notes": "Upright late-summer bloomer in white, pink, or blue; long season, seeds readily",
+    "src": "https://plants.ces.ncsu.edu/plants/hibiscus-syriacus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hibiscus_Syriacus.JPG/330px-Hibiscus_Syriacus.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Hibiscus_syriacus"
+  },
+  {
+    "id": "juniperus-chinensis-sea-green",
+    "common": "'Sea Green' Juniper",
+    "botanical": "Juniperus chinensis 'Sea Green'",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      6,
+      8
+    ],
+    "heightFt": 5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Arching fountain-form evergreen juniper with rich green foliage; drought tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/juniperus-chinensis-sea-green/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jun_chin_shoot.jpg/330px-Jun_chin_shoot.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Juniperus_chinensis"
+  },
+  {
+    "id": "juniperus-squamata-blue-star",
+    "common": "Blue Star Juniper",
+    "botanical": "Juniperus squamata 'Blue Star'",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1,
+      4
+    ],
+    "heightFt": 2,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Dwarf mounded juniper with silvery steel-blue foliage; slow, ideal for small beds",
+    "src": "https://plants.ces.ncsu.edu/plants/juniperus-squamata-blue-star/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Juniperus_squamata0.jpg/330px-Juniperus_squamata0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Juniperus_squamata"
+  },
+  {
+    "id": "taxus-x-media",
+    "common": "Anglojap Yew",
+    "botanical": "Taxus x media",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      2,
+      12
+    ],
+    "heightFt": 11,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Versatile hedging evergreen tolerant of shade and shearing; needs good drainage (toxic)",
+    "src": "https://plants.ces.ncsu.edu/plants/taxus-x-media/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Taxus_media.JPG/330px-Taxus_media.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Taxus_%C3%97_media"
+  },
+  {
+    "id": "taxus-cuspidata",
+    "common": "Japanese Yew",
+    "botanical": "Taxus cuspidata",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      5,
+      10
+    ],
+    "heightFt": 18,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Dark evergreen conifer for hedges and foundations; shade tolerant, shears well (toxic)",
+    "src": "https://plants.ces.ncsu.edu/plants/taxus-cuspidata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Taxus_cuspidata_fruits.JPG/330px-Taxus_cuspidata_fruits.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Taxus_cuspidata"
+  },
+  {
+    "id": "abelia-x-grandiflora",
+    "common": "Glossy Abelia",
+    "botanical": "Abelia x grandiflora",
+    "category": "shrub-evergreen",
+    "form": "semi-evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      6
+    ],
+    "heightFt": 5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May–October, white-pink",
+    "notes": "Long-blooming fragrant flowers and glossy semi-evergreen foliage; pollinator magnet",
+    "src": "https://plants.ces.ncsu.edu/plants/abelia-x-grandiflora/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Abelia_flowers.jpg/330px-Abelia_flowers.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Abelia_%C3%97_grandiflora"
+  },
+  {
+    "id": "nandina-domestica",
+    "common": "Heavenly Bamboo",
+    "botanical": "Nandina domestica",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      2,
+      5
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May–June, white",
+    "notes": "Lacy foliage with red winter color and berries; INVASIVE in the Southeast, berries toxic to birds",
+    "src": "https://plants.ces.ncsu.edu/plants/nandina-domestica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nandina_domestica_cv_Otafukunante1.jpg/330px-Nandina_domestica_cv_Otafukunante1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Nandina"
+  },
+  {
+    "id": "spiraea-x-vanhouttei",
+    "common": "Vanhoutte Spirea",
+    "botanical": "Spiraea x vanhouttei",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      7,
+      12
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May, white",
+    "notes": "Cascading fountain of white flower clusters in spring; tough old-fashioned hedge",
+    "src": "https://plants.ces.ncsu.edu/plants/spiraea-x-vanhouttei/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Spiraea_vanhouttei.jpg/330px-Spiraea_vanhouttei.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Spiraea_%C3%97_vanhouttei"
+  },
+  {
+    "id": "spiraea-prunifolia",
+    "common": "Bridalwreath Spirea",
+    "botanical": "Spiraea prunifolia",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      4,
+      8
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April, white",
+    "notes": "Double white button flowers along arching stems; orange-red fall color",
+    "src": "https://plants.ces.ncsu.edu/plants/spiraea-prunifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spiraea_prunifolia_var._simpliciflora_2014%EB%85%84_4%EC%9B%94_9%EC%9D%BC_%2813768093393%29.jpg/330px-Spiraea_prunifolia_var._simpliciflora_2014%EB%85%84_4%EC%9B%94_9%EC%9D%BC_%2813768093393%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Spiraea_prunifolia"
+  },
+  {
+    "id": "berberis-thunbergii",
+    "common": "Japanese Barberry",
+    "botanical": "Berberis thunbergii",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      4,
+      7
+    ],
+    "heightFt": 4,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, yellow",
+    "notes": "Colorful foliage and thorny habit; INVASIVE and banned in several states, choose alternatives",
+    "src": "https://plants.ces.ncsu.edu/plants/berberis-thunbergii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Berberis_thunb_frt.jpg/330px-Berberis_thunb_frt.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Berberis_thunbergii"
+  },
+  {
+    "id": "deutzia-gracilis",
+    "common": "Slender Deutzia",
+    "botanical": "Deutzia gracilis",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 4,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, white",
+    "notes": "Low mounding shrub smothered in white spring flowers; good informal edging",
+    "src": "https://plants.ces.ncsu.edu/plants/deutzia-gracilis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutzia_gracilis_A.jpg/330px-Deutzia_gracilis_A.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Deutzia_gracilis"
+  },
+  {
+    "id": "chaenomeles-speciosa",
+    "common": "Flowering Quince",
+    "botanical": "Chaenomeles speciosa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "March–April, red",
+    "notes": "Early scarlet, pink, or white flowers on thorny stems; hard fruit for preserves",
+    "src": "https://plants.ces.ncsu.edu/plants/chaenomeles-speciosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png/330px-WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png",
+    "imagePage": "https://en.wikipedia.org/wiki/Chaenomeles_speciosa"
+  },
+  {
+    "id": "kerria-japonica",
+    "common": "Japanese Kerria",
+    "botanical": "Kerria japonica",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      9
+    ],
+    "heightFt": 5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, yellow",
+    "notes": "Golden pompom flowers and green winter stems; brightens shady spots",
+    "src": "https://plants.ces.ncsu.edu/plants/kerria-japonica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Afbeelding-063-Kerria_japonica.tif/lossy-page1-330px-Afbeelding-063-Kerria_japonica.tif.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Kerria_japonica"
+  },
+  {
+    "id": "kolkwitzia-amabilis",
+    "common": "Beautybush",
+    "botanical": "Kolkwitzia amabilis",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      6,
+      8
+    ],
+    "heightFt": 8,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May–June, pink",
+    "notes": "Arching branches drenched in pink bell flowers; large old-fashioned specimen shrub",
+    "src": "https://plants.ces.ncsu.edu/plants/kolkwitzia-amabilis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kolkwitzia_amabilis4.jpg/330px-Kolkwitzia_amabilis4.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Kolkwitzia"
+  },
+  {
+    "id": "rosa-rugosa",
+    "common": "Rugosa Rose",
+    "botanical": "Rosa rugosa",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      2,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June–September, pink",
+    "notes": "Fragrant repeat blooms, large red hips, salt tolerant; can spread aggressively on coasts",
+    "src": "https://plants.ces.ncsu.edu/plants/rosa-rugosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rosa_rugosa_Tokyo.JPG/330px-Rosa_rugosa_Tokyo.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Rosa_rugosa"
+  },
+  {
+    "id": "buddleja-davidii",
+    "common": "Butterfly Bush",
+    "botanical": "Buddleja davidii",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      4,
+      15
+    ],
+    "heightFt": 9,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June–September, purple",
+    "notes": "Fragrant flower spikes swarming with butterflies; INVASIVE in some regions, deadhead to limit seeding",
+    "src": "https://plants.ces.ncsu.edu/plants/buddleja-davidii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BuddlejaDavidiiStrauch.jpg/330px-BuddlejaDavidiiStrauch.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Buddleja_davidii"
+  },
+  {
+    "id": "viburnum-carlesii",
+    "common": "Koreanspice Viburnum",
+    "botanical": "Viburnum carlesii",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      7
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April, white-pink",
+    "notes": "Intensely spicy-sweet fragrance from pink-budded white snowballs; compact rounded form",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-carlesii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Viburnum_carlesii_from_Korea_and_Japan_blossoms_%281%29.jpg/330px-Viburnum_carlesii_from_Korea_and_Japan_blossoms_%281%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_carlesii"
+  },
+  {
+    "id": "viburnum-x-burkwoodii",
+    "common": "Burkwood Viburnum",
+    "botanical": "Viburnum x burkwoodii",
+    "category": "shrub-deciduous",
+    "form": "semi-evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      5,
+      9
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April, white",
+    "notes": "Fragrant white flowers and glossy semi-evergreen foliage; more heat tolerant hybrid",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-x-burkwoodii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Viburnum_x_burkwoodii_001.JPG/330px-Viburnum_x_burkwoodii_001.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_%C3%97_burkwoodii"
+  },
+  {
+    "id": "pieris-japonica",
+    "common": "Japanese Pieris",
+    "botanical": "Pieris japonica",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      6,
+      8
+    ],
+    "heightFt": 9,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "March–April, white",
+    "notes": "Cascading white flower chains and colorful bronze-red new growth; needs acidic soil",
+    "src": "https://plants.ces.ncsu.edu/plants/pieris-japonica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pieris_japonica_10.jpg/330px-Pieris_japonica_10.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Pieris_japonica"
+  },
+  {
+    "id": "euonymus-alatus",
+    "common": "Burning Bush",
+    "botanical": "Euonymus alatus",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 18,
+    "spreadRangeFt": [
+      15,
+      20
+    ],
+    "heightFt": 18,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May, greenish",
+    "notes": "Neon-red fall color and corky winged stems; INVASIVE across the Northeast, choose native alternatives",
+    "src": "https://plants.ces.ncsu.edu/plants/euonymus-alatus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Euonymous_alatus.jpg/330px-Euonymous_alatus.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Euonymus_alatus"
+  },
+  {
+    "id": "osmanthus-heterophyllus",
+    "common": "Holly Tea Olive",
+    "botanical": "Osmanthus heterophyllus",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 14,
+    "spreadRangeFt": [
+      7,
+      20
+    ],
+    "heightFt": 14,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "September–October, white",
+    "notes": "Holly-like evergreen with intensely fragrant fall flowers; excellent screen or hedge",
+    "src": "https://plants.ces.ncsu.edu/plants/osmanthus-heterophyllus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Osmanthus_heterophyllus3.jpg/330px-Osmanthus_heterophyllus3.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Osmanthus_heterophyllus"
+  },
+  {
+    "id": "osmanthus-fragrans",
+    "common": "Fragrant Tea Olive",
+    "botanical": "Osmanthus fragrans",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      10,
+      14
+    ],
+    "heightFt": 15,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "October–April, white",
+    "notes": "Legendary apricot fragrance from tiny flowers over a long season; large evergreen screen",
+    "src": "https://plants.ces.ncsu.edu/plants/osmanthus-fragrans/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Osmanthus_fragrans_%28orange_flowers%29.jpg/330px-Osmanthus_fragrans_%28orange_flowers%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Osmanthus_fragrans"
+  },
+  {
+    "id": "mahonia-aquifolium",
+    "common": "Oregon Grape",
+    "botanical": "Mahonia aquifolium",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      2,
+      5
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": null,
+    "native": true,
+    "nativeRegions": [
+      "pacific-northwest",
+      "mountain-west"
+    ],
+    "bloom": "March–April, yellow",
+    "notes": "Holly-like evergreen with yellow flowers and blue berries; native to the Pacific Northwest",
+    "src": "https://plants.ces.ncsu.edu/plants/mahonia-aquifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mahonia_aquifolium.jpg/330px-Mahonia_aquifolium.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Berberis_aquifolium"
+  },
+  {
+    "id": "mahonia-bealei",
+    "common": "Leatherleaf Mahonia",
+    "botanical": "Mahonia bealei",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      3,
+      8
+    ],
+    "heightFt": 7,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "January–March, yellow",
+    "notes": "Bold architectural evergreen with winter yellow flowers and grape-blue fruit; INVASIVE in the Southeast",
+    "src": "https://plants.ces.ncsu.edu/plants/mahonia-bealei/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%28MHNT%29_Berberis_bealei_-_Infructescence_-_Boileau%2C_Bouloc%2C_France.jpg/330px-%28MHNT%29_Berberis_bealei_-_Infructescence_-_Boileau%2C_Bouloc%2C_France.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Berberis_bealei"
+  },
+  {
+    "id": "cephalotaxus-harringtonia",
+    "common": "Japanese Plum Yew",
+    "botanical": "Cephalotaxus harringtonia",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 10,
+    "spreadRangeFt": [
+      5,
+      14
+    ],
+    "heightFt": 8,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      6,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Soft dark-green needled evergreen for shade; more heat and deer tolerant than true yew",
+    "src": "https://plants.ces.ncsu.edu/plants/cephalotaxus-harringtonia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cephalotaxus_harringtonia_BotGardBln1105WithSeeds.JPG/330px-Cephalotaxus_harringtonia_BotGardBln1105WithSeeds.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Cephalotaxus_harringtonii"
+  },
+  {
+    "id": "aucuba-japonica",
+    "common": "Japanese Aucuba",
+    "botanical": "Aucuba japonica",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 5,
+    "spreadRangeFt": [
+      4,
+      6
+    ],
+    "heightFt": 8,
+    "sun": "full-shade",
+    "water": "medium",
+    "zones": [
+      6,
+      10
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "March–April, purple",
+    "notes": "Bold glossy (often gold-speckled) evergreen that thrives in deep dry shade",
+    "src": "https://plants.ces.ncsu.edu/plants/aucuba-japonica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aucuba_japonica_Gold_Dust_NBG_LR.jpg/330px-Aucuba_japonica_Gold_Dust_NBG_LR.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Aucuba_japonica"
+  },
+  {
+    "id": "ternstroemia-gymnanthera",
+    "common": "Cleyera",
+    "botanical": "Ternstroemia gymnanthera",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 6,
+    "spreadRangeFt": [
+      5,
+      6
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June, cream",
+    "notes": "Glossy evergreen with bronze-red new growth; popular southern foundation and screen shrub",
+    "src": "https://plants.ces.ncsu.edu/plants/ternstroemia-gymnanthera/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ternstroemia_japonica_SZ80.png/330px-Ternstroemia_japonica_SZ80.png",
+    "imagePage": "https://en.wikipedia.org/wiki/Ternstroemia_gymnanthera"
+  },
+  {
+    "id": "viburnum-tinus",
+    "common": "Laurustinus",
+    "botanical": "Viburnum tinus",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 8,
+    "spreadRangeFt": [
+      6,
+      10
+    ],
+    "heightFt": 9,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      7,
+      10
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "November–April, white",
+    "notes": "Winter-blooming evergreen viburnum with pink buds and metallic-blue fruit; good screen",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-tinus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Laurustinus_%28Viburnum_tinus%29_fruits_%2815726383257%29.jpg/330px-Laurustinus_%28Viburnum_tinus%29_fruits_%2815726383257%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_tinus"
+  },
+  {
+    "id": "viburnum-rhytidophyllum",
+    "common": "Leatherleaf Viburnum",
+    "botanical": "Viburnum rhytidophyllum",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      10,
+      15
+    ],
+    "heightFt": 12,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May, cream",
+    "notes": "Bold deeply-veined evergreen leaves and large flower clusters; fast coarse screen",
+    "src": "https://plants.ces.ncsu.edu/plants/viburnum-rhytidophyllum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Viburnum_rhytidophyllum.jpg/330px-Viburnum_rhytidophyllum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Viburnum_rhytidophyllum"
+  },
+  {
+    "id": "ilex-cornuta",
+    "common": "Chinese Holly",
+    "botanical": "Ilex cornuta",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      8,
+      15
+    ],
+    "heightFt": 12,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April, white",
+    "notes": "Spiny glossy evergreen holly with heavy red fruit; 'Burford' and dwarf forms common",
+    "src": "https://plants.ces.ncsu.edu/plants/ilex-cornuta/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ilexcornuta.JPG/330px-Ilexcornuta.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Ilex_cornuta"
+  },
+  {
+    "id": "ilex-x-meserveae",
+    "common": "Blue Holly",
+    "botanical": "Ilex x meserveae",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 7,
+    "spreadRangeFt": [
+      6,
+      8
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May, white",
+    "notes": "Cold-hardy blue-green evergreen holly with abundant red berries; plant male for fruit set",
+    "src": "https://plants.ces.ncsu.edu/plants/ilex-x-meserveae/",
+    "image": null,
+    "imagePage": null
+  },
+  {
+    "id": "callicarpa-dichotoma",
+    "common": "Purple Beautyberry",
+    "botanical": "Callicarpa dichotoma",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June–July, pink",
+    "notes": "Compact arching shrub studded with brilliant violet berries in fall; refined habit",
+    "src": "https://plants.ces.ncsu.edu/plants/callicarpa-dichotoma/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg/330px-Purple_beautyberry%2C_October_2015_-_Stacking.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Callicarpa_dichotoma"
+  },
+  {
+    "id": "cotinus-coggygria",
+    "common": "Smokebush",
+    "botanical": "Cotinus coggygria",
+    "category": "shrub-deciduous",
+    "form": "deciduous",
+    "spreadFt": 12,
+    "spreadRangeFt": [
+      10,
+      15
+    ],
+    "heightFt": 12,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June–July, pink-smoke",
+    "notes": "Airy smoky flower plumes and purple or gold foliage; drought tolerant specimen",
+    "src": "https://plants.ces.ncsu.edu/plants/cotinus-coggygria/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cotinus_coggygria5.jpg/330px-Cotinus_coggygria5.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Cotinus_coggygria"
+  },
+  {
+    "id": "rhododendron-indicum",
+    "common": "Indica Azalea",
+    "botanical": "Rhododendron indicum",
+    "category": "shrub-evergreen",
+    "form": "evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 2,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      7,
+      9
+    ],
+    "spacingInches": null,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April–May, various",
+    "notes": "Evergreen Southern Indica-type azalea covered in spring bloom; needs acidic soil",
+    "src": "https://plants.ces.ncsu.edu/plants/rhododendron-indicum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rhododendron_indicum1.jpg/330px-Rhododendron_indicum1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Rhododendron_indicum"
+  }
+]

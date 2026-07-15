@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Landscape Designer</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<header>
+  <div class="brand">Landscape<span>Designer</span></div>
+  <input id="project-name" value="Untitled plan" spellcheck="false">
+  <span id="calib-badge">NOT CALIBRATED</span>
+  <div class="spacer"></div>
+  <button class="btn" id="btn-new">New</button>
+  <button class="btn" id="btn-open">Open</button>
+  <button class="btn" id="btn-save">Save</button>
+  <button class="btn" id="btn-undo" title="Undo (⌘Z)">↩</button>
+  <button class="btn" id="btn-redo" title="Redo (⇧⌘Z)">↪</button>
+  <button class="btn" id="btn-fit" title="Zoom to fit">Fit</button>
+  <span class="rot-group" title="Rotate the view so the property reads square — drawings stay in true world coordinates">
+    <button class="btn" id="btn-align" title="Drag a line along an edge that should be horizontal">Align ⟲</button>
+    <input id="view-rot" type="number" step="1" value="0" title="View rotation (degrees)">°
+    <button class="btn" id="btn-rot-reset" title="Reset rotation to north-up">N↑</button>
+  </span>
+  <button class="btn" id="btn-footprints" style="display:none">Fetch building footprints</button>
+  <button class="btn" id="btn-expand" style="display:none" title="Fetch a ring of surrounding imagery — your drawings stay in place">Expand map</button>
+  <button class="btn" id="btn-crop" style="display:none" title="Drag a rectangle to crop the image to just the area you need">Crop</button>
+  <button class="btn" id="btn-png">PNG</button>
+  <button class="btn primary" id="btn-pdf">Export PDF</button>
+  <button class="btn" id="btn-help" title="Quick-start guide">?</button>
+</header>
+
+<div id="main">
+  <nav id="toolbar"></nav>
+
+  <div id="canvas-wrap">
+    <div id="canvas-container"></div>
+
+    <div id="start-screen">
+      <div class="start-card">
+        <h1>Landscape<span>Designer</span></h1>
+        <div class="sub">Professional, to-scale landscape plans from aerial imagery.</div>
+
+        <h2>Start from an address</h2>
+        <div class="addr-row">
+          <input id="addr-input" placeholder="123 Main St, Nashville, TN" spellcheck="false">
+          <button class="btn primary" id="addr-go">Search</button>
+        </div>
+        <div id="addr-status"></div>
+
+        <h2>Or start from an image</h2>
+        <div id="start-drop">Drop a satellite screenshot or drone photo here (or click to browse).<br>
+          You'll calibrate the scale with one known measurement.</div>
+
+        <h2>Or continue</h2>
+        <button class="btn" id="start-open">Open a saved project…</button>
+
+        <div class="start-note">
+          Address imagery: Esri World Imagery (tracing permitted with attribution). Top-down (nadir)
+          images only — oblique views can't be measured. Plans are not survey-grade.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <aside id="side">
+    <div id="tool-options"></div>
+    <div id="palette-wrap">
+      <input id="palette-search" placeholder="Search plants…" spellcheck="false">
+      <div id="palette-filters"></div>
+      <div id="palette-cats"></div>
+      <div id="palette"></div>
+      <div id="palette-count" class="hint" style="padding:2px 12px 6px"></div>
+    </div>
+    <div id="side-tabs">
+      <button data-pane="layers" class="on">Layers</button>
+      <button data-pane="schedule">Schedule</button>
+      <button data-pane="props">Object</button>
+    </div>
+    <div class="side-pane" id="pane-layers"></div>
+    <div class="side-pane" id="pane-schedule" style="display:none"></div>
+    <div class="side-pane" id="pane-props" style="display:none"></div>
+  </aside>
+</div>
+
+<div id="statusbar">
+  <span id="status-coords"></span>
+  <div id="scalebar"><div id="scalebar-bar"></div><span id="scalebar-label"></span></div>
+  <div class="spacer"></div>
+  <span id="attribution"></span>
+  <span id="disclaimer">Not survey-grade — verify a dimension on site · Call 811 before digging</span>
+</div>
+
+<dialog id="dlg-distance">
+  <h3>Set the scale</h3>
+  <p>The line you drew spans <b><span id="dist-px"></span> image pixels</b>. Enter its real-world length in feet:</p>
+  <input id="dist-input" type="number" min="0.1" step="0.1" placeholder="e.g. 24">
+  <div class="row">
+    <button class="btn" id="dist-cancel">Cancel</button>
+    <button class="btn primary" id="dist-ok">Set scale</button>
+  </div>
+</dialog>
+
+<dialog id="dlg-text">
+  <h3 id="text-label">Label</h3>
+  <input id="text-input" placeholder="Text…">
+  <div class="row">
+    <button class="btn" id="text-cancel">Cancel</button>
+    <button class="btn primary" id="text-ok">Add</button>
+  </div>
+</dialog>
+
+<dialog id="dlg-welcome">
+  <h3 style="font-size:17px">Welcome to Landscape<span style="color:var(--accent)">Designer</span></h3>
+  <p style="margin-bottom:14px">Design a to-scale landscape plan on real aerial imagery — like a professional site plan, in your browser.</p>
+
+  <div class="wq">
+    <h4>1 · Get your property on screen</h4>
+    <ul>
+      <li><b>Search your address</b> — imagery loads with the scale set automatically.</li>
+      <li>Or drop / paste a satellite screenshot, then <b>Calibrate (C)</b>: click two ends of something you know the length of.</li>
+      <li><b>Expand map</b> (header) fetches more surrounding imagery any time — your work stays put.</li>
+      <li><b>Align ⟲</b>: drag a line along your house front and the view levels itself.</li>
+    </ul>
+    <h4>2 · Capture what's there</h4>
+    <ul>
+      <li><b>Fetch building footprints</b> (header) pulls mapped buildings instantly.</li>
+      <li>✨ <b>AI detect (A)</b>: click a building, driveway, or lawn — its outline is traced for you.</li>
+      <li>🪄 <b>Magic wand (W)</b> grabs same-colored regions; ⬠ <b>Trace (T)</b> is the manual fallback. ◍ places existing trees.</li>
+      <li><b>Right-click anything to select it</b> — then drag corners (circles), add corners (squares), re-type it, or press Delete.</li>
+    </ul>
+    <h4>3 · Design</h4>
+    <ul>
+      <li>◠ <b>Beds (B)</b> draw freehand and smooth themselves; ▦ <b>Hardscape (S)</b> fills with true-scale material hatches.</li>
+      <li>❀ <b>Plants (P)</b>: pick from 400+ species with photos — filter by <b>your region, USDA zone, native, edible</b>. Symbols draw at <i>mature spread</i>, so spacing is honest. Missing something? <b>+ Custom</b>.</li>
+      <li>The <b>Schedule</b> tab keeps a live plant list with quantities.</li>
+    </ul>
+    <h4>4 · Getting around</h4>
+    <ul>
+      <li><b>Ctrl+drag</b> (or middle-drag, or hold Space) pans in any tool; <b>scroll zooms</b> at your cursor.</li>
+      <li>⌘Z undo · Esc cancels a drawing · Enter finishes a polygon.</li>
+      <li><b>Export PDF</b> prints at a true engineer's scale (1″ = 10′) with a title block and plant schedule.</li>
+    </ul>
+  </div>
+  <p style="font-size:10.5px;color:var(--muted)">Scale comes from aerial imagery — not survey-grade. Verify one dimension on site, and call 811 before digging.</p>
+  <div class="row" style="align-items:center">
+    <span class="hint" style="margin-right:auto">Reopen anytime with the ? button</span>
+    <button class="btn primary" id="welcome-ok">Start designing</button>
+  </div>
+</dialog>
+
+<dialog id="dlg-plant">
+  <h3>Add a custom plant</h3>
+  <p>For anything not in the database. Symbols draw at the mature spread you enter.</p>
+  <label>Common name</label>
+  <input id="cp-common" placeholder="Silver Maple">
+  <label>Botanical name (optional)</label>
+  <input id="cp-botanical" placeholder="Acer saccharinum">
+  <label>Category</label>
+  <select id="cp-category">
+    <option value="canopy">Canopy / shade tree</option>
+    <option value="ornamental">Ornamental tree</option>
+    <option value="evergreen-tree">Evergreen tree</option>
+    <option value="shrub-deciduous">Shrub (deciduous)</option>
+    <option value="shrub-evergreen">Shrub (evergreen)</option>
+    <option value="perennial">Perennial</option>
+    <option value="grass">Ornamental grass</option>
+    <option value="groundcover">Groundcover</option>
+  </select>
+  <label>Mature spread (ft)</label>
+  <input id="cp-spread" type="number" min="0.5" step="0.5" placeholder="40">
+  <label>Mature height (ft)</label>
+  <input id="cp-height" type="number" min="0.5" step="0.5" placeholder="60">
+  <label class="chk" style="text-transform:none"><input type="checkbox" id="cp-evergreen"> Evergreen</label>
+  <div class="row">
+    <button class="btn" id="cp-cancel">Cancel</button>
+    <button class="btn primary" id="cp-ok">Add plant</button>
+  </div>
+</dialog>
+
+<dialog id="dlg-export">
+  <h3>Export PDF plan</h3>
+  <label>Paper</label>
+  <select id="exp-paper"></select>
+  <label>Scale</label>
+  <select id="exp-scale"></select>
+  <p>Sheet 1: plan at exact engineer's scale with title block. Sheet 2: plant schedule.</p>
+  <div class="row">
+    <button class="btn" id="exp-cancel">Cancel</button>
+    <button class="btn primary" id="exp-go">Export</button>
+  </div>
+</dialog>
+
+<div id="toast"></div>
+
+<input type="file" id="file-open" accept=".json,application/json" style="display:none">
+<input type="file" id="file-image" accept="image/*" style="display:none">
+
+<script src="vendor/konva-10.3.0.min.js"></script>
+<script src="vendor/simplify-1.2.4.js"></script>
+<script src="vendor/polygon-clipping-0.15.7.umd.min.js"></script>
+<script src="vendor/magic-wand-1.1.7.min.js"></script>
+<script src="vendor/jspdf-4.2.1.umd.min.js"></script>
+
+<script src="js/geometry.js"></script>
+<script src="js/model.js"></script>
+<script src="js/imagery.js"></script>
+<script src="js/symbols.js"></script>
+<script src="js/schedule.js"></script>
+<script src="js/view.js"></script>
+<script src="js/tools.js"></script>
+<script src="js/sam.js"></script>
+<script src="js/exporter.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1739 @@
+[
+ {
+  "id": "acer-negundo",
+  "common": "Boxelder",
+  "botanical": "Acer negundo",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   30,
+   50
+  ],
+  "heightFt": 50,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "west"
+  ],
+  "bloom": "March–April, greenish",
+  "notes": "Fast, weak-wooded native maple; dioecious; tough on wet or disturbed sites",
+  "src": "https://plants.ces.ncsu.edu/plants/acer-negundo/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Acer_negundo_44809168.jpg/330px-Acer_negundo_44809168.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Acer_negundo"
+ },
+ {
+  "id": "salix-nigra",
+  "common": "Black Willow",
+  "botanical": "Salix nigra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 45,
+  "spreadRangeFt": [
+   30,
+   60
+  ],
+  "heightFt": 75,
+  "sun": "full",
+  "water": "wet",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, yellow catkins",
+  "notes": "Largest native willow; streambanks and wet ground; brittle wood",
+  "src": "https://plants.ces.ncsu.edu/plants/salix-nigra/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Salix_nigra_Morton_180-88-3.jpg/330px-Salix_nigra_Morton_180-88-3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Salix_nigra"
+ },
+ {
+  "id": "salix-babylonica",
+  "common": "Weeping Willow",
+  "botanical": "Salix babylonica",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 40,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   6,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "March–April, yellow catkins",
+  "notes": "Classic weeping form; marginal below zone 6; needs room and moisture",
+  "src": "https://plants.ces.ncsu.edu/plants/salix-babylonica/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ch%C3%A2teau_de_Chenonceau_-_jardin_Russell-Page_%2801%29.jpg/330px-Ch%C3%A2teau_de_Chenonceau_-_jardin_Russell-Page_%2801%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Salix_babylonica"
+ },
+ {
+  "id": "aesculus-hippocastanum",
+  "common": "Horse Chestnut",
+  "botanical": "Aesculus hippocastanum",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 55,
+  "spreadRangeFt": [
+   40,
+   70
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May, white panicles",
+  "notes": "Showy spring flower spikes; large inedible/toxic seeds; leaf blotch prone",
+  "src": "https://plants.ces.ncsu.edu/plants/aesculus-hippocastanum/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Illustration_Aesculus_hippocastanum0_clean.jpg/330px-Illustration_Aesculus_hippocastanum0_clean.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Aesculus_hippocastanum"
+ },
+ {
+  "id": "catalpa-bignonioides",
+  "common": "Southern Catalpa",
+  "botanical": "Catalpa bignonioides",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   20,
+   40
+  ],
+  "heightFt": 40,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "May–June, white with purple",
+  "notes": "Large heart-shaped leaves, orchid-like flowers, long bean pods",
+  "src": "https://plants.ces.ncsu.edu/plants/catalpa-bignonioides/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Catalpa_bignonioides_inflorescence.jpg/330px-Catalpa_bignonioides_inflorescence.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Catalpa_bignonioides"
+ },
+ {
+  "id": "prunus-pensylvanica",
+  "common": "Pin Cherry",
+  "botanical": "Prunus pensylvanica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 35,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, white",
+  "notes": "Native fire cherry; fast pioneer; small tart red fruit for wildlife and jelly",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-pensylvanica/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Prunus_pensylvanica_Cleaned.jpg/330px-Prunus_pensylvanica_Cleaned.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_pensylvanica"
+ },
+ {
+  "id": "sorbus-aucuparia",
+  "common": "European Mountain Ash",
+  "botanical": "Sorbus aucuparia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   8,
+   25
+  ],
+  "heightFt": 35,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May, white",
+  "notes": "Rowan; showy orange-red berry clusters; not a true ash; borer/canker prone in heat",
+  "src": "https://plants.ces.ncsu.edu/plants/sorbus-aucuparia/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rowan_tree_20081002b.jpg/330px-Rowan_tree_20081002b.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Sorbus_aucuparia"
+ },
+ {
+  "id": "ulmus-rubra",
+  "common": "Slippery Elm",
+  "botanical": "Ulmus rubra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   30,
+   50
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "March, reddish",
+  "notes": "Native elm; somewhat more Dutch-elm-tolerant than American elm but still susceptible",
+  "src": "https://plants.ces.ncsu.edu/plants/ulmus-rubra/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mature_Ulmus_rubra_in_graveyard.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Ulmus_rubra"
+ },
+ {
+  "id": "maclura-pomifera",
+  "common": "Osage Orange",
+  "botanical": "Maclura pomifera",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   20,
+   60
+  ],
+  "heightFt": 40,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "midwest",
+   "southeast"
+  ],
+  "bloom": "May–June, green",
+  "notes": "Thorny, extremely rot-resistant wood; large inedible green fruit; classic hedgerow tree",
+  "src": "https://plants.ces.ncsu.edu/plants/maclura-pomifera/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Maclura_pomifera2.jpg/330px-Maclura_pomifera2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Maclura_pomifera"
+ },
+ {
+  "id": "morus-rubra",
+  "common": "Red Mulberry",
+  "botanical": "Morus rubra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 38,
+  "spreadRangeFt": [
+   35,
+   40
+  ],
+  "heightFt": 50,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, green catkins",
+  "notes": "Native mulberry; sweet dark edible fruit loved by birds",
+  "src": "https://plants.ces.ncsu.edu/plants/morus-rubra/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MorusRubra9.jpg/330px-MorusRubra9.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Morus_rubra"
+ },
+ {
+  "id": "morus-alba",
+  "common": "White Mulberry",
+  "botanical": "Morus alba",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   30,
+   50
+  ],
+  "heightFt": 50,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–May, green catkins",
+  "notes": "Edible fruit but weedy and invasive in the Northeast; consider native red mulberry instead",
+  "src": "https://plants.ces.ncsu.edu/plants/morus-alba/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosales_-_Morus_alba_-_3.jpg/330px-Rosales_-_Morus_alba_-_3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Morus_alba"
+ },
+ {
+  "id": "castanea-mollissima",
+  "common": "Chinese Chestnut",
+  "botanical": "Castanea mollissima",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   40,
+   60
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June, cream catkins",
+  "notes": "Blight-resistant chestnut; reliable edible nut crop; needs two for pollination",
+  "src": "https://plants.ces.ncsu.edu/plants/castanea-mollissima/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Castanea_mollissima.jpg/330px-Castanea_mollissima.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Castanea_mollissima"
+ },
+ {
+  "id": "castanea-dentata",
+  "common": "American Chestnut",
+  "botanical": "Castanea dentata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 60,
+  "spreadRangeFt": [
+   50,
+   75
+  ],
+  "heightFt": 75,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "June, cream catkins",
+  "notes": "Functionally extinct from chestnut blight; plant blight-resistant hybrids for edible nuts",
+  "src": "https://plants.ces.ncsu.edu/plants/castanea-dentata/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/American_Chestnut.JPG/330px-American_Chestnut.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/American_chestnut"
+ },
+ {
+  "id": "juglans-cinerea",
+  "common": "Butternut",
+  "botanical": "Juglans cinerea",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   40,
+   60
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, green catkins",
+  "notes": "White walnut; rich oily edible nuts; threatened by butternut canker; mildly allelopathic",
+  "src": "https://plants.ces.ncsu.edu/plants/juglans-cinerea/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Juglans_cinerea_002.JPG/330px-Juglans_cinerea_002.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Juglans_cinerea"
+ },
+ {
+  "id": "crataegus-crus-galli",
+  "common": "Cockspur Hawthorn",
+  "botanical": "Crataegus crus-galli",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   20,
+   35
+  ],
+  "heightFt": 25,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May, white",
+  "notes": "Very long thorns; horizontal branching; glossy leaves; persistent red fruit for wildlife",
+  "src": "https://plants.ces.ncsu.edu/plants/crataegus-crus-galli/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Crataegus_crus_galli_4.jpg/330px-Crataegus_crus_galli_4.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Crataegus_crus-galli"
+ },
+ {
+  "id": "crataegus-viridis-winter-king",
+  "common": "Green Hawthorn 'Winter King'",
+  "botanical": "Crataegus viridis 'Winter King'",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   20,
+   35
+  ],
+  "heightFt": 30,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May, white",
+  "notes": "Silvery bark, heavy persistent red fruit, good disease resistance; fewer thorns",
+  "src": "https://plants.ces.ncsu.edu/plants/crataegus-viridis/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Crataegus_viridis_%27Winter_King%27.jpg/330px-Crataegus_viridis_%27Winter_King%27.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Crataegus_viridis"
+ },
+ {
+  "id": "fraxinus-nigra",
+  "common": "Black Ash",
+  "botanical": "Fraxinus nigra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 55,
+  "spreadRangeFt": [
+   50,
+   65
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "wet",
+  "zones": [
+   2,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, before leaves",
+  "notes": "Wetland ash used in basketry; extremely vulnerable to emerald ash borer",
+  "src": "https://plants.ces.ncsu.edu/plants/fraxinus-nigra/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fraxinus_nigra_leaves.jpg/330px-Fraxinus_nigra_leaves.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fraxinus_nigra"
+ },
+ {
+  "id": "tilia-tomentosa",
+  "common": "Silver Linden",
+  "botanical": "Tilia tomentosa",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   30,
+   50
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June–July, fragrant yellow",
+  "notes": "Silvery leaf undersides shimmer in wind; heat and drought tolerant; fragrant bee flowers",
+  "src": "https://plants.ces.ncsu.edu/plants/tilia-tomentosa/",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tilia-tomentosa.JPG/330px-Tilia-tomentosa.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Tilia_tomentosa"
+ },
+ {
+  "id": "betula-populifolia",
+  "common": "Gray Birch",
+  "botanical": "Betula populifolia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   20
+  ],
+  "heightFt": 30,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, catkins",
+  "notes": "Native pioneer birch; chalky white non-peeling bark; short-lived on poor dry soils",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277831&isprofile=0",
+  "edible": false,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gray_birch_against_gray_sky.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Betula_populifolia"
+ },
+ {
+  "id": "malus-domestica",
+  "common": "Apple",
+  "botanical": "Malus domestica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 25,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–May, white to pink",
+  "notes": "Standard seedling size; dwarf rootstock (M9/M26) 8–12 ft, semi-dwarf (MM106/MM111) 12–18 ft; most need a pollinizer",
+  "src": "https://plants.ces.ncsu.edu/plants/malus-domestica/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/330px-Pink_lady_and_cross_section.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Apple"
+ },
+ {
+  "id": "malus-floribunda",
+  "common": "Japanese Flowering Crabapple",
+  "botanical": "Malus floribunda",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   30
+  ],
+  "heightFt": 20,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, red buds to pink-white",
+  "notes": "Heavy spring bloom; small edible pomes good for jelly; a good pollinizer for apples",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286525&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Malus_floribunda_%28Japanese_crabapple%29.jpg/330px-Malus_floribunda_%28Japanese_crabapple%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Malus_floribunda"
+ },
+ {
+  "id": "prunus-domestica",
+  "common": "European Plum",
+  "botanical": "Prunus domestica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   20
+  ],
+  "heightFt": 18,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Includes prune, damson and gage types; several cultivars self-fruitful; firm sweet fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-domestica/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fruits_Prunus_domestica.jpg/330px-Fruits_Prunus_domestica.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_domestica"
+ },
+ {
+  "id": "prunus-americana",
+  "common": "American Plum",
+  "botanical": "Prunus americana",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 20,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April–May, white",
+  "notes": "Native thicket-forming wild plum; fragrant bloom; red-yellow fruit for eating and preserves",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-americana/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Prunus_americana.jpg/330px-Prunus_americana.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_americana"
+ },
+ {
+  "id": "prunus-avium",
+  "common": "Sweet Cherry",
+  "botanical": "Prunus avium",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 30,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Dessert cherry; needs zone 5+ and (for most) a pollinizer; less cold-hardy than tart cherry",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286442&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prunus_avium_fruit.jpg/330px-Prunus_avium_fruit.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_avium"
+ },
+ {
+  "id": "prunus-cerasus",
+  "common": "Tart Cherry",
+  "botanical": "Prunus cerasus",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   20
+  ],
+  "heightFt": 20,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   6
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Sour/pie cherry (e.g. 'Montmorency'); self-fruitful and hardy to zone 4 — a Vermont staple",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-cerasus/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Prunus_cerasus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-113.jpg/330px-Prunus_cerasus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-113.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_cerasus"
+ },
+ {
+  "id": "prunus-persica",
+  "common": "Peach",
+  "botanical": "Prunus persica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 20,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "March–April, pink",
+  "notes": "Needs zone 5+; choose cold-hardy cultivars ('Reliance', 'Contender') and a sheltered site in Vermont",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-persica/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Illustration_Prunus_persica_clean_no_descr.jpg/330px-Illustration_Prunus_persica_clean_no_descr.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Peach"
+ },
+ {
+  "id": "pyrus-communis",
+  "common": "European Pear",
+  "botanical": "Pyrus communis",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   25,
+   35
+  ],
+  "heightFt": 45,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Standard pear is a large upright tree; plant two cultivars for pollination; watch for fireblight",
+  "src": "https://plants.ces.ncsu.edu/plants/pyrus-communis/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/330px-Pears.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pyrus_communis"
+ },
+ {
+  "id": "cydonia-oblonga",
+  "common": "Quince",
+  "botanical": "Cydonia oblonga",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   9,
+   12
+  ],
+  "heightFt": 15,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May, pink to white",
+  "notes": "True quince; hard aromatic fruit for jelly, paste and cooking; mostly self-fruitful",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286497&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pancrace_Bessa00.jpg/330px-Pancrace_Bessa00.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quince"
+ },
+ {
+  "id": "prunus-armeniaca",
+  "common": "Apricot",
+  "botanical": "Prunus armeniaca",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   40
+  ],
+  "heightFt": 25,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "March–April, white to pink",
+  "notes": "Very early bloom risks frost loss; zone 5+ and a warm sheltered spot; many self-fruitful",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-armeniaca/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Apricots.jpg/330px-Apricots.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_armeniaca"
+ },
+ {
+  "id": "ficus-carica",
+  "common": "Common Fig",
+  "botanical": "Ficus carica",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   30
+  ],
+  "heightFt": 15,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   7,
+   10
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "inconspicuous",
+  "notes": "Hardy only to zone 7; in Vermont grow in containers or wrap/bury canes for winter",
+  "src": "https://plants.ces.ncsu.edu/plants/ficus-carica/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ficus_carica_L%2C_1771.jpg/330px-Ficus_carica_L%2C_1771.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fig"
+ },
+ {
+  "id": "corylus-avellana",
+  "common": "European Hazelnut",
+  "botanical": "Corylus avellana",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   8,
+   15
+  ],
+  "heightFt": 15,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "February–March, yellow catkins",
+  "notes": "Filbert; edible nuts; susceptible to Eastern filbert blight — plant resistant hybrids",
+  "src": "https://plants.ces.ncsu.edu/plants/corylus-avellana/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Corylus_avellana.jpg/330px-Corylus_avellana.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Corylus_avellana"
+ },
+ {
+  "id": "pyrus-pyrifolia",
+  "common": "Asian Pear",
+  "botanical": "Pyrus pyrifolia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   16,
+   40
+  ],
+  "heightFt": 25,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Nashi; crisp round apple-like fruit eaten firm; plant two cultivars for pollination",
+  "src": "https://plants.ces.ncsu.edu/plants/pyrus-pyrifolia/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nashi_pear.jpg/330px-Nashi_pear.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pyrus_pyrifolia"
+ },
+ {
+  "id": "prunus-salicina",
+  "common": "Japanese Plum",
+  "botanical": "Prunus salicina",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 20,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, white",
+  "notes": "Large juicy dessert plums; blooms early so frost-prone; needs a pollinizer",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-salicina/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/W_sumomo4061.jpg/330px-W_sumomo4061.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_salicina"
+ },
+ {
+  "id": "juglans-regia",
+  "common": "English Walnut",
+  "botanical": "Juglans regia",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   40,
+   60
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–May, green catkins",
+  "notes": "Persian/English walnut; Carpathian strains hardy to zone 4–5; edible nuts; allelopathic",
+  "src": "https://plants.ces.ncsu.edu/plants/juglans-regia/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Noyer_centenaire_en_automne.JPG/330px-Noyer_centenaire_en_automne.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Juglans_regia"
+ },
+ {
+  "id": "amelanchier-alnifolia",
+  "common": "Saskatoon Serviceberry",
+  "botanical": "Amelanchier alnifolia",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 8,
+  "spreadRangeFt": [
+   6,
+   10
+  ],
+  "heightFt": 12,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "west",
+   "midwest"
+  ],
+  "bloom": "April–May, white",
+  "notes": "Saskatoon; sweet blueberry-like pomes for fresh eating and baking; very hardy suckering shrub",
+  "src": "https://plants.ces.ncsu.edu/plants/amelanchier-alnifolia/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Amelanchier_alnifolia_var._semiintegrifolia_4.jpg/330px-Amelanchier_alnifolia_var._semiintegrifolia_4.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia"
+ },
+ {
+  "id": "mespilus-germanica",
+  "common": "Medlar",
+  "botanical": "Mespilus germanica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   20
+  ],
+  "heightFt": 18,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May, white",
+  "notes": "Old-world fruit eaten bletted (softened after frost); crooked picturesque form",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286587&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Medlar_pomes_and_leaves.jpg/330px-Medlar_pomes_and_leaves.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Mespilus_germanica"
+ },
+ {
+  "id": "ribes-nigrum",
+  "common": "Black Currant",
+  "botanical": "Ribes nigrum",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 4,
+  "spreadRangeFt": [
+   3,
+   4
+  ],
+  "heightFt": 4,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–May, yellow-green",
+  "notes": "Aromatic high-vitamin-C fruit for juice and jam; can host white pine blister rust — check local rules and plant resistant cultivars",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257221&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ribes_nigrum_a1.JPG/330px-Ribes_nigrum_a1.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Blackcurrant"
+ },
+ {
+  "id": "ribes-rubrum",
+  "common": "Red Currant",
+  "botanical": "Ribes rubrum",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 4,
+  "spreadRangeFt": [
+   3,
+   5
+  ],
+  "heightFt": 4,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, yellow-green",
+  "notes": "Red (and white) currants; translucent tart berries in strigs for jelly; tolerates part shade",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261449&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ribes_rubrum_1.jpg/330px-Ribes_rubrum_1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Redcurrant"
+ },
+ {
+  "id": "ribes-uva-crispa",
+  "common": "Gooseberry",
+  "botanical": "Ribes uva-crispa",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 4,
+  "spreadRangeFt": [
+   3,
+   4
+  ],
+  "heightFt": 4,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, green",
+  "notes": "European gooseberry; thorny; tart-sweet berries for pies and preserves; give good airflow to limit mildew",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=252514&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ribes_uva-crispa_kz04.jpg/330px-Ribes_uva-crispa_kz04.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Ribes_uva-crispa"
+ },
+ {
+  "id": "ribes-odoratum",
+  "common": "Clove Currant",
+  "botanical": "Ribes odoratum",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 7,
+  "spreadRangeFt": [
+   6,
+   8
+  ],
+  "heightFt": 8,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "midwest"
+  ],
+  "bloom": "April, fragrant yellow",
+  "notes": "Buffalo/clove currant; strongly clove-scented flowers; black edible fruit; drought tolerant",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286905&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ribes_aureum_var_aureum_4.jpg/330px-Ribes_aureum_var_aureum_4.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Ribes_aureum"
+ },
+ {
+  "id": "rubus-idaeus",
+  "common": "Red Raspberry",
+  "botanical": "Rubus idaeus",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 4,
+  "spreadRangeFt": [
+   3,
+   6
+  ],
+  "heightFt": 5,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May–June, white",
+  "notes": "Summer-bearing and everbearing (fall) types; support canes on a trellis; prune spent floricanes",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=295999&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG/330px-Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Rubus_idaeus"
+ },
+ {
+  "id": "rubus-occidentalis",
+  "common": "Black Raspberry",
+  "botanical": "Rubus occidentalis",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 6,
+  "spreadRangeFt": [
+   4,
+   8
+  ],
+  "heightFt": 5,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May, white",
+  "notes": "Native black raspberry; arching canes root at the tips; tip-prune to keep in bounds",
+  "src": "https://plants.ces.ncsu.edu/plants/rubus-occidentalis/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubus_occidentalis_2008_07_06.JPG/330px-Rubus_occidentalis_2008_07_06.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Rubus_occidentalis"
+ },
+ {
+  "id": "rubus-allegheniensis",
+  "common": "Allegheny Blackberry",
+  "botanical": "Rubus allegheniensis",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 6,
+  "spreadRangeFt": [
+   4,
+   10
+  ],
+  "heightFt": 6,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May–June, white",
+  "notes": "Native thorny blackberry; vigorous brambles; large sweet late-summer fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rubus_allegheniensis_NRCS-015.jpg/330px-Rubus_allegheniensis_NRCS-015.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Rubus_allegheniensis"
+ },
+ {
+  "id": "lonicera-caerulea",
+  "common": "Honeyberry (Haskap)",
+  "botanical": "Lonicera caerulea",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 5,
+  "spreadRangeFt": [
+   4,
+   6
+  ],
+  "heightFt": 5,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, yellow-white",
+  "notes": "Earliest fruit of the season; extremely cold-hardy — a Vermont favorite; plant two compatible cultivars to set fruit",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278931&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lonicera_coerulea_a3.jpg/330px-Lonicera_coerulea_a3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Lonicera_caerulea"
+ },
+ {
+  "id": "hippophae-rhamnoides",
+  "common": "Sea Buckthorn",
+  "botanical": "Hippophae rhamnoides",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   8,
+   12
+  ],
+  "heightFt": 12,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, inconspicuous",
+  "notes": "Seaberry; tart vitamin-rich orange fruit; nitrogen-fixing, thorny and suckering; dioecious — need a male and females",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279923&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hippophae_rhamnoides-01_%28xndr%29.JPG/330px-Hippophae_rhamnoides-01_%28xndr%29.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Sea_buckthorn"
+ },
+ {
+  "id": "lycium-barbarum",
+  "common": "Goji Berry",
+  "botanical": "Lycium barbarum",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 8,
+  "spreadRangeFt": [
+   5,
+   12
+  ],
+  "heightFt": 8,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June–September, purple",
+  "notes": "Wolfberry; lax arching thorny stems; sweet-tart red fruit; can sucker — give it room or a trellis",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=369042&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lycium_barbarum_-_Wolfberries_China_7-05.jpg/330px-Lycium_barbarum_-_Wolfberries_China_7-05.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Lycium_barbarum"
+ },
+ {
+  "id": "actinidia-arguta",
+  "common": "Hardy Kiwi",
+  "botanical": "Actinidia arguta",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   6,
+   20
+  ],
+  "heightFt": 18,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May–June, white",
+  "notes": "Kiwiberry; grape-size smooth-skinned fruit; vigorous vine needs a very strong trellis; dioecious — need a male and females",
+  "src": "https://plants.ces.ncsu.edu/plants/actinidia-arguta/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weiki01.jpg/330px-Weiki01.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Actinidia_arguta"
+ },
+ {
+  "id": "vitis-labrusca",
+  "common": "Fox Grape (Concord type)",
+  "botanical": "Vitis labrusca",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   8,
+   20
+  ],
+  "heightFt": 18,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May–June, green",
+  "notes": "Slip-skin American grapes (Concord, Niagara) for juice, jelly and fresh eating; train on a trellis or arbor and prune hard yearly",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=301151&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vitis_labrusca_154618896.jpg/330px-Vitis_labrusca_154618896.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Vitis_labrusca"
+ },
+ {
+  "id": "rheum-rhabarbarum",
+  "common": "Rhubarb",
+  "botanical": "Rheum rhabarbarum",
+  "category": "perennial",
+  "form": "deciduous",
+  "spreadFt": 4,
+  "spreadRangeFt": [
+   3,
+   4
+  ],
+  "heightFt": 3,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": 36,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May–June, cream (remove stalks)",
+  "notes": "Harvest the tart leaf-stalks in spring; leaf blades are toxic; a long-lived, very hardy perennial",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=298908&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rheum_rhabarbarum.2006-04-27.uellue.jpg/330px-Rheum_rhabarbarum.2006-04-27.uellue.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Rhubarb"
+ },
+ {
+  "id": "fragaria-x-ananassa",
+  "common": "Garden Strawberry",
+  "botanical": "Fragaria × ananassa",
+  "category": "groundcover",
+  "form": "semi-evergreen",
+  "spreadFt": 1,
+  "spreadRangeFt": [
+   1,
+   2
+  ],
+  "heightFt": 1,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": 12,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–June, white",
+  "notes": "June-bearing, everbearing and day-neutral types; spreads by runners; hardy in Vermont with winter mulch",
+  "src": "https://plants.ces.ncsu.edu/plants/fragaria-x-ananassa/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/330px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Strawberry"
+ },
+ {
+  "id": "asparagus-officinalis",
+  "common": "Asparagus",
+  "botanical": "Asparagus officinalis",
+  "category": "perennial",
+  "form": "deciduous",
+  "spreadFt": 3,
+  "spreadRangeFt": [
+   2,
+   3
+  ],
+  "heightFt": 5,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   2,
+   9
+  ],
+  "spacingInches": 18,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June, yellow-green",
+  "notes": "Cut spears in spring; a productive bed lasts 15+ years; dioecious (all-male hybrids yield most)",
+  "src": "https://plants.ces.ncsu.edu/plants/asparagus-officinalis/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Asparagus_officinalis_Szparag_lekarski_2022-05-22_01.jpg/330px-Asparagus_officinalis_Szparag_lekarski_2022-05-22_01.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Asparagus"
+ },
+ {
+  "id": "vaccinium-macrocarpon",
+  "common": "American Cranberry",
+  "botanical": "Vaccinium macrocarpon",
+  "category": "groundcover",
+  "form": "semi-evergreen",
+  "spreadFt": 2,
+  "spreadRangeFt": [
+   1,
+   3
+  ],
+  "heightFt": 1,
+  "sun": "full",
+  "water": "wet",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": 12,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "June–July, pink",
+  "notes": "Low trailing evergreen mat; needs acidic, moist to boggy soil; tart red fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/vaccinium-macrocarpon/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cranberry_bog.jpg/330px-Cranberry_bog.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Vaccinium_macrocarpon"
+ },
+ {
+  "id": "sambucus-nigra",
+  "common": "European Elderberry",
+  "botanical": "Sambucus nigra",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   8,
+   20
+  ],
+  "heightFt": 15,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June, white flat cymes",
+  "notes": "Flowers and cooked berries edible (raw fruit is toxic); plant two for good fruit set; some cultivars ('Black Lace') hardy to zone 4",
+  "src": "https://plants.ces.ncsu.edu/plants/sambucus-nigra/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sambucus_nigra_004.jpg/330px-Sambucus_nigra_004.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Sambucus_nigra"
+ },
+ {
+  "id": "vaccinium-vitis-idaea",
+  "common": "Lingonberry",
+  "botanical": "Vaccinium vitis-idaea",
+  "category": "groundcover",
+  "form": "semi-evergreen",
+  "spreadFt": 2,
+  "spreadRangeFt": [
+   1,
+   3
+  ],
+  "heightFt": 1,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": 12,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May–June and August, white-pink",
+  "notes": "Low evergreen mat; tart red fruit; two crops a year; needs acidic soil; very cold-hardy",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279945&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vaccinium_vitis-idaea_20060824_003.jpg/330px-Vaccinium_vitis-idaea_20060824_003.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea"
+ },
+ {
+  "id": "prunus-tomentosa",
+  "common": "Nanking Cherry",
+  "botanical": "Prunus tomentosa",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   6,
+   15
+  ],
+  "heightFt": 10,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, pink to white",
+  "notes": "Extremely hardy shrubby cherry; makes a fruiting hedge; small tart-sweet red cherries; plant two for pollination",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-tomentosa/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Berries_and_leaves_of_Prunus_Cerasus_tomentosa.jpg/330px-Berries_and_leaves_of_Prunus_Cerasus_tomentosa.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_tomentosa"
+ },
+ {
+  "id": "cornus-mas",
+  "common": "Cornelian Cherry",
+  "botanical": "Cornus mas",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   20
+  ],
+  "heightFt": 20,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "March, yellow (very early)",
+  "notes": "One of the earliest woody plants to bloom; tart red olive-like edible fruit for syrup and preserves",
+  "src": "https://plants.ces.ncsu.edu/plants/cornus-mas/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CornusMas_Fruits_01.jpg/330px-CornusMas_Fruits_01.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Cornus_mas"
+ },
+ {
+  "id": "shepherdia-argentea",
+  "common": "Silver Buffaloberry",
+  "botanical": "Shepherdia argentea",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   8,
+   12
+  ],
+  "heightFt": 12,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "west",
+   "midwest"
+  ],
+  "bloom": "April–May, yellow",
+  "notes": "Silvery foliage; tart red berries for jelly; nitrogen-fixing, thorny, drought-tough; dioecious",
+  "src": "https://plants.ces.ncsu.edu/plants/shepherdia-argentea/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SilverBuffaloberry-SK..jpg/330px-SilverBuffaloberry-SK..jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Shepherdia_argentea"
+ },
+ {
+  "id": "gaylussacia-baccata",
+  "common": "Black Huckleberry",
+  "botanical": "Gaylussacia baccata",
+  "category": "shrub-deciduous",
+  "form": "deciduous",
+  "spreadFt": 3,
+  "spreadRangeFt": [
+   2,
+   4
+  ],
+  "heightFt": 3,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May, red to pink",
+  "notes": "Native low shrub of acidic woods; seedy sweet dark berries; good fall color",
+  "src": "https://plants.ces.ncsu.edu/plants/gaylussacia-baccata/",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Black-huckleberry-Acadia.jpg/330px-Black-huckleberry-Acadia.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Gaylussacia_baccata"
+ },
+ {
+  "id": "fragaria-vesca",
+  "common": "Alpine Strawberry",
+  "botanical": "Fragaria vesca",
+  "category": "groundcover",
+  "form": "semi-evergreen",
+  "spreadFt": 1,
+  "spreadRangeFt": [
+   1,
+   1
+  ],
+  "heightFt": 1,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": 10,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April–June, white",
+  "notes": "Woodland/alpine strawberry; small intensely flavored everbearing berries; clumping (few runners); good edging and edible groundcover",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286348&isprofile=0",
+  "edible": true,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Illustration_Fragaria_vesca0.jpg/330px-Illustration_Fragaria_vesca0.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fragaria_vesca"
+ }
+]

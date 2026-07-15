@@ -1,0 +1,2784 @@
+[
+  {
+    "id": "symphyotrichum-novae-angliae",
+    "common": "New England Aster",
+    "botanical": "Symphyotrichum novae-angliae",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "August\u2013October, purple",
+    "notes": "Tall fall aster; magnet for late pollinators",
+    "src": "https://plants.ces.ncsu.edu/plants/symphyotrichum-novae-angliae/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Symphyotrichum_novae-angliae3.jpg/330px-Symphyotrichum_novae-angliae3.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Symphyotrichum_novae-angliae"
+  },
+  {
+    "id": "monarda-fistulosa",
+    "common": "Wild Bergamot",
+    "botanical": "Monarda fistulosa",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 3.5,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "June\u2013August, lavender",
+    "notes": "Lavender bee balm; mildew-resistant, drought-tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/monarda-fistulosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Monarda_fistulosa_Arkansas.jpg/330px-Monarda_fistulosa_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Monarda_fistulosa"
+  },
+  {
+    "id": "asclepias-tuberosa",
+    "common": "Butterfly Weed",
+    "botanical": "Asclepias tuberosa",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 2,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "June\u2013August, orange",
+    "notes": "Milkweed host; taproot dislikes transplanting",
+    "src": "https://plants.ces.ncsu.edu/plants/asclepias-tuberosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Asclepias_tuberosa_interior.jpg/330px-Asclepias_tuberosa_interior.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Asclepias_tuberosa"
+  },
+  {
+    "id": "asclepias-syriaca",
+    "common": "Common Milkweed",
+    "botanical": "Asclepias syriaca",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      0.75,
+      3
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "June\u2013August, pink",
+    "notes": "Monarch host; spreads by rhizome",
+    "src": "https://plants.ces.ncsu.edu/plants/asclepias-syriaca/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Asclepias_syriacus.tif/lossy-page1-330px-Asclepias_syriacus.tif.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Asclepias_syriaca"
+  },
+  {
+    "id": "asclepias-incarnata",
+    "common": "Swamp Milkweed",
+    "botanical": "Asclepias incarnata",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 4.5,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "June\u2013August, pink",
+    "notes": "Monarch host; tolerates wet soils",
+    "src": "https://plants.ces.ncsu.edu/plants/asclepias-incarnata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Swamp_milkweed_monarch.jpg/330px-Swamp_milkweed_monarch.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Asclepias_incarnata"
+  },
+  {
+    "id": "eutrochium-purpureum",
+    "common": "Sweet Joe Pye Weed",
+    "botanical": "Eutrochium purpureum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 6,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "July\u2013September, mauve",
+    "notes": "Tall clumps; nectar magnet for butterflies",
+    "src": "https://plants.ces.ncsu.edu/plants/eutrochium-purpureum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eutrochium_purpureum.jpg/330px-Eutrochium_purpureum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Eutrochium_purpureum"
+  },
+  {
+    "id": "lobelia-cardinalis",
+    "common": "Cardinal Flower",
+    "botanical": "Lobelia cardinalis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "great-plains"
+    ],
+    "bloom": "July\u2013September, red",
+    "notes": "Brilliant red spikes; hummingbird favorite",
+    "src": "https://plants.ces.ncsu.edu/plants/lobelia-cardinalis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lobelia_cardinalis_-_Cardinal_Flower.jpg/330px-Lobelia_cardinalis_-_Cardinal_Flower.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lobelia_cardinalis"
+  },
+  {
+    "id": "lobelia-siphilitica",
+    "common": "Great Blue Lobelia",
+    "botanical": "Lobelia siphilitica",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 3,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "great-plains"
+    ],
+    "bloom": "August\u2013September, blue",
+    "notes": "Blue spikes; moist shade to sun",
+    "src": "https://plants.ces.ncsu.edu/plants/lobelia-siphilitica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lobelia_siphilitica.jpg/330px-Lobelia_siphilitica.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lobelia_siphilitica"
+  },
+  {
+    "id": "tiarella-cordifolia",
+    "common": "Foamflower",
+    "botanical": "Tiarella cordifolia",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      2
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013May, white",
+    "notes": "Woodland groundcover; spreads by stolons",
+    "src": "https://plants.ces.ncsu.edu/plants/tiarella-cordifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Heartleaved_foamflower_%28Tiarella_cordifolia%29.jpg/330px-Heartleaved_foamflower_%28Tiarella_cordifolia%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Tiarella_cordifolia"
+  },
+  {
+    "id": "aquilegia-canadensis",
+    "common": "Wild Columbine",
+    "botanical": "Aquilegia canadensis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.5,
+      1.5
+    ],
+    "heightFt": 2,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "great-plains"
+    ],
+    "bloom": "April\u2013May, red-yellow",
+    "notes": "Nodding red-and-yellow flowers; hummingbirds",
+    "src": "https://plants.ces.ncsu.edu/plants/aquilegia-canadensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wild_Columbine.jpg/330px-Wild_Columbine.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Aquilegia_canadensis"
+  },
+  {
+    "id": "sanguinaria-canadensis",
+    "common": "Bloodroot",
+    "botanical": "Sanguinaria canadensis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 0.75,
+    "spreadRangeFt": [
+      0.5,
+      1
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 9,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "March\u2013April, white",
+    "notes": "Spring ephemeral; white flowers, lobed leaves",
+    "src": "https://plants.ces.ncsu.edu/plants/sanguinaria-canadensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sanguinaria_canadensis_Arkansas.jpg/330px-Sanguinaria_canadensis_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sanguinaria"
+  },
+  {
+    "id": "asarum-canadense",
+    "common": "Wild Ginger",
+    "botanical": "Asarum canadense",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.5,
+      1.5
+    ],
+    "heightFt": 0.5,
+    "sun": "shade",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "April\u2013May, maroon",
+    "notes": "Heart-shaped leaves; slow shade groundcover",
+    "src": "https://plants.ces.ncsu.edu/plants/asarum-canadense/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Asarum_canadense_-_Wild_Ginger.jpg/330px-Asarum_canadense_-_Wild_Ginger.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Asarum_canadense"
+  },
+  {
+    "id": "polystichum-acrostichoides",
+    "common": "Christmas Fern",
+    "botanical": "Polystichum acrostichoides",
+    "category": "perennial",
+    "form": "evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 1.75,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": null,
+    "notes": "Evergreen fern; clumping, holds through winter",
+    "src": "https://plants.ces.ncsu.edu/plants/polystichum-acrostichoides/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Christmas_fern.jpg/330px-Christmas_fern.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Polystichum_acrostichoides"
+  },
+  {
+    "id": "matteuccia-struthiopteris",
+    "common": "Ostrich Fern",
+    "botanical": "Matteuccia struthiopteris",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      5
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest"
+    ],
+    "bloom": null,
+    "notes": "Large vase-shaped fronds; spreads by rhizome",
+    "src": "https://plants.ces.ncsu.edu/plants/matteuccia-struthiopteris/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Matteuccia_struthiopteris_fiddleheads.jpg/330px-Matteuccia_struthiopteris_fiddleheads.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Matteuccia"
+  },
+  {
+    "id": "osmundastrum-cinnamomeum",
+    "common": "Cinnamon Fern",
+    "botanical": "Osmundastrum cinnamomeum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 4,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 30,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": null,
+    "notes": "Cinnamon fertile fronds; tolerates wet soil",
+    "src": "https://plants.ces.ncsu.edu/plants/osmundastrum-cinnamomeum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Osmundastrum_cinnamomeum_May2015.jpg/330px-Osmundastrum_cinnamomeum_May2015.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Osmundastrum_cinnamomeum"
+  },
+  {
+    "id": "dennstaedtia-punctilobula",
+    "common": "Hay-scented Fern",
+    "botanical": "Dennstaedtia punctilobula",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": null,
+    "notes": "Aggressive spreading fern; hay scent when crushed",
+    "src": "https://plants.ces.ncsu.edu/plants/dennstaedtia-punctilobula/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dennstaedtia_punctilobula1.jpg/330px-Dennstaedtia_punctilobula1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sitobolium_punctilobulum"
+  },
+  {
+    "id": "andropogon-gerardii",
+    "common": "Big Bluestem",
+    "botanical": "Andropogon gerardii",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "midwest",
+      "great-plains",
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "August\u2013September, purple",
+    "notes": "Tallgrass-prairie giant; turkey-foot seed heads",
+    "src": "https://plants.ces.ncsu.edu/plants/andropogon-gerardi/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Andropogon_gerardii_%283904160434%29.jpg/330px-Andropogon_gerardii_%283904160434%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Andropogon_gerardi"
+  },
+  {
+    "id": "carex-pensylvanica",
+    "common": "Pennsylvania Sedge",
+    "botanical": "Carex pensylvanica",
+    "category": "grass",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.25
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 10,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": null,
+    "notes": "Fine dry-shade sedge; lawn alternative",
+    "src": "https://plants.ces.ncsu.edu/plants/carex-pensylvanica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CarexPensylvanica.jpg/330px-CarexPensylvanica.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Carex_pensylvanica"
+  },
+  {
+    "id": "iris-versicolor",
+    "common": "Blue Flag Iris",
+    "botanical": "Iris versicolor",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2.5,
+    "sun": "full-part",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "May\u2013July, blue-violet",
+    "notes": "Native iris for wet margins and rain gardens",
+    "src": "https://plants.ces.ncsu.edu/plants/iris-versicolor/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_Flag%2C_Ottawa.jpg/330px-Blue_Flag%2C_Ottawa.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Iris_versicolor"
+  },
+  {
+    "id": "chelone-glabra",
+    "common": "White Turtlehead",
+    "botanical": "Chelone glabra",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "August\u2013September, white",
+    "notes": "Snapthead flowers; host for Baltimore checkerspot",
+    "src": "https://plants.ces.ncsu.edu/plants/chelone-glabra/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chelone_glabra_Red_River_Gorge.JPG/330px-Chelone_glabra_Red_River_Gorge.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Chelone_glabra"
+  },
+  {
+    "id": "solidago-speciosa",
+    "common": "Showy Goldenrod",
+    "botanical": "Solidago speciosa",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "August\u2013September, yellow",
+    "notes": "Upright, non-aggressive goldenrod; late nectar",
+    "src": "https://plants.ces.ncsu.edu/plants/solidago-speciosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Showy_Goldenrod_%28Solidago_speciosa%29_-_Flickr_-_wackybadger.jpg/330px-Showy_Goldenrod_%28Solidago_speciosa%29_-_Flickr_-_wackybadger.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Solidago_speciosa"
+  },
+  {
+    "id": "solidago-caesia",
+    "common": "Blue-stemmed Goldenrod",
+    "botanical": "Solidago caesia",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2.5,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "August\u2013October, yellow",
+    "notes": "Arching wand goldenrod for woodland edges",
+    "src": "https://plants.ces.ncsu.edu/plants/solidago-caesia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Solidago_caesia_Arkansas.jpg/330px-Solidago_caesia_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Solidago_caesia"
+  },
+  {
+    "id": "eurybia-divaricata",
+    "common": "White Wood Aster",
+    "botanical": "Eurybia divaricata",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "August\u2013October, white",
+    "notes": "Dry-shade aster; spreads to form drifts",
+    "src": "https://plants.ces.ncsu.edu/plants/eurybia-divaricata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Eurybia_divaricata_in_CT.jpg/330px-Eurybia_divaricata_in_CT.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Eurybia_divaricata"
+  },
+  {
+    "id": "podophyllum-peltatum",
+    "common": "Mayapple",
+    "botanical": "Podophyllum peltatum",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "April\u2013May, white",
+    "notes": "Umbrella leaves; colonizes moist woodland",
+    "src": "https://plants.ces.ncsu.edu/plants/podophyllum-peltatum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Podophyllum_peltatum_Arkansas.jpg/330px-Podophyllum_peltatum_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Podophyllum_peltatum"
+  },
+  {
+    "id": "polygonatum-biflorum",
+    "common": "Solomon's Seal",
+    "botanical": "Polygonatum biflorum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "great-plains"
+    ],
+    "bloom": "May\u2013June, white",
+    "notes": "Arching stems, dangling bells; woodland",
+    "src": "https://plants.ces.ncsu.edu/plants/polygonatum-biflorum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Polygonatum_biflorum_Arkansas.jpg/330px-Polygonatum_biflorum_Arkansas.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Polygonatum_biflorum"
+  },
+  {
+    "id": "geranium-maculatum",
+    "common": "Wild Geranium",
+    "botanical": "Geranium maculatum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 2,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "April\u2013June, pink",
+    "notes": "Woodland cranesbill; pink-lavender flowers",
+    "src": "https://plants.ces.ncsu.edu/plants/geranium-maculatum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Geranium_maculatum_Leatherwood_Lake.jpg/330px-Geranium_maculatum_Leatherwood_Lake.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Geranium_maculatum"
+  },
+  {
+    "id": "zizia-aurea",
+    "common": "Golden Alexanders",
+    "botanical": "Zizia aurea",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2.5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "April\u2013June, yellow",
+    "notes": "Flat yellow umbels; host for black swallowtail",
+    "src": "https://plants.ces.ncsu.edu/plants/zizia-aurea/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Golden_Alexanders_Zizia_aurea_Flowers_3008px.JPG/330px-Golden_Alexanders_Zizia_aurea_Flowers_3008px.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Zizia_aurea"
+  },
+  {
+    "id": "mertensia-virginica",
+    "common": "Virginia Bluebells",
+    "botanical": "Mertensia virginica",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "March\u2013April, blue",
+    "notes": "Spring ephemeral; pink buds open sky-blue",
+    "src": "https://plants.ces.ncsu.edu/plants/mertensia-virginica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mertensia_virginica.bbg.jpg/330px-Mertensia_virginica.bbg.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Mertensia_virginica"
+  },
+  {
+    "id": "anemone-canadensis",
+    "common": "Canada Anemone",
+    "botanical": "Anemone canadensis",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May\u2013June, white",
+    "notes": "White cups; vigorous rhizomatous groundcover",
+    "src": "https://en.wikipedia.org/wiki/Anemonastrum_canadense",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Anemone_canadensis.jpg/330px-Anemone_canadensis.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Anemonastrum_canadense"
+  },
+  {
+    "id": "tradescantia-virginiana",
+    "common": "Spiderwort",
+    "botanical": "Tradescantia virginiana",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast"
+    ],
+    "bloom": "May\u2013July, blue-purple",
+    "notes": "Grassy clumps; three-petaled morning flowers",
+    "src": "https://plants.ces.ncsu.edu/plants/tradescantia-virginiana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tradescantia_virginiana_Plummers_Island_MD_with_Toxomerus_sp2.jpg/330px-Tradescantia_virginiana_Plummers_Island_MD_with_Toxomerus_sp2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Tradescantia_virginiana"
+  },
+  {
+    "id": "actaea-racemosa",
+    "common": "Black Cohosh",
+    "botanical": "Actaea racemosa",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 6,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 30,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "June\u2013July, white",
+    "notes": "Tall white bottlebrush spires in shade",
+    "src": "https://plants.ces.ncsu.edu/plants/actaea-racemosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Actaea_racemosa_002.JPG/330px-Actaea_racemosa_002.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Actaea_racemosa"
+  },
+  {
+    "id": "aruncus-dioicus",
+    "common": "Goat's Beard",
+    "botanical": "Aruncus dioicus",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast",
+      "pacific-northwest"
+    ],
+    "bloom": "May\u2013June, cream",
+    "notes": "Astilbe-like plumes; shrub-sized shade plant",
+    "src": "https://plants.ces.ncsu.edu/plants/aruncus-dioicus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aruncus_dioicus_1549.JPG/330px-Aruncus_dioicus_1549.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Aruncus_dioicus"
+  },
+  {
+    "id": "dicentra-eximia",
+    "common": "Fringed Bleeding Heart",
+    "botanical": "Dicentra eximia",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.25,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "April\u2013September, pink",
+    "notes": "Ferny foliage; repeat pink blooms in shade",
+    "src": "https://plants.ces.ncsu.edu/plants/dicentra-eximia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dolly_Sods_%28Dicentra_Exima%29_Fringed_Bleeding_Heart.jpg/330px-Dolly_Sods_%28Dicentra_Exima%29_Fringed_Bleeding_Heart.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Dicentra_eximia"
+  },
+  {
+    "id": "athyrium-filix-femina",
+    "common": "Lady Fern",
+    "botanical": "Athyrium filix-femina",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      1.5,
+      3
+    ],
+    "heightFt": 2.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "pacific-northwest"
+    ],
+    "bloom": null,
+    "notes": "Lacy upright fronds; adaptable shade fern",
+    "src": "https://plants.ces.ncsu.edu/plants/athyrium-filix-femina/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Athyrium_filix-femina0.jpg/330px-Athyrium_filix-femina0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Athyrium_filix-femina"
+  },
+  {
+    "id": "hibiscus-moscheutos",
+    "common": "Rose Mallow",
+    "botanical": "Hibiscus moscheutos",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 5,
+    "sun": "full",
+    "water": "medium-wet",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "southeast",
+      "great-plains"
+    ],
+    "bloom": "July\u2013September, pink-white",
+    "notes": "Dinner-plate flowers; loves moist soils",
+    "src": "https://plants.ces.ncsu.edu/plants/hibiscus-moscheutos/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Swamp_rose-mallow.jpg/330px-Swamp_rose-mallow.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hibiscus_moscheutos"
+  },
+  {
+    "id": "chrysogonum-virginianum",
+    "common": "Green-and-gold",
+    "botanical": "Chrysogonum virginianum",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April\u2013June, yellow",
+    "notes": "Low woodland mat; long yellow-star bloom",
+    "src": "https://plants.ces.ncsu.edu/plants/chrysogonum-virginianum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Green_and_Gold_Chrysogonum_virginianum_Flower_3008.jpg/330px-Green_and_Gold_Chrysogonum_virginianum_Flower_3008.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Chrysogonum_virginianum"
+  },
+  {
+    "id": "amsonia-tabernaemontana",
+    "common": "Eastern Bluestar",
+    "botanical": "Amsonia tabernaemontana",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2.5,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 30,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "April\u2013May, blue",
+    "notes": "Steel-blue stars; golden fall foliage",
+    "src": "https://plants.ces.ncsu.edu/plants/amsonia-tabernaemontana/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Amsonia_tabernaemontana.jpg/330px-Amsonia_tabernaemontana.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Amsonia_tabernaemontana"
+  },
+  {
+    "id": "amsonia-hubrichtii",
+    "common": "Threadleaf Bluestar",
+    "botanical": "Amsonia hubrichtii",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April\u2013May, blue",
+    "notes": "Feathery foliage; brilliant gold in autumn",
+    "src": "https://plants.ces.ncsu.edu/plants/amsonia-hubrichtii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amsonia_hubrichtii.jpg/330px-Amsonia_hubrichtii.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Amsonia_hubrichtii"
+  },
+  {
+    "id": "eryngium-yuccifolium",
+    "common": "Rattlesnake Master",
+    "botanical": "Eryngium yuccifolium",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "June\u2013August, white",
+    "notes": "Yucca-like blades; globe flowers, prairie plant",
+    "src": "https://plants.ces.ncsu.edu/plants/eryngium-yuccifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eryngium_yuccifolium.jpg/330px-Eryngium_yuccifolium.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Eryngium_yuccifolium"
+  },
+  {
+    "id": "phlox-pilosa",
+    "common": "Downy Phlox",
+    "botanical": "Phlox pilosa",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.5,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "April\u2013June, pink",
+    "notes": "Fragrant prairie phlox; drought-tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/phlox-pilosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Phlox_pilosa_Central_Basin_TN.jpg/330px-Phlox_pilosa_Central_Basin_TN.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_pilosa"
+  },
+  {
+    "id": "phlox-paniculata",
+    "common": "Garden Phlox",
+    "botanical": "Phlox paniculata",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      2,
+      3
+    ],
+    "heightFt": 3.5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "July\u2013September, pink",
+    "notes": "Fragrant summer spires; choose mildew-resistant",
+    "src": "https://plants.ces.ncsu.edu/plants/phlox-paniculata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Phlox_paniculata_eva_cullum.jpeg/330px-Phlox_paniculata_eva_cullum.jpeg",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_paniculata"
+  },
+  {
+    "id": "stokesia-laevis",
+    "common": "Stokes' Aster",
+    "botanical": "Stokesia laevis",
+    "category": "perennial",
+    "form": "semi-evergreen",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May\u2013July, blue",
+    "notes": "Fringed blue flowers; evergreen basal rosette",
+    "src": "https://plants.ces.ncsu.edu/plants/stokesia-laevis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Stokesia_laevis0.jpg/330px-Stokesia_laevis0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Stokesia_laevis"
+  },
+  {
+    "id": "chasmanthium-latifolium",
+    "common": "River Oats",
+    "botanical": "Chasmanthium latifolium",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2.5
+    ],
+    "heightFt": 3.5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "August\u2013September, green",
+    "notes": "Dangling oat-like seed heads; self-sows, shade-ok",
+    "src": "https://plants.ces.ncsu.edu/plants/chasmanthium-latifolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chasmanthium_latifolium_Boyle_Park.jpg/330px-Chasmanthium_latifolium_Boyle_Park.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Chasmanthium_latifolium"
+  },
+  {
+    "id": "spigelia-marilandica",
+    "common": "Indian Pink",
+    "botanical": "Spigelia marilandica",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "May\u2013June, red-yellow",
+    "notes": "Red trumpets with yellow throats; hummingbirds",
+    "src": "https://plants.ces.ncsu.edu/plants/spigelia-marilandica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Spigelia_marilandica_-_woodland_pinkroot_-_desc-flowers_3.jpg/330px-Spigelia_marilandica_-_woodland_pinkroot_-_desc-flowers_3.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Spigelia_marilandica"
+  },
+  {
+    "id": "lonicera-sempervirens",
+    "common": "Coral Honeysuckle",
+    "botanical": "Lonicera sempervirens",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 4,
+    "spreadRangeFt": [
+      3,
+      6
+    ],
+    "heightFt": 5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 48,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013September, red",
+    "notes": "Twining vine or bank cover; hummingbird trumpets",
+    "src": "https://plants.ces.ncsu.edu/plants/lonicera-sempervirens/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lonicera_sempervirens_2.jpg/330px-Lonicera_sempervirens_2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lonicera_sempervirens"
+  },
+  {
+    "id": "phlox-glaberrima",
+    "common": "Smooth Phlox",
+    "botanical": "Phlox glaberrima",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "May\u2013July, pink",
+    "notes": "Mildew-resistant phlox; moist meadows and edges",
+    "src": "https://plants.ces.ncsu.edu/plants/phlox-glaberrima/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Phlox_glaberrima_ssp._interior.jpg/330px-Phlox_glaberrima_ssp._interior.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_glaberrima"
+  },
+  {
+    "id": "phlox-divaricata",
+    "common": "Woodland Phlox",
+    "botanical": "Phlox divaricata",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.25,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013May, blue",
+    "notes": "Fragrant blue drifts; spring woodland carpet",
+    "src": "https://plants.ces.ncsu.edu/plants/phlox-divaricata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Phlox_divaricata_Ohio_2016.JPG/330px-Phlox_divaricata_Ohio_2016.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_divaricata"
+  },
+  {
+    "id": "phlox-stolonifera",
+    "common": "Creeping Phlox",
+    "botanical": "Phlox stolonifera",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 0.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "April\u2013May, blue-pink",
+    "notes": "Stoloniferous woodland groundcover; shade",
+    "src": "https://plants.ces.ncsu.edu/plants/phlox-stolonifera/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Creeping_Phlox_Phlox_stolonifera_Flowers_3008px.jpg/330px-Creeping_Phlox_Phlox_stolonifera_Flowers_3008px.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Phlox_stolonifera"
+  },
+  {
+    "id": "coreopsis-lanceolata",
+    "common": "Lanceleaf Coreopsis",
+    "botanical": "Coreopsis lanceolata",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May\u2013July, yellow",
+    "notes": "Golden daisies; tough, self-sowing, drought-ok",
+    "src": "https://plants.ces.ncsu.edu/plants/coreopsis-lanceolata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coreopsis_lanceolata_Sterntaler.JPG/330px-Coreopsis_lanceolata_Sterntaler.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Coreopsis_lanceolata"
+  },
+  {
+    "id": "baptisia-australis",
+    "common": "Blue False Indigo",
+    "botanical": "Baptisia australis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      3,
+      4
+    ],
+    "heightFt": 3.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May\u2013June, blue",
+    "notes": "Shrub-like; indigo spikes, black seed pods",
+    "src": "https://plants.ces.ncsu.edu/plants/baptisia-australis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baptisia_australis.jpg/330px-Baptisia_australis.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Baptisia_australis"
+  },
+  {
+    "id": "penstemon-digitalis",
+    "common": "Foxglove Beardtongue",
+    "botanical": "Penstemon digitalis",
+    "category": "perennial",
+    "form": "semi-evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "May\u2013June, white",
+    "notes": "White tubular spikes; pollinator staple",
+    "src": "https://plants.ces.ncsu.edu/plants/penstemon-digitalis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Penstemon_digitalis.jpg/330px-Penstemon_digitalis.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Penstemon_digitalis"
+  },
+  {
+    "id": "packera-aurea",
+    "common": "Golden Ragwort",
+    "botanical": "Packera aurea",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.5,
+      1.5
+    ],
+    "heightFt": 2,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013May, yellow",
+    "notes": "Evergreen basal rosettes; spreads in moist shade",
+    "src": "https://plants.ces.ncsu.edu/plants/packera-aurea/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Golden_Ragwort_Senecio_aureus_Flowers_2616px.jpg/330px-Golden_Ragwort_Senecio_aureus_Flowers_2616px.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Packera_aurea"
+  },
+  {
+    "id": "vernonia-noveboracensis",
+    "common": "New York Ironweed",
+    "botanical": "Vernonia noveboracensis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "medium-wet",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 36,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast"
+    ],
+    "bloom": "August\u2013September, purple",
+    "notes": "Tall purple clusters; wet meadows, butterflies",
+    "src": "https://plants.ces.ncsu.edu/plants/vernonia-noveboracensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vernonia_noveboracensis_1.JPG/330px-Vernonia_noveboracensis_1.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Vernonia_noveboracensis"
+  },
+  {
+    "id": "helenium-autumnale",
+    "common": "Common Sneezeweed",
+    "botanical": "Helenium autumnale",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest",
+      "great-plains"
+    ],
+    "bloom": "August\u2013October, yellow",
+    "notes": "Daisy-like fall blooms; moist sites, pollinators",
+    "src": "https://plants.ces.ncsu.edu/plants/helenium-autumnale/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Helenium_autumnale1.jpg/330px-Helenium_autumnale1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Helenium_autumnale"
+  },
+  {
+    "id": "liatris-spicata",
+    "common": "Dense Blazing Star",
+    "botanical": "Liatris spicata",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "July\u2013August, purple",
+    "notes": "Bottlebrush purple spikes; butterfly magnet",
+    "src": "https://plants.ces.ncsu.edu/plants/liatris-spicata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Liatris_spicata_003.JPG/330px-Liatris_spicata_003.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Liatris_spicata"
+  },
+  {
+    "id": "sorghastrum-nutans",
+    "common": "Indiangrass",
+    "botanical": "Sorghastrum nutans",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 6,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "midwest",
+      "great-plains",
+      "southeast",
+      "northeast"
+    ],
+    "bloom": "August\u2013September, bronze",
+    "notes": "Golden-bronze prairie plumes; upright form",
+    "src": "https://plants.ces.ncsu.edu/plants/sorghastrum-nutans/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sorghastrum_nutans_Tennessee.jpg/330px-Sorghastrum_nutans_Tennessee.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sorghastrum_nutans"
+  },
+  {
+    "id": "bouteloua-curtipendula",
+    "common": "Sideoats Grama",
+    "botanical": "Bouteloua curtipendula",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "great-plains",
+      "midwest",
+      "southeast",
+      "southwest"
+    ],
+    "bloom": "July\u2013August, purple",
+    "notes": "Oat-like seeds hang one-sided; dry prairie",
+    "src": "https://en.wikipedia.org/wiki/Bouteloua_curtipendula",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bouteloua_curtipendula.jpg/330px-Bouteloua_curtipendula.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Bouteloua_curtipendula"
+  },
+  {
+    "id": "sporobolus-heterolepis",
+    "common": "Prairie Dropseed",
+    "botanical": "Sporobolus heterolepis",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 3,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "midwest",
+      "great-plains",
+      "northeast",
+      "southeast"
+    ],
+    "bloom": "August\u2013September, tan",
+    "notes": "Fine fountain of foliage; fragrant seed heads",
+    "src": "https://plants.ces.ncsu.edu/plants/sporobolus-heterolepis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sporobolus_heterolepis_-_Denver_Botanic_Gardens_-_DSC00886.JPG/330px-Sporobolus_heterolepis_-_Denver_Botanic_Gardens_-_DSC00886.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Sporobolus_heterolepis"
+  },
+  {
+    "id": "eragrostis-spectabilis",
+    "common": "Purple Lovegrass",
+    "botanical": "Eragrostis spectabilis",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1.75,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest",
+      "great-plains",
+      "northeast"
+    ],
+    "bloom": "August\u2013September, purple",
+    "notes": "Purple-red haze of seed heads in late summer",
+    "src": "https://plants.ces.ncsu.edu/plants/eragrostis-spectabilis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eragrostis_spectabilis_2zz.jpg/330px-Eragrostis_spectabilis_2zz.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Eragrostis_spectabilis"
+  },
+  {
+    "id": "carex-appalachica",
+    "common": "Appalachian Sedge",
+    "botanical": "Carex appalachica",
+    "category": "grass",
+    "form": "semi-evergreen",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      7
+    ],
+    "spacingInches": 15,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "southeast"
+    ],
+    "bloom": null,
+    "notes": "Fine-textured dry-shade sedge; fountain habit",
+    "src": "https://en.wikipedia.org/wiki/Carex_appalachica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Carex_appalachica_fruiting.JPG/330px-Carex_appalachica_fruiting.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Carex_appalachica"
+  },
+  {
+    "id": "echinacea-tennesseensis",
+    "common": "Tennessee Coneflower",
+    "botanical": "Echinacea tennesseensis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 2.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "June\u2013September, pink",
+    "notes": "Endemic coneflower; upturned rays, drought-ok",
+    "src": "https://plants.ces.ncsu.edu/plants/echinacea-tennesseensis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Echinacea_tennesseensis_Couchville.jpg/330px-Echinacea_tennesseensis_Couchville.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Echinacea_tennesseensis"
+  },
+  {
+    "id": "echinacea-pallida",
+    "common": "Pale Purple Coneflower",
+    "botanical": "Echinacea pallida",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 3.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "midwest",
+      "great-plains",
+      "southeast"
+    ],
+    "bloom": "May\u2013July, pink",
+    "notes": "Drooping pale-pink rays; prairie species",
+    "src": "https://plants.ces.ncsu.edu/plants/echinacea-pallida/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Echinacea_pallida_%288%29.jpg/330px-Echinacea_pallida_%288%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Echinacea_pallida"
+  },
+  {
+    "id": "iris-cristata",
+    "common": "Crested Iris",
+    "botanical": "Iris cristata",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 0.75,
+    "spreadRangeFt": [
+      0.5,
+      1
+    ],
+    "heightFt": 0.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 9,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013May, blue",
+    "notes": "Miniature woodland iris; spreads by rhizome",
+    "src": "https://plants.ces.ncsu.edu/plants/iris-cristata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Iris_cristata_%282%29.jpg/330px-Iris_cristata_%282%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Iris_cristata"
+  },
+  {
+    "id": "chelone-lyonii",
+    "common": "Pink Turtlehead",
+    "botanical": "Chelone lyonii",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 3,
+    "sun": "part-shade",
+    "water": "medium-wet",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "southeast"
+    ],
+    "bloom": "August\u2013September, pink",
+    "notes": "Rose turtle-head flowers; moist shade",
+    "src": "https://plants.ces.ncsu.edu/plants/chelone-lyonii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chelone_lyonii_kz3.jpg/330px-Chelone_lyonii_kz3.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Chelone_lyonii"
+  },
+  {
+    "id": "salvia-yangii",
+    "common": "Russian Sage",
+    "botanical": "Salvia yangii",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 4,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 36,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013October, blue",
+    "notes": "Airy silver stems, lavender-blue haze; xeric",
+    "src": "https://plants.ces.ncsu.edu/plants/salvia-yangii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Russian_sage_by_RO_IV.jpg/330px-Russian_sage_by_RO_IV.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Salvia_yangii"
+  },
+  {
+    "id": "paeonia-lactiflora",
+    "common": "Peony",
+    "botanical": "Paeonia lactiflora",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 3,
+    "spreadRangeFt": [
+      2,
+      4
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 36,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013June, pink-white",
+    "notes": "Long-lived; fragrant, showy late-spring blooms",
+    "src": "https://en.wikipedia.org/wiki/Paeonia_lactiflora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lactiflora1b.UME.jpg/330px-Lactiflora1b.UME.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Paeonia_lactiflora"
+  },
+  {
+    "id": "iris-germanica",
+    "common": "Bearded Iris",
+    "botanical": "Iris germanica",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013June, varied",
+    "notes": "Sword foliage; ruffled rhizomatous iris",
+    "src": "https://plants.ces.ncsu.edu/plants/iris-germanica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Iris_Germanica_2012-2.jpg/330px-Iris_Germanica_2012-2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Iris_%C3%97_germanica"
+  },
+  {
+    "id": "iris-sibirica",
+    "common": "Siberian Iris",
+    "botanical": "Iris sibirica",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013June, blue-purple",
+    "notes": "Grassy clumps; graceful, adaptable, wet-tolerant",
+    "src": "https://plants.ces.ncsu.edu/plants/iris-sibirica/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG/330px-Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Iris_sibirica"
+  },
+  {
+    "id": "lavandula-angustifolia",
+    "common": "English Lavender",
+    "botanical": "Lavandula angustifolia",
+    "category": "perennial",
+    "form": "evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013August, purple",
+    "notes": "Fragrant silver evergreen; needs sharp drainage",
+    "src": "https://plants.ces.ncsu.edu/plants/lavandula-angustifolia/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-087.jpg/330px-Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-087.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lavandula_angustifolia"
+  },
+  {
+    "id": "astilbe-x-arendsii",
+    "common": "Astilbe",
+    "botanical": "Astilbe x arendsii",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013July, pink-white",
+    "notes": "Feathery plumes for moist shade; ferny foliage",
+    "src": "https://plants.ces.ncsu.edu/plants/astilbe-x-arendsii/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AstilbeArendsiiGroupWeisseGloria1UME.jpg/330px-AstilbeArendsiiGroupWeisseGloria1UME.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Astilbe_Arendsii_Group"
+  },
+  {
+    "id": "heuchera-sanguinea",
+    "common": "Coral Bells",
+    "botanical": "Heuchera sanguinea",
+    "category": "perennial",
+    "form": "semi-evergreen",
+    "spreadFt": 1.25,
+    "spreadRangeFt": [
+      1,
+      1.5
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 15,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013July, red",
+    "notes": "Mounded foliage; wiry bloom stalks, evergreen-ish",
+    "src": "https://plants.ces.ncsu.edu/plants/heuchera-sanguinea/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%C5%BBurawka.jpg/330px-%C5%BBurawka.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Heuchera_sanguinea"
+  },
+  {
+    "id": "hakonechloa-macra",
+    "common": "Japanese Forest Grass",
+    "botanical": "Hakonechloa macra",
+    "category": "grass",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Cascading bamboo-like blades; brightens shade",
+    "src": "https://plants.ces.ncsu.edu/plants/hakonechloa-macra/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hakonechloa_macra_%27All_Gold%27_Leaves_2448px.jpg/330px-Hakonechloa_macra_%27All_Gold%27_Leaves_2448px.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hakonechloa"
+  },
+  {
+    "id": "festuca-glauca",
+    "common": "Blue Fescue",
+    "botanical": "Festuca glauca",
+    "category": "grass",
+    "form": "evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.25
+    ],
+    "heightFt": 1,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 12,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013July, tan",
+    "notes": "Steel-blue tuft; tidy edging, needs drainage",
+    "src": "https://plants.ces.ncsu.edu/plants/festuca-glauca/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Festuca_glauca_001_Tehran_Botanical_garden_2016.jpg/330px-Festuca_glauca_001_Tehran_Botanical_garden_2016.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Festuca_glauca"
+  },
+  {
+    "id": "deschampsia-cespitosa",
+    "common": "Tufted Hairgrass",
+    "botanical": "Deschampsia cespitosa",
+    "category": "grass",
+    "form": "semi-evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 3,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "pacific-northwest",
+      "mountain-west"
+    ],
+    "bloom": "June\u2013July, golden",
+    "notes": "Airy golden flower clouds; clumping, shade-ok",
+    "src": "https://plants.ces.ncsu.edu/plants/deschampsia-cespitosa/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DeschampsiaCesp.jpg/330px-DeschampsiaCesp.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Deschampsia_cespitosa"
+  },
+  {
+    "id": "thymus-serpyllum",
+    "common": "Creeping Thyme",
+    "botanical": "Thymus serpyllum",
+    "category": "groundcover",
+    "form": "evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 0.25,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 12,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013August, purple",
+    "notes": "Fragrant walkable mat; between pavers, xeric",
+    "src": "https://plants.ces.ncsu.edu/plants/thymus-serpyllum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Thymus_serpyllum1.jpg/330px-Thymus_serpyllum1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Thymus_serpyllum"
+  },
+  {
+    "id": "galium-odoratum",
+    "common": "Sweet Woodruff",
+    "botanical": "Galium odoratum",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.5
+    ],
+    "heightFt": 0.75,
+    "sun": "shade",
+    "water": "medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 12,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013June, white",
+    "notes": "Whorled leaves; fast shade carpet, hay fragrance",
+    "src": "https://plants.ces.ncsu.edu/plants/galium-odoratum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Waldmeister%28Mai%29.JPG/330px-Waldmeister%28Mai%29.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Galium_odoratum"
+  },
+  {
+    "id": "epimedium-grandiflorum",
+    "common": "Barrenwort",
+    "botanical": "Epimedium grandiflorum",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.25
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      8
+    ],
+    "spacingInches": 12,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April\u2013May, pink",
+    "notes": "Tough dry-shade groundcover; heart-shaped leaves",
+    "src": "https://en.wikipedia.org/wiki/Epimedium_grandiflorum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Epimedium_grandiflorum_1.jpg/330px-Epimedium_grandiflorum_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Epimedium_grandiflorum"
+  },
+  {
+    "id": "lamium-maculatum",
+    "common": "Spotted Deadnettle",
+    "botanical": "Lamium maculatum",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 0.75,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013July, pink",
+    "notes": "Silver-marked foliage brightens shade; trailing",
+    "src": "https://plants.ces.ncsu.edu/plants/lamium-maculatum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lamium_maculatum_cm01.jpg/330px-Lamium_maculatum_cm01.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lamium_maculatum"
+  },
+  {
+    "id": "athyrium-niponicum",
+    "common": "Japanese Painted Fern",
+    "botanical": "Athyrium niponicum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      4,
+      9
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Silver-and-burgundy fronds; jewel for shade",
+    "src": "https://plants.ces.ncsu.edu/plants/athyrium-niponicum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Japanese_Painted_Fern_Athyrium_nipponicum_%27Pictum%27_Leaf_1500px.jpg/330px-Japanese_Painted_Fern_Athyrium_nipponicum_%27Pictum%27_Leaf_1500px.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Athyrium_niponicum"
+  },
+  {
+    "id": "dryopteris-erythrosora",
+    "common": "Autumn Fern",
+    "botanical": "Dryopteris erythrosora",
+    "category": "perennial",
+    "form": "evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": null,
+    "notes": "Coppery new fronds age to green; evergreen",
+    "src": "https://plants.ces.ncsu.edu/plants/dryopteris-erythrosora/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dryopteris_erythrosora2.jpg/330px-Dryopteris_erythrosora2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Dryopteris_erythrosora"
+  },
+  {
+    "id": "convallaria-majalis",
+    "common": "Lily of the Valley",
+    "botanical": "Convallaria majalis",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 0.75,
+    "spreadRangeFt": [
+      0.5,
+      1
+    ],
+    "heightFt": 0.75,
+    "sun": "shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 9,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April\u2013May, white",
+    "notes": "Fragrant white bells; vigorous shade spreader",
+    "src": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Convallaria_majalis_inflorescence_-_Keila.jpg/330px-Convallaria_majalis_inflorescence_-_Keila.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lily_of_the_valley"
+  },
+  {
+    "id": "brunnera-macrophylla",
+    "common": "Siberian Bugloss",
+    "botanical": "Brunnera macrophylla",
+    "category": "groundcover",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April\u2013May, blue",
+    "notes": "Heart-shaped leaves; forget-me-not blue sprays",
+    "src": "https://plants.ces.ncsu.edu/plants/brunnera-macrophylla/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%28MHNT%29_Brunnera_macrophylla%2C_flowers_-_Les_Martels%2C_Giroussens_Tarn.jpg/330px-%28MHNT%29_Brunnera_macrophylla%2C_flowers_-_Les_Martels%2C_Giroussens_Tarn.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Brunnera_macrophylla"
+  },
+  {
+    "id": "pulmonaria-saccharata",
+    "common": "Lungwort",
+    "botanical": "Pulmonaria saccharata",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "March\u2013May, pink-blue",
+    "notes": "Silver-spotted leaves; early two-tone flowers",
+    "src": "https://plants.ces.ncsu.edu/plants/pulmonaria-saccharata/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pulmonaria_saccharata_A.jpg/330px-Pulmonaria_saccharata_A.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Pulmonaria_saccharata"
+  },
+  {
+    "id": "dianthus-gratianopolitanus",
+    "common": "Cheddar Pink",
+    "botanical": "Dianthus gratianopolitanus",
+    "category": "groundcover",
+    "form": "evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.75,
+      1.25
+    ],
+    "heightFt": 0.75,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 12,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013June, pink",
+    "notes": "Fragrant blue-gray mat; clove-scented flowers",
+    "src": "https://plants.ces.ncsu.edu/plants/dianthus-gratianopolitanus/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dianthus_gratianopolitanus0.jpg/330px-Dianthus_gratianopolitanus0.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Dianthus_gratianopolitanus"
+  },
+  {
+    "id": "geranium-sanguineum",
+    "common": "Bloody Cranesbill",
+    "botanical": "Geranium sanguineum",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1,
+    "sun": "full-part",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "May\u2013July, magenta",
+    "notes": "Mounding hardy geranium; long magenta bloom",
+    "src": "https://plants.ces.ncsu.edu/plants/geranium-sanguineum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2012-07-03_Bloody_Crane%27s-bill%2C_Hauxley%2C_Northumberland_1.jpg/330px-2012-07-03_Bloody_Crane%27s-bill%2C_Hauxley%2C_Northumberland_1.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Geranium_sanguineum"
+  },
+  {
+    "id": "alchemilla-mollis",
+    "common": "Lady's Mantle",
+    "botanical": "Alchemilla mollis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 1.5,
+    "sun": "full-part",
+    "water": "medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013July, chartreuse",
+    "notes": "Pleated leaves catch dew; frothy lime sprays",
+    "src": "https://plants.ces.ncsu.edu/plants/alchemilla-mollis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alchemilla_mollis_%28Fraaie_vrouwenmantel_bloeiwijze%291.jpg/330px-Alchemilla_mollis_%28Fraaie_vrouwenmantel_bloeiwijze%291.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Alchemilla_mollis"
+  },
+  {
+    "id": "sedum-ternatum",
+    "common": "Whorled Stonecrop",
+    "botanical": "Sedum ternatum",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1,
+    "spreadRangeFt": [
+      0.5,
+      1.5
+    ],
+    "heightFt": 0.5,
+    "sun": "part-shade",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 12,
+    "native": true,
+    "nativeRegions": [
+      "southeast",
+      "northeast",
+      "midwest"
+    ],
+    "bloom": "April\u2013May, white",
+    "notes": "Native woodland sedum; tolerates shade, dry",
+    "src": "https://plants.ces.ncsu.edu/plants/sedum-ternatum/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sedum_ternatum.jpg/330px-Sedum_ternatum.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Sedum_ternatum"
+  },
+  {
+    "id": "phedimus-spurius",
+    "common": "Two-row Stonecrop",
+    "botanical": "Phedimus spurius",
+    "category": "groundcover",
+    "form": "evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 0.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "July\u2013August, pink",
+    "notes": "Vigorous creeping sedum mat; green-roof staple",
+    "src": "https://plants.ces.ncsu.edu/plants/phedimus-spurius/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Phedimus_spurius_IMG_7179.JPG/330px-Phedimus_spurius_IMG_7179.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Phedimus_spurius"
+  },
+  {
+    "id": "delosperma-cooperi",
+    "common": "Cooper's Ice Plant",
+    "botanical": "Delosperma cooperi",
+    "category": "groundcover",
+    "form": "evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 0.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      5,
+      9
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013September, magenta",
+    "notes": "Succulent mat; neon daisies, needs sharp drainage",
+    "src": "https://plants.ces.ncsu.edu/plants/delosperma-cooperi/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Delosperma_March_2015-2.jpg/330px-Delosperma_March_2015-2.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Delosperma_cooperi"
+  },
+  {
+    "id": "stachys-byzantina",
+    "common": "Lamb's Ear",
+    "botanical": "Stachys byzantina",
+    "category": "groundcover",
+    "form": "semi-evergreen",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 1.25,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      4,
+      8
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "June\u2013July, purple",
+    "notes": "Woolly silver leaves; drought-tolerant edging",
+    "src": "https://plants.ces.ncsu.edu/plants/stachys-byzantina/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/0_Stachys_byzantina_-_Yvoire_%282%29.JPG/330px-0_Stachys_byzantina_-_Yvoire_%282%29.JPG",
+    "imagePage": "https://en.wikipedia.org/wiki/Stachys_byzantina"
+  },
+  {
+    "id": "achillea-millefolium",
+    "common": "Common Yarrow",
+    "botanical": "Achillea millefolium",
+    "category": "perennial",
+    "form": "semi-evergreen",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2.5,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": true,
+    "nativeRegions": [
+      "northeast",
+      "midwest",
+      "great-plains",
+      "mountain-west",
+      "pacific-northwest",
+      "southwest",
+      "california"
+    ],
+    "bloom": "June\u2013August, white",
+    "notes": "Flat flower heads; ferny, tough, drought-ok",
+    "src": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Achillea_millefolium_%28bright%29.jpg/330px-Achillea_millefolium_%28bright%29.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Achillea_millefolium"
+  },
+  {
+    "id": "hylotelephium-telephium",
+    "common": "Upright Sedum",
+    "botanical": "Hylotelephium telephium",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 1.5,
+    "spreadRangeFt": [
+      1,
+      2
+    ],
+    "heightFt": 2,
+    "sun": "full",
+    "water": "dry-medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 18,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "August\u2013September, pink",
+    "notes": "Fleshy leaves; long-lasting fall flower heads",
+    "src": "https://plants.ces.ncsu.edu/plants/hylotelephium-telephium/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sedum_telephium_240808e.jpg/330px-Sedum_telephium_240808e.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Hylotelephium_telephium"
+  },
+  {
+    "id": "lamprocapnos-spectabilis",
+    "common": "Old-fashioned Bleeding Heart",
+    "botanical": "Lamprocapnos spectabilis",
+    "category": "perennial",
+    "form": "deciduous",
+    "spreadFt": 2,
+    "spreadRangeFt": [
+      1.5,
+      2.5
+    ],
+    "heightFt": 2.5,
+    "sun": "part-shade",
+    "water": "medium",
+    "zones": [
+      3,
+      9
+    ],
+    "spacingInches": 24,
+    "native": false,
+    "nativeRegions": [],
+    "bloom": "April\u2013May, pink",
+    "notes": "Arching stems of pink hearts; spring shade classic",
+    "src": "https://plants.ces.ncsu.edu/plants/lamprocapnos-spectabilis/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dicentra-spectabilis.jpg/330px-Dicentra-spectabilis.jpg",
+    "imagePage": "https://en.wikipedia.org/wiki/Lamprocapnos"
+  }
+]

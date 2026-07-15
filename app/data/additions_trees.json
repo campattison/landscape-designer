@@ -1,0 +1,2676 @@
+[
+ {
+  "id": "acer-saccharinum",
+  "common": "Silver Maple",
+  "botanical": "Acer saccharinum",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   40,
+   60
+  ],
+  "heightFt": 65,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "March\u2013April, red",
+  "notes": "Fast, weak-wooded; tolerates wet soil",
+  "src": "https://plants.ces.ncsu.edu/plants/acer-saccharinum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Silber-Ahorn_%28Acer_saccharinum%29.jpg/330px-Silber-Ahorn_%28Acer_saccharinum%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Acer_saccharinum"
+ },
+ {
+  "id": "fagus-grandifolia",
+  "common": "American Beech",
+  "botanical": "Fagus grandifolia",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 60,
+  "spreadRangeFt": [
+   40,
+   80
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, greenish",
+  "notes": "Smooth gray bark; holds tan winter leaves",
+  "src": "https://plants.ces.ncsu.edu/plants/fagus-grandifolia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Beech_with_Branches.jpg/330px-Beech_with_Branches.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fagus_grandifolia"
+ },
+ {
+  "id": "carya-ovata",
+  "common": "Shagbark Hickory",
+  "botanical": "Carya ovata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 60,
+  "spreadRangeFt": [
+   50,
+   70
+  ],
+  "heightFt": 80,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Shaggy bark; edible nuts; deep taproot",
+  "src": "https://plants.ces.ncsu.edu/plants/carya-ovata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2021-03-03_10_34_58_Shagbark_Hickory_trunk_within_the_woodlands_along_the_West_Branch_Shabakunk_Creek_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/330px-2021-03-03_10_34_58_Shagbark_Hickory_trunk_within_the_woodlands_along_the_West_Branch_Shabakunk_Creek_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Carya_ovata"
+ },
+ {
+  "id": "prunus-serotina",
+  "common": "Black Cherry",
+  "botanical": "Prunus serotina",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 45,
+  "spreadRangeFt": [
+   30,
+   60
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, white",
+  "notes": "White flower racemes; wildlife fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-serotina/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg/330px-Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_serotina"
+ },
+ {
+  "id": "betula-papyrifera",
+  "common": "Paper Birch",
+  "botanical": "Betula papyrifera",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   25,
+   45
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow catkins",
+  "notes": "White peeling bark; short-lived in heat",
+  "src": "https://plants.ces.ncsu.edu/plants/betula-papyrifera/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/13._The_Fall_of_Acadia_%284039110079%29.jpg/330px-13._The_Fall_of_Acadia_%284039110079%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Betula_papyrifera"
+ },
+ {
+  "id": "betula-alleghaniensis",
+  "common": "Yellow Birch",
+  "botanical": "Betula alleghaniensis",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 70,
+  "spreadRangeFt": [
+   60,
+   80
+  ],
+  "heightFt": 75,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": "spring, yellow catkins",
+  "notes": "Amber peeling bark; cool moist sites",
+  "src": "https://plants.ces.ncsu.edu/plants/betula-alleghaniensis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Betula_alleghaniensis_5349050.jpg/330px-Betula_alleghaniensis_5349050.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Betula_alleghaniensis"
+ },
+ {
+  "id": "populus-tremuloides",
+  "common": "Quaking Aspen",
+  "botanical": "Populus tremuloides",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   30
+  ],
+  "heightFt": 45,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   1,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest",
+   "mountain-west",
+   "pacific-northwest"
+  ],
+  "bloom": null,
+  "notes": "Fluttering leaves; suckers into groves",
+  "src": "https://plants.ces.ncsu.edu/plants/populus-tremuloides/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2013-10-06_15_04_21_Aspens_during_autumn_along_the_Changing_Canyon_Nature_Trail_in_Lamoille_Canyon%2C_Nevada.jpg/330px-2013-10-06_15_04_21_Aspens_during_autumn_along_the_Changing_Canyon_Nature_Trail_in_Lamoille_Canyon%2C_Nevada.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Populus_tremuloides"
+ },
+ {
+  "id": "quercus-bicolor",
+  "common": "Swamp White Oak",
+  "botanical": "Quercus bicolor",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 55,
+  "spreadRangeFt": [
+   50,
+   60
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Tolerates wet soil; good street tree",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-bicolor/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Quercus_bicolor_morton_acc_71-69-2.jpg/330px-Quercus_bicolor_morton_acc_71-69-2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_bicolor"
+ },
+ {
+  "id": "quercus-macrocarpa",
+  "common": "Bur Oak",
+  "botanical": "Quercus macrocarpa",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 75,
+  "spreadRangeFt": [
+   70,
+   80
+  ],
+  "heightFt": 75,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Huge acorns; very tough and long-lived",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-macrocarpa/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Big_Tree_with_spring_picnic.jpg/330px-Big_Tree_with_spring_picnic.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_macrocarpa"
+ },
+ {
+  "id": "quercus-coccinea",
+  "common": "Scarlet Oak",
+  "botanical": "Quercus coccinea",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 52,
+  "spreadRangeFt": [
+   45,
+   60
+  ],
+  "heightFt": 65,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Brilliant scarlet fall color; dry soils",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-coccinea/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2014-11-02_14_15_16_Scarlet_Oak_foliage_during_autumn_on_Hunters_Ridge_Drive_in_Hopewell_Township%2C_New_Jersey.jpg/330px-2014-11-02_14_15_16_Scarlet_Oak_foliage_during_autumn_on_Hunters_Ridge_Drive_in_Hopewell_Township%2C_New_Jersey.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_coccinea"
+ },
+ {
+  "id": "quercus-velutina",
+  "common": "Black Oak",
+  "botanical": "Quercus velutina",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 65,
+  "spreadRangeFt": [
+   50,
+   80
+  ],
+  "heightFt": 75,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Dry upland oak; dark furrowed bark",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-velutina/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Quercus_velutina_001.jpg/330px-Quercus_velutina_001.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_velutina"
+ },
+ {
+  "id": "quercus-falcata",
+  "common": "Southern Red Oak",
+  "botanical": "Quercus falcata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 55,
+  "spreadRangeFt": [
+   50,
+   60
+  ],
+  "heightFt": 80,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   6,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "April, yellow-green",
+  "notes": "Heat-tolerant upland oak of the South",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-falcata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Quercus_falcata_leaf_bark.jpg/330px-Quercus_falcata_leaf_bark.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_falcata"
+ },
+ {
+  "id": "quercus-michauxii",
+  "common": "Swamp Chestnut Oak",
+  "botanical": "Quercus michauxii",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   30,
+   70
+  ],
+  "heightFt": 70,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Bottomland oak; sweet edible acorns",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-michauxii/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Swampchestnutoak3.JPG/330px-Swampchestnutoak3.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_michauxii"
+ },
+ {
+  "id": "quercus-muehlenbergii",
+  "common": "Chinkapin Oak",
+  "botanical": "Quercus muehlenbergii",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 60,
+  "spreadRangeFt": [
+   50,
+   70
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   5,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Tolerates alkaline soil; chestnut-like leaves",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-muehlenbergii/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2494-Quercus_muehlenbergii-Arb.Brno-8.12.JPG/330px-2494-Quercus_muehlenbergii-Arb.Brno-8.12.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_muehlenbergii"
+ },
+ {
+  "id": "quercus-lyrata",
+  "common": "Overcup Oak",
+  "botanical": "Quercus lyrata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 48,
+  "spreadRangeFt": [
+   35,
+   60
+  ],
+  "heightFt": 48,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Flood-tolerant bottomland oak; tidy habit",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-lyrata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Quercus_lyrata_%28TVA%29.jpg/330px-Quercus_lyrata_%28TVA%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_lyrata"
+ },
+ {
+  "id": "carya-glabra",
+  "common": "Pignut Hickory",
+  "botanical": "Carya glabra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 32,
+  "spreadRangeFt": [
+   25,
+   40
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Upland hickory; golden fall color",
+  "src": "https://plants.ces.ncsu.edu/plants/carya-glabra/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Carya_glabra_NRCS-1.jpg/330px-Carya_glabra_NRCS-1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Carya_glabra"
+ },
+ {
+  "id": "carya-cordiformis",
+  "common": "Bitternut Hickory",
+  "botanical": "Carya cordiformis",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 32,
+  "spreadRangeFt": [
+   25,
+   40
+  ],
+  "heightFt": 75,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Yellow winter buds; fast for a hickory",
+  "src": "https://plants.ces.ncsu.edu/plants/carya-cordiformis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Carya_cordiformis.jpg/330px-Carya_cordiformis.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Carya_cordiformis"
+ },
+ {
+  "id": "carya-illinoinensis",
+  "common": "Pecan",
+  "botanical": "Carya illinoinensis",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 58,
+  "spreadRangeFt": [
+   40,
+   75
+  ],
+  "heightFt": 85,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   6,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast",
+   "great-plains"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Large nut tree; needs room and warmth",
+  "src": "https://plants.ces.ncsu.edu/plants/carya-illinoinensis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/330px-Carya_illinoinensis.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pecan"
+ },
+ {
+  "id": "fraxinus-americana",
+  "common": "White Ash",
+  "botanical": "Fraxinus americana",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 62,
+  "spreadRangeFt": [
+   50,
+   75
+  ],
+  "heightFt": 90,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April, purple",
+  "notes": "Purple fall color; threatened by emerald ash borer",
+  "src": "https://plants.ces.ncsu.edu/plants/fraxinus-americana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fraxinus_americana_002.jpg/330px-Fraxinus_americana_002.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fraxinus_americana"
+ },
+ {
+  "id": "fraxinus-pennsylvanica",
+  "common": "Green Ash",
+  "botanical": "Fraxinus pennsylvanica",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 42,
+  "spreadRangeFt": [
+   35,
+   50
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "April, purplish",
+  "notes": "Adaptable; emerald ash borer risk high",
+  "src": "https://plants.ces.ncsu.edu/plants/fraxinus-pennsylvanica/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fraxinus_pensylvanica_a1.jpg/330px-Fraxinus_pensylvanica_a1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica"
+ },
+ {
+  "id": "celtis-occidentalis",
+  "common": "Common Hackberry",
+  "botanical": "Celtis occidentalis",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 50,
+  "spreadRangeFt": [
+   40,
+   60
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   2,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "April\u2013May, green",
+  "notes": "Tough urban tree; warty bark; bird fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/celtis-occidentalis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Celtis_occidentalis_20090606.jpg/330px-Celtis_occidentalis_20090606.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Celtis_occidentalis"
+ },
+ {
+  "id": "gleditsia-triacanthos",
+  "common": "Honey Locust",
+  "botanical": "Gleditsia triacanthos",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 70,
+  "spreadRangeFt": [
+   60,
+   80
+  ],
+  "heightFt": 70,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "May\u2013June, greenish",
+  "notes": "Fine filtered shade; use thornless cultivars",
+  "src": "https://plants.ces.ncsu.edu/plants/gleditsia-triacanthos/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gleditsia_triacanthos_%28Honeylocust%29_%2838246396371%29.jpg/330px-Gleditsia_triacanthos_%28Honeylocust%29_%2838246396371%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Honey_locust"
+ },
+ {
+  "id": "gymnocladus-dioicus",
+  "common": "Kentucky Coffeetree",
+  "botanical": "Gymnocladus dioicus",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 48,
+  "spreadRangeFt": [
+   40,
+   55
+  ],
+  "heightFt": 70,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": "May\u2013June, greenish-white",
+  "notes": "Bold coarse branches; tough urban tree",
+  "src": "https://plants.ces.ncsu.edu/plants/gymnocladus-dioicus/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gymnocladus_dioicus_JPG1a.jpg/330px-Gymnocladus_dioicus_JPG1a.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Kentucky_coffeetree"
+ },
+ {
+  "id": "juglans-nigra",
+  "common": "Black Walnut",
+  "botanical": "Juglans nigra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 60,
+  "spreadRangeFt": [
+   50,
+   70
+  ],
+  "heightFt": 62,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, green",
+  "notes": "Edible nuts; juglone inhibits nearby plants",
+  "src": "https://plants.ces.ncsu.edu/plants/juglans-nigra/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Walnut_nut_and_leave_detail.JPG/330px-Black_Walnut_nut_and_leave_detail.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Juglans_nigra"
+ },
+ {
+  "id": "tilia-americana",
+  "common": "American Basswood",
+  "botanical": "Tilia americana",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 45,
+  "spreadRangeFt": [
+   30,
+   60
+  ],
+  "heightFt": 70,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   2,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": "June\u2013July, pale yellow",
+  "notes": "Fragrant flowers; large heart-shaped leaves",
+  "src": "https://plants.ces.ncsu.edu/plants/tilia-americana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tilia_americana_%28American_Linden%29_%2828268263222%29.jpg/330px-Tilia_americana_%28American_Linden%29_%2828268263222%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Tilia_americana"
+ },
+ {
+  "id": "tilia-cordata",
+  "common": "Littleleaf Linden",
+  "botanical": "Tilia cordata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 42,
+  "spreadRangeFt": [
+   35,
+   50
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June, pale yellow",
+  "notes": "Neat pyramidal street tree; fragrant bloom",
+  "src": "https://plants.ces.ncsu.edu/plants/tilia-cordata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tilia-cordata2.JPG/330px-Tilia-cordata2.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Tilia_cordata"
+ },
+ {
+  "id": "zelkova-serrata",
+  "common": "Japanese Zelkova",
+  "botanical": "Zelkova serrata",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 65,
+  "spreadRangeFt": [
+   50,
+   80
+  ],
+  "heightFt": 65,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "spring, green",
+  "notes": "Vase-shaped elm substitute; DED-resistant",
+  "src": "https://plants.ces.ncsu.edu/plants/zelkova-serrata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zelkova_serrata_Noma_keyaki01.jpg/330px-Zelkova_serrata_Noma_keyaki01.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Zelkova_serrata"
+ },
+ {
+  "id": "metasequoia-glyptostroboides",
+  "common": "Dawn Redwood",
+  "botanical": "Metasequoia glyptostroboides",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 81,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Deciduous conifer; fast, feathery foliage",
+  "src": "https://plants.ces.ncsu.edu/plants/metasequoia-glyptostroboides/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Metasequoia_glyptostroboides_in_Forest_park_of_Aichi_Prefecture.jpg/330px-Metasequoia_glyptostroboides_in_Forest_park_of_Aichi_Prefecture.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Metasequoia_glyptostroboides"
+ },
+ {
+  "id": "ulmus-parvifolia",
+  "common": "Lacebark Elm",
+  "botanical": "Ulmus parvifolia",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 42,
+  "spreadRangeFt": [
+   35,
+   50
+  ],
+  "heightFt": 45,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "late summer, green",
+  "notes": "Mottled bark; DED-resistant; tough urban tree",
+  "src": "https://plants.ces.ncsu.edu/plants/ulmus-parvifolia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RN_Ulmus_parvifolia_%28Hilversum%29.JPG/330px-RN_Ulmus_parvifolia_%28Hilversum%29.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Ulmus_parvifolia"
+ },
+ {
+  "id": "fagus-sylvatica",
+  "common": "European Beech",
+  "botanical": "Fagus sylvatica",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 42,
+  "spreadRangeFt": [
+   35,
+   50
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, greenish",
+  "notes": "Many cultivars; copper and weeping forms",
+  "src": "https://plants.ces.ncsu.edu/plants/fagus-sylvatica/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Fagus-sylvatica-cansiglio-forest-italy.jpg/330px-Fagus-sylvatica-cansiglio-forest-italy.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fagus_sylvatica"
+ },
+ {
+  "id": "aesculus-glabra",
+  "common": "Ohio Buckeye",
+  "botanical": "Aesculus glabra",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   20,
+   40
+  ],
+  "heightFt": 30,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "April\u2013May, greenish-yellow",
+  "notes": "Early leaf-out; spiny fruit capsules",
+  "src": "https://plants.ces.ncsu.edu/plants/aesculus-glabra/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Aesculus_glabra_var._glabra.jpg/330px-Aesculus_glabra_var._glabra.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Aesculus_glabra"
+ },
+ {
+  "id": "populus-deltoides",
+  "common": "Eastern Cottonwood",
+  "botanical": "Populus deltoides",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 48,
+  "spreadRangeFt": [
+   35,
+   60
+  ],
+  "heightFt": 88,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   2,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest",
+   "great-plains"
+  ],
+  "bloom": "March\u2013April, red catkins",
+  "notes": "Very fast; weak wood; cottony seed",
+  "src": "https://plants.ces.ncsu.edu/plants/populus-deltoides/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Peuplier_delto%C3%AFde_feuillage.jpg/330px-Peuplier_delto%C3%AFde_feuillage.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Populus_deltoides"
+ },
+ {
+  "id": "catalpa-speciosa",
+  "common": "Northern Catalpa",
+  "botanical": "Catalpa speciosa",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   20,
+   50
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "midwest"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Huge leaves; showy flowers; long seed po",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a856",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Catalpa_speciosa_20060624.jpg/330px-Catalpa_speciosa_20060624.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Catalpa_speciosa"
+ },
+ {
+  "id": "diospyros-virginiana",
+  "common": "Common Persimmon",
+  "botanical": "Diospyros virginiana",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   20,
+   35
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Sweet orange fruit; blocky bark",
+  "src": "https://plants.ces.ncsu.edu/plants/diospyros-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Diospyros_virginiana_BB-1913.png/330px-Diospyros_virginiana_BB-1913.png",
+  "imagePage": "https://en.wikipedia.org/wiki/Diospyros_virginiana"
+ },
+ {
+  "id": "robinia-pseudoacacia",
+  "common": "Black Locust",
+  "botanical": "Robinia pseudoacacia",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   20,
+   35
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Fragrant white flowers; nitrogen-fixer; suckers",
+  "src": "https://plants.ces.ncsu.edu/plants/robinia-pseudoacacia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Robina9146.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia"
+ },
+ {
+  "id": "sassafras-albidum",
+  "common": "Sassafras",
+  "botanical": "Sassafras albidum",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 32,
+  "spreadRangeFt": [
+   25,
+   40
+  ],
+  "heightFt": 45,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April, yellow",
+  "notes": "Mitten leaves; brilliant fall color; suckers",
+  "src": "https://plants.ces.ncsu.edu/plants/sassafras-albidum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sassafras_Leaves_June_Nbg_%28261691941%29.jpeg/330px-Sassafras_Leaves_June_Nbg_%28261691941%29.jpeg",
+  "imagePage": "https://en.wikipedia.org/wiki/Sassafras_albidum"
+ },
+ {
+  "id": "betula-lenta",
+  "common": "Sweet Birch",
+  "botanical": "Betula lenta",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   35,
+   45
+  ],
+  "heightFt": 65,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast"
+  ],
+  "bloom": "April\u2013May, yellow catkins",
+  "notes": "Wintergreen-scented twigs; gold fall color",
+  "src": "https://plants.ces.ncsu.edu/plants/betula-lenta/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Betula_lenta_1.jpg/330px-Betula_lenta_1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Betula_lenta"
+ },
+ {
+  "id": "liquidambar-formosana",
+  "common": "Chinese Sweetgum",
+  "botanical": "Liquidambar formosana",
+  "category": "canopy",
+  "form": "deciduous",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   35,
+   45
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   7,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "spring, yellow-green",
+  "notes": "Sweetgum relative; three-lobed leaves",
+  "src": "https://plants.ces.ncsu.edu/plants/liquidambar-formosana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Liquidambar_formosana_01.jpg/330px-Liquidambar_formosana_01.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Liquidambar_formosana"
+ },
+ {
+  "id": "ostrya-virginiana",
+  "common": "American Hophornbeam",
+  "botanical": "Ostrya virginiana",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 30,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, yellow-green",
+  "notes": "Understory tree; hop-like fruit; tough",
+  "src": "https://plants.ces.ncsu.edu/plants/ostrya-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ostrya_virginiana_2.jpg/330px-Ostrya_virginiana_2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Ostrya_virginiana"
+ },
+ {
+  "id": "carpinus-caroliniana",
+  "common": "American Hornbeam",
+  "botanical": "Carpinus caroliniana",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   20,
+   35
+  ],
+  "heightFt": 25,
+  "sun": "part-shade",
+  "water": "medium-wet",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April, green catkins",
+  "notes": "Muscle-like bark; shade-tolerant understory",
+  "src": "https://plants.ces.ncsu.edu/plants/carpinus-caroliniana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/American_Hornbeam_Leaves_600.jpg/330px-American_Hornbeam_Leaves_600.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Carpinus_caroliniana"
+ },
+ {
+  "id": "acer-pensylvanicum",
+  "common": "Striped Maple",
+  "botanical": "Acer pensylvanicum",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 16,
+  "spreadRangeFt": [
+   12,
+   20
+  ],
+  "heightFt": 25,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast"
+  ],
+  "bloom": "May\u2013June, yellow",
+  "notes": "Green white-striped bark; cool shade understory",
+  "src": "https://plants.ces.ncsu.edu/plants/acer-pensylvanicum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moosewood_leaves.jpg/330px-Moosewood_leaves.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Acer_pensylvanicum"
+ },
+ {
+  "id": "cornus-alternifolia",
+  "common": "Pagoda Dogwood",
+  "botanical": "Cornus alternifolia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 26,
+  "spreadRangeFt": [
+   20,
+   32
+  ],
+  "heightFt": 20,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Horizontal tiered branching; blue fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/cornus-alternifolia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cornus_alternifolia_-_Krauss.jpg/330px-Cornus_alternifolia_-_Krauss.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Cornus_alternifolia"
+ },
+ {
+  "id": "prunus-virginiana",
+  "common": "Chokecherry",
+  "botanical": "Prunus virginiana",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   18,
+   25
+  ],
+  "heightFt": 25,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest",
+   "great-plains",
+   "mountain-west"
+  ],
+  "bloom": "April\u2013May, white",
+  "notes": "White flower racemes; dark fruit; suckers",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prunus_virginiana_flowers.jpg/330px-Prunus_virginiana_flowers.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_virginiana"
+ },
+ {
+  "id": "cladrastis-kentukea",
+  "common": "American Yellowwood",
+  "botanical": "Cladrastis kentukea",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 42,
+  "spreadRangeFt": [
+   40,
+   45
+  ],
+  "heightFt": 38,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Fragrant wisteria-like flower panicles",
+  "src": "https://plants.ces.ncsu.edu/plants/cladrastis-kentukea/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%E0%AE%95%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AE%BF_%E0%AE%AE%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B3%E0%AF%8D_%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B0%E0%AE%AE%E0%AF%8D_Yellowwood_flower.jpg/330px-%E0%AE%95%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AE%BF_%E0%AE%AE%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B3%E0%AF%8D_%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B0%E0%AE%AE%E0%AF%8D_Yellowwood_flower.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Cladrastis_kentukea"
+ },
+ {
+  "id": "halesia-carolina",
+  "common": "Carolina Silverbell",
+  "botanical": "Halesia carolina",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   25,
+   35
+  ],
+  "heightFt": 25,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "April\u2013May, white",
+  "notes": "Bell-shaped white flowers; woodland edge",
+  "src": "https://plants.ces.ncsu.edu/plants/halesia-carolina/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Halesia_carolina_%282%29.jpg/330px-Halesia_carolina_%282%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Halesia_carolina"
+ },
+ {
+  "id": "oxydendrum-arboreum",
+  "common": "Sourwood",
+  "botanical": "Oxydendrum arboreum",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   10,
+   15
+  ],
+  "heightFt": 25,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "June\u2013July, white",
+  "notes": "Drooping white sprays; crimson fall color",
+  "src": "https://plants.ces.ncsu.edu/plants/oxydendrum-arboreum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Oxydendrum_arboreum.jpg/330px-Oxydendrum_arboreum.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Oxydendrum"
+ },
+ {
+  "id": "asimina-triloba",
+  "common": "Pawpaw",
+  "botanical": "Asimina triloba",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 22,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April, maroon",
+  "notes": "Largest native fruit; tropical-flavored",
+  "src": "https://plants.ces.ncsu.edu/plants/asimina-triloba/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Asimina_triloba3.jpg/330px-Asimina_triloba3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Asimina_triloba"
+ },
+ {
+  "id": "magnolia-virginiana",
+  "common": "Sweetbay Magnolia",
+  "botanical": "Magnolia virginiana",
+  "category": "ornamental",
+  "form": "semi-evergreen",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   10,
+   35
+  ],
+  "heightFt": 22,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   5,
+   10
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Fragrant white flowers; tolerates wet soil",
+  "src": "https://plants.ces.ncsu.edu/plants/magnolia-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Magnolia_virginiana_flower_2.jpg/330px-Magnolia_virginiana_flower_2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Magnolia_virginiana"
+ },
+ {
+  "id": "aesculus-pavia",
+  "common": "Red Buckeye",
+  "botanical": "Aesculus pavia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   20
+  ],
+  "heightFt": 20,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "April\u2013May, red",
+  "notes": "Red tubular flowers; hummingbird magnet",
+  "src": "https://plants.ces.ncsu.edu/plants/aesculus-pavia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aesculus_pavia_3.jpg/330px-Aesculus_pavia_3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Aesculus_pavia"
+ },
+ {
+  "id": "amelanchier-laevis",
+  "common": "Allegheny Serviceberry",
+  "botanical": "Amelanchier laevis",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   20
+  ],
+  "heightFt": 20,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April, white",
+  "notes": "Early white flowers; sweet edible berries",
+  "src": "https://plants.ces.ncsu.edu/plants/amelanchier-laevis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Amelanchier_laevis.jpg/330px-Amelanchier_laevis.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Amelanchier_laevis"
+ },
+ {
+  "id": "cotinus-obovatus",
+  "common": "American Smoketree",
+  "botanical": "Cotinus obovatus",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   30
+  ],
+  "heightFt": 25,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "May\u2013June, yellow",
+  "notes": "Smoky flower plumes; superb fall color",
+  "src": "https://plants.ces.ncsu.edu/plants/cotinus-obovatus/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cotinus-obovatus-habit.JPG/330px-Cotinus-obovatus-habit.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Cotinus_obovatus"
+ },
+ {
+  "id": "crataegus-phaenopyrum",
+  "common": "Washington Hawthorn",
+  "botanical": "Crataegus phaenopyrum",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   20,
+   25
+  ],
+  "heightFt": 28,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "White flowers; red fruit; thorny",
+  "src": "https://plants.ces.ncsu.edu/plants/crataegus-phaenopyrum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Crataegus_phaenopyrum_HRM.jpg/330px-Crataegus_phaenopyrum_HRM.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Crataegus_phaenopyrum"
+ },
+ {
+  "id": "syringa-reticulata",
+  "common": "Japanese Tree Lilac",
+  "botanical": "Syringa reticulata",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   15,
+   20
+  ],
+  "heightFt": 28,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June, creamy-white",
+  "notes": "Large creamy panicles; tough small street tree",
+  "src": "https://plants.ces.ncsu.edu/plants/syringa-reticulata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syringa_reticulata_USDA1.jpg/330px-Syringa_reticulata_USDA1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Syringa_reticulata"
+ },
+ {
+  "id": "koelreuteria-paniculata",
+  "common": "Goldenrain Tree",
+  "botanical": "Koelreuteria paniculata",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 35,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June\u2013July, yellow",
+  "notes": "Yellow flower sprays; papery lantern pods",
+  "src": "https://plants.ces.ncsu.edu/plants/koelreuteria-paniculata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%28MHNT%29_Koelreuteria_paniculata_-Leaves_and_inflorescences_-_Palais_Niel.jpg/330px-%28MHNT%29_Koelreuteria_paniculata_-Leaves_and_inflorescences_-_Palais_Niel.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Koelreuteria_paniculata"
+ },
+ {
+  "id": "parrotia-persica",
+  "common": "Persian Ironwood",
+  "botanical": "Parrotia persica",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 22,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "March, red",
+  "notes": "Exfoliating bark; brilliant multicolor fall",
+  "src": "https://plants.ces.ncsu.edu/plants/parrotia-persica/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Morlanwelz_Mariemont_JPG22a.jpg/330px-Morlanwelz_Mariemont_JPG22a.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Parrotia_persica"
+ },
+ {
+  "id": "stewartia-pseudocamellia",
+  "common": "Japanese Stewartia",
+  "botanical": "Stewartia pseudocamellia",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 16,
+  "spreadRangeFt": [
+   8,
+   25
+  ],
+  "heightFt": 26,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "June\u2013July, white",
+  "notes": "Camellia-like flowers; mottled bark",
+  "src": "https://plants.ces.ncsu.edu/plants/stewartia-pseudocamellia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Japanese_Stewartia_Stewartia_pseudocamellia_Tree_2000px.jpg/330px-Japanese_Stewartia_Stewartia_pseudocamellia_Tree_2000px.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Stewartia_pseudocamellia"
+ },
+ {
+  "id": "acer-griseum",
+  "common": "Paperbark Maple",
+  "botanical": "Acer griseum",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 25,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "spring, greenish",
+  "notes": "Cinnamon peeling bark; slow, refined",
+  "src": "https://plants.ces.ncsu.edu/plants/acer-griseum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Acer_griseum_Morton_836-58-7.jpg/330px-Acer_griseum_Morton_836-58-7.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Acer_griseum"
+ },
+ {
+  "id": "acer-buergerianum",
+  "common": "Trident Maple",
+  "botanical": "Acer buergerianum",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   30
+  ],
+  "heightFt": 30,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "spring, yellow-green",
+  "notes": "Tough small tree; flaking bark; good bonsai",
+  "src": "https://plants.ces.ncsu.edu/plants/acer-buergerianum/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Morris_Arboretum_Acer_buergerianum.JPG/330px-Morris_Arboretum_Acer_buergerianum.JPG",
+  "imagePage": "https://en.wikipedia.org/wiki/Acer_buergerianum"
+ },
+ {
+  "id": "prunus-serrulata",
+  "common": "Japanese Flowering Cherry",
+  "botanical": "Prunus serrulata",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 20,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "April, pink",
+  "notes": "'Kwanzan' double-pink; classic spring bloom",
+  "src": "https://plants.ces.ncsu.edu/plants/prunus-serrulata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cerisier_du_Japon_Prunus_serrulata.jpg/330px-Cerisier_du_Japon_Prunus_serrulata.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Prunus_serrulata"
+ },
+ {
+  "id": "chionanthus-retusus",
+  "common": "Chinese Fringetree",
+  "botanical": "Chionanthus retusus",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   10,
+   30
+  ],
+  "heightFt": 20,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   6,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "May\u2013June, white",
+  "notes": "Fleecy white flower clouds; peeling bark",
+  "src": "https://plants.ces.ncsu.edu/plants/chionanthus-retusus/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chionanthus_retusus3.jpg/330px-Chionanthus_retusus3.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Chionanthus_retusus"
+ },
+ {
+  "id": "sorbus-americana",
+  "common": "American Mountain-Ash",
+  "botanical": "Sorbus americana",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 14,
+  "spreadRangeFt": [
+   8,
+   20
+  ],
+  "heightFt": 25,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   2,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast"
+  ],
+  "bloom": "May\u2013June, white",
+  "notes": "Orange-red berries; cool-climate tree",
+  "src": "https://plants.ces.ncsu.edu/plants/sorbus-americana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sorbus_americana.jpg/330px-Sorbus_americana.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Sorbus_americana"
+ },
+ {
+  "id": "malus-coronaria",
+  "common": "Sweet Crabapple",
+  "botanical": "Malus coronaria",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 25,
+  "spreadRangeFt": [
+   20,
+   30
+  ],
+  "heightFt": 22,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "May, pink",
+  "notes": "Fragrant native crabapple; wildlife fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/malus-coronaria/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Crab_apple_flower_4004.jpg/330px-Crab_apple_flower_4004.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Malus_coronaria"
+ },
+ {
+  "id": "franklinia-alatamaha",
+  "common": "Franklin Tree",
+  "botanical": "Franklinia alatamaha",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   6,
+   15
+  ],
+  "heightFt": 18,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "August\u2013September, white",
+  "notes": "Late white camellia-like flowers; extinct in wild",
+  "src": "https://plants.ces.ncsu.edu/plants/franklinia-alatamaha/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Franklinia_alatamaha.jpg/330px-Franklinia_alatamaha.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Franklinia"
+ },
+ {
+  "id": "viburnum-prunifolium",
+  "common": "Blackhaw Viburnum",
+  "botanical": "Viburnum prunifolium",
+  "category": "ornamental",
+  "form": "deciduous",
+  "spreadFt": 10,
+  "spreadRangeFt": [
+   6,
+   15
+  ],
+  "heightFt": 14,
+  "sun": "full-part",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": "April\u2013May, white",
+  "notes": "Small tree form; white flowers; blue fruit",
+  "src": "https://plants.ces.ncsu.edu/plants/viburnum-prunifolium/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Viburnum_prunifolium_USDA1.jpg/330px-Viburnum_prunifolium_USDA1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Viburnum_prunifolium"
+ },
+ {
+  "id": "abies-balsamea",
+  "common": "Balsam Fir",
+  "botanical": "Abies balsamea",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Fragrant classic Christmas tree; cool climates",
+  "src": "https://plants.ces.ncsu.edu/plants/abies-balsamea/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abies_balsamea.jpg/330px-Abies_balsamea.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Abies_balsamea"
+ },
+ {
+  "id": "picea-glauca",
+  "common": "White Spruce",
+  "botanical": "Picea glauca",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   20
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   2,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Dense pyramidal spruce; cold-hardy screen",
+  "src": "https://plants.ces.ncsu.edu/plants/picea-glauca/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Picea_glauca_Fairbanks.jpg/330px-Picea_glauca_Fairbanks.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Picea_glauca"
+ },
+ {
+  "id": "picea-rubens",
+  "common": "Red Spruce",
+  "botanical": "Picea rubens",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 14,
+  "spreadRangeFt": [
+   10,
+   18
+  ],
+  "heightFt": 65,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   3,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast"
+  ],
+  "bloom": null,
+  "notes": "High-elevation Appalachian spruce",
+  "src": "https://plants.ces.ncsu.edu/plants/picea-rubens/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Picea_rubens_UGA5349098.jpg/330px-Picea_rubens_UGA5349098.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Picea_rubens"
+ },
+ {
+  "id": "picea-abies",
+  "common": "Norway Spruce",
+  "botanical": "Picea abies",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 28,
+  "spreadRangeFt": [
+   25,
+   30
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Fast graceful spruce; drooping branchlets",
+  "src": "https://plants.ces.ncsu.edu/plants/picea-abies/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kuusk_Keila-Paldiski_rdt_%C3%A4%C3%A4res.jpg/330px-Kuusk_Keila-Paldiski_rdt_%C3%A4%C3%A4res.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Picea_abies"
+ },
+ {
+  "id": "picea-pungens",
+  "common": "Colorado Blue Spruce",
+  "botanical": "Picea pungens",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 15,
+  "spreadRangeFt": [
+   10,
+   20
+  ],
+  "heightFt": 45,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "mountain-west"
+  ],
+  "bloom": null,
+  "notes": "Silver-blue needles; stiff formal habit",
+  "src": "https://plants.ces.ncsu.edu/plants/picea-pungens/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blue_Spruce_%2815905530369%29.jpg/330px-Blue_Spruce_%2815905530369%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Blue_spruce"
+ },
+ {
+  "id": "tsuga-canadensis",
+  "common": "Eastern Hemlock",
+  "botanical": "Tsuga canadensis",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   25,
+   35
+  ],
+  "heightFt": 55,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Graceful shade-tolerant conifer; woolly adelgid risk",
+  "src": "https://plants.ces.ncsu.edu/plants/tsuga-canadensis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tsuga_canadensis_morton.jpg/330px-Tsuga_canadensis_morton.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Tsuga_canadensis"
+ },
+ {
+  "id": "thuja-occidentalis",
+  "common": "Eastern Arborvitae",
+  "botanical": "Thuja occidentalis",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   10,
+   15
+  ],
+  "heightFt": 50,
+  "sun": "full-part",
+  "water": "medium-wet",
+  "zones": [
+   2,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Native white cedar; hedges and screens",
+  "src": "https://plants.ces.ncsu.edu/plants/thuja-occidentalis/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Thuja_occidentalis.jpg/330px-Thuja_occidentalis.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Thuja_occidentalis"
+ },
+ {
+  "id": "pinus-banksiana",
+  "common": "Jack Pine",
+  "botanical": "Pinus banksiana",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 42,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   2,
+   6
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Hardy pioneer pine of poor sandy soils",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-banksiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pinus_banksiana.jpg/330px-Pinus_banksiana.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Jack_pine"
+ },
+ {
+  "id": "pinus-virginiana",
+  "common": "Virginia Pine",
+  "botanical": "Pinus virginiana",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   10,
+   30
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Scrubby pioneer pine; reclaims poor soil",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2013-05-10_11_01_36_Virginia_Pine_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg/330px-2013-05-10_11_01_36_Virginia_Pine_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_virginiana"
+ },
+ {
+  "id": "pinus-echinata",
+  "common": "Shortleaf Pine",
+  "botanical": "Pinus echinata",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   20,
+   40
+  ],
+  "heightFt": 90,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   6,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Widespread southern yellow pine; timber",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-echinata/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Shortleaf_pine.jpg/330px-Shortleaf_pine.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_echinata"
+ },
+ {
+  "id": "pinus-palustris",
+  "common": "Longleaf Pine",
+  "botanical": "Pinus palustris",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 90,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   7,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Long needles; fire-adapted southern icon",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-palustris/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pinus_palustris_UGA1.jpg/330px-Pinus_palustris_UGA1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Longleaf_pine"
+ },
+ {
+  "id": "pinus-rigida",
+  "common": "Pitch Pine",
+  "botanical": "Pinus rigida",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 40,
+  "spreadRangeFt": [
+   30,
+   50
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Fire-adapted; rocky sterile sites",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-rigida/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-05-12_11_23_41_Pitch_Pine_trees_and_view_west_from_the_Hoeferlin_Trail_in_Ramapo_Mountain_State_Forest_in_New_Jersey.jpg/330px-2013-05-12_11_23_41_Pitch_Pine_trees_and_view_west_from_the_Hoeferlin_Trail_in_Ramapo_Mountain_State_Forest_in_New_Jersey.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_rigida"
+ },
+ {
+  "id": "pinus-nigra",
+  "common": "Austrian Pine",
+  "botanical": "Pinus nigra",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 30,
+  "spreadRangeFt": [
+   20,
+   40
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Tough dark-green pine; urban and coastal",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-nigra/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%C5%9Awierklaniec_pinus_nigra_12.06.2010_p.jpg/330px-%C5%9Awierklaniec_pinus_nigra_12.06.2010_p.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_nigra"
+ },
+ {
+  "id": "pinus-sylvestris",
+  "common": "Scots Pine",
+  "botanical": "Pinus sylvestris",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 45,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Orange upper bark; common Christmas tree",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-sylvestris/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Skuleskogen_pine.jpg/330px-Skuleskogen_pine.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_sylvestris"
+ },
+ {
+  "id": "abies-fraseri",
+  "common": "Fraser Fir",
+  "botanical": "Abies fraseri",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 18,
+  "spreadRangeFt": [
+   10,
+   25
+  ],
+  "heightFt": 42,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Southern Appalachian fir; premier Christmas tree",
+  "src": "https://plants.ces.ncsu.edu/plants/abies-fraseri/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abies_fraseri_%28Fraser_fir%29_%28Clingmans_Dome%2C_Great_Smoky_Mountains%2C_North_Carolina%2C_USA%29_11_%2836843487182%29.jpg/330px-Abies_fraseri_%28Fraser_fir%29_%28Clingmans_Dome%2C_Great_Smoky_Mountains%2C_North_Carolina%2C_USA%29_11_%2836843487182%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Fraser_fir"
+ },
+ {
+  "id": "abies-concolor",
+  "common": "White Fir",
+  "botanical": "Abies concolor",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   10,
+   30
+  ],
+  "heightFt": 50,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   3,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "mountain-west",
+   "southwest"
+  ],
+  "bloom": null,
+  "notes": "Blue-green fir; heat- and drought-tolerant",
+  "src": "https://plants.ces.ncsu.edu/plants/abies-concolor/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abies_concolor_Yosemite_NP.jpg/330px-Abies_concolor_Yosemite_NP.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Abies_concolor"
+ },
+ {
+  "id": "chamaecyparis-thyoides",
+  "common": "Atlantic White Cedar",
+  "botanical": "Chamaecyparis thyoides",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 70,
+  "sun": "full",
+  "water": "wet",
+  "zones": [
+   4,
+   9
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Wetland conifer; feathery blue-green foliage",
+  "src": "https://plants.ces.ncsu.edu/plants/chamaecyparis-thyoides/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2013-05-10_13_29_55_Atlantic_White_Cedar_near_the_edge_of_a_bog_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg/330px-2013-05-10_13_29_55_Atlantic_White_Cedar_near_the_edge_of_a_bog_along_the_Mount_Misery_Trail_in_Brendan_T._Byrne_State_Forest%2C_New_Jersey.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Chamaecyparis_thyoides"
+ },
+ {
+  "id": "chamaecyparis-pisifera",
+  "common": "Sawara Cypress",
+  "botanical": "Chamaecyparis pisifera",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   3,
+   20
+  ],
+  "heightFt": 60,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Golden and threadleaf forms; soft texture",
+  "src": "https://plants.ces.ncsu.edu/plants/chamaecyparis-pisifera/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chamaecyparis_pisifera_near_Mount_Buk%C5%8D%2C_Saitama%2C_Japan_%2849576718803%29.jpg/330px-Chamaecyparis_pisifera_near_Mount_Buk%C5%8D%2C_Saitama%2C_Japan_%2849576718803%29.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Chamaecyparis_pisifera"
+ },
+ {
+  "id": "cupressocyparis-leylandii",
+  "common": "Leyland Cypress",
+  "botanical": "x Cupressocyparis leylandii",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 12,
+  "spreadRangeFt": [
+   10,
+   15
+  ],
+  "heightFt": 65,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   6,
+   10
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Very fast screen; disease-prone if crowded",
+  "src": "https://plants.ces.ncsu.edu/plants/x-cupressocyparis-leylandii/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leyland_Cypress.jpg/330px-Leyland_Cypress.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Leyland_cypress"
+ },
+ {
+  "id": "picea-omorika",
+  "common": "Serbian Spruce",
+  "botanical": "Picea omorika",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 55,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   4,
+   7
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Slender graceful spruce; tolerates urban sites",
+  "src": "https://plants.ces.ncsu.edu/plants/picea-omorika/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Picea_omorika%2C_Zaovine%2C_Serbia_1.jpg/330px-Picea_omorika%2C_Zaovine%2C_Serbia_1.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Picea_omorika"
+ },
+ {
+  "id": "cedrus-deodara",
+  "common": "Deodar Cedar",
+  "botanical": "Cedrus deodara",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 35,
+  "spreadRangeFt": [
+   30,
+   40
+  ],
+  "heightFt": 40,
+  "sun": "full",
+  "water": "medium",
+  "zones": [
+   7,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Graceful weeping true cedar; blue-green",
+  "src": "https://plants.ces.ncsu.edu/plants/cedrus-deodara/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cedrus_deodara_Manali_2.jpg/330px-Cedrus_deodara_Manali_2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Cedrus_deodara"
+ },
+ {
+  "id": "tsuga-caroliniana",
+  "common": "Carolina Hemlock",
+  "botanical": "Tsuga caroliniana",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   20,
+   25
+  ],
+  "heightFt": 50,
+  "sun": "part-shade",
+  "water": "medium",
+  "zones": [
+   5,
+   7
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": null,
+  "notes": "Rare Appalachian hemlock; fine dark needles",
+  "src": "https://plants.ces.ncsu.edu/plants/tsuga-caroliniana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tsuga_caroliniana_Rog%C3%B3w.jpg/330px-Tsuga_caroliniana_Rog%C3%B3w.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Tsuga_caroliniana"
+ },
+ {
+  "id": "quercus-virginiana",
+  "common": "Southern Live Oak",
+  "botanical": "Quercus virginiana",
+  "category": "evergreen-tree",
+  "form": "semi-evergreen",
+  "spreadFt": 65,
+  "spreadRangeFt": [
+   30,
+   100
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   7,
+   10
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "southeast"
+  ],
+  "bloom": "spring, yellow-green",
+  "notes": "Sprawling coastal oak; broad evergreen canopy",
+  "src": "https://plants.ces.ncsu.edu/plants/quercus-virginiana/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FL_Volusia_Oak03.jpg/330px-FL_Volusia_Oak03.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Quercus_virginiana"
+ },
+ {
+  "id": "ilex-latifolia",
+  "common": "Lusterleaf Holly",
+  "botanical": "Ilex latifolia",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 20,
+  "spreadRangeFt": [
+   15,
+   25
+  ],
+  "heightFt": 22,
+  "sun": "full-part",
+  "water": "medium",
+  "zones": [
+   7,
+   9
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": "spring, yellow-green",
+  "notes": "Large glossy leaves; red berries",
+  "src": "https://plants.ces.ncsu.edu/plants/ilex-latifolia/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ilex_latifolia2.jpg/330px-Ilex_latifolia2.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Ilex_latifolia"
+ },
+ {
+  "id": "pinus-thunbergii",
+  "common": "Japanese Black Pine",
+  "botanical": "Pinus thunbergii",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 16,
+  "spreadRangeFt": [
+   12,
+   20
+  ],
+  "heightFt": 40,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   5,
+   8
+  ],
+  "spacingInches": null,
+  "native": false,
+  "nativeRegions": [],
+  "bloom": null,
+  "notes": "Picturesque salt-tolerant coastal pine",
+  "src": "https://plants.ces.ncsu.edu/plants/pinus-thunbergii/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_Black_Pine%2C_National_Garden%2C_Tokyo.jpg/330px-Japanese_Black_Pine%2C_National_Garden%2C_Tokyo.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_thunbergii"
+ },
+ {
+  "id": "larix-laricina",
+  "common": "Tamarack",
+  "botanical": "Larix laricina",
+  "category": "evergreen-tree",
+  "form": "deciduous",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   15,
+   30
+  ],
+  "heightFt": 60,
+  "sun": "full",
+  "water": "medium-wet",
+  "zones": [
+   2,
+   5
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Deciduous conifer; golden fall needles; bogs",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=284985",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2024-10-17_12_32_32_American_Larches-Tamaracks_changing_color_in_autumn_in_a_bog_near_Rensselaer_County_Route_42_%28Taborton_Road%29_in_Sand_Lake%2C_Rensselaer_County%2C_New_York.jpg/330px-thumbnail.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Larix_laricina"
+ },
+ {
+  "id": "pinus-resinosa",
+  "common": "Red Pine",
+  "botanical": "Pinus resinosa",
+  "category": "evergreen-tree",
+  "form": "evergreen",
+  "spreadFt": 22,
+  "spreadRangeFt": [
+   20,
+   25
+  ],
+  "heightFt": 65,
+  "sun": "full",
+  "water": "dry-medium",
+  "zones": [
+   2,
+   5
+  ],
+  "spacingInches": null,
+  "native": true,
+  "nativeRegions": [
+   "northeast",
+   "midwest"
+  ],
+  "bloom": null,
+  "notes": "Reddish plated bark; sandy soils; windbreaks",
+  "src": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285002",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pinus_resinosa.jpg/330px-Pinus_resinosa.jpg",
+  "imagePage": "https://en.wikipedia.org/wiki/Pinus_resinosa"
+ }
+]
